@@ -1,0 +1,28 @@
+---
+title: "UFW437DJ"
+type: pub
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-UFW437DJ" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Axner Ims, G. (2009). Et upublisert kapittel fra Svart bok. In E. Csato, G. Ims, J. Parslow, F. Thiesen, &amp; E. T&#xFC;rker (Eds.), <i>Turcological letters to Bernt Brendemoen</i> (pp. 235&#x2013;236). Novus Press, The Institute for Comparative Research in Human Culture.</div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-UFW437DJ" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2066313" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5402882/items/UFW437DJ" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+  </div>
+  <div id="csl-bib-meta-container-UFW437DJ"></div>
+</article>
+<div id="csl-bib-meta-UFW437DJ" class="csl-bib-meta">
+  <article id="taxonomy-article-UFW437DJ" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>Inland Norway University of Applied Sciences</li>
+      <li>Faculty of Education</li>
+      <li>Department of Scandinavian Languages and Literature</li>
+      <li>2022</li>
+      <li>October</li>
+    </ul>
+  </article>
+</div>

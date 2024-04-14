@@ -1,0 +1,12 @@
+.obsidian
+.RData
+.Rproj.user
+*.Rhistory
+.Renviron
+.RDatas
+storage/
+public/
+static/c2z4inn/
+resources/ 
+.Ruserdata
+.hugo_build.lock

@@ -1,0 +1,13 @@
+---
+headless: true
+---
+
+```{r knitrrrr, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%"
+)
+```
+
+`r params$html`

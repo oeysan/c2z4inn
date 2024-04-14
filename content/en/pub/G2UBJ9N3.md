@@ -1,0 +1,39 @@
+---
+title: "G2UBJ9N3"
+type: pub
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-G2UBJ9N3" class="csl-bib-container">
+  <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Andersson, M., Larsson, B. W., &amp; Persenius, M. (2019). Intensive care nurses fail to translate knowledge and skills into practice &#x2013; A mixed-methods study on perceptions of oral care. <i>Intensive and Critical Care Nursing</i>, <i>52</i>, 51&#x2013;60. <a href="https://doi.org/10.1016/j.iccn.2018.09.006">https://doi.org/10.1016/j.iccn.2018.09.006</a></div>
+</div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-G2UBJ9N3" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1657264" alt="Cristin URL" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5402882/items/G2UBJ9N3" alt="Zotero URL" class="csl-bib-button">Zotero</a>
+    <a href="#abstract-article-G2UBJ9N3" class="csl-bib-button">Abstract</a>
+    <a href="#sdg-article-G2UBJ9N3" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1016/j.iccn.2018.09.006" class="csl-bib-button">Unpaywall</a>
+  </div>
+  <div id="csl-bib-meta-container-G2UBJ9N3"></div>
+</article>
+<div id="csl-bib-meta-G2UBJ9N3" class="csl-bib-meta">
+  <article id="abstract-article-G2UBJ9N3" class="abstract-article">
+    <h1>Abstract</h1>
+    Objectives To identify intensive care nurses’ perceptions of oral care according to Coker et al.’s (2013) conceptual framework and to contribute to the knowledge base of oral care in intensive care. Design/methods This was a concurrent embedded mixed-methods design, with more weight given to the quantitative part. Participants responded to the Nursing Care related to Oral Health questionnaire, including perceptions of oral care antecedents (18 items), defining attributes (17 items), and consequences (6 items) and two open-ended questions. The data were analysed with descriptive and correlation statistics and qualitative content analysis. Setting Intensive care nurses (n = 88) in six general intensive care units. Results Intensive care nurses perceived that an important part of nursing care was oral care, especially to intubated patients. They perceived that the nursing staff was competent in oral care skills and had access to different kinds of equipment and supplies to provide oral care. The oral cavity was inspected on a daily basis, mostly without the use of any assessment instruments. Oral care seemed to be task-oriented, and documentation of the patients’ experiences of the oral care process was rare. Conclusions The antecedents, knowledge and skills are available to provide quality oral care, but intensive care nurses seem to have difficulties translating these components into practice. Thus they might have to shift their task-oriented approach towards oral care to a more person-centred approach in order to be able to meet patients’ needs.
+  </article>
+  <article id="sdg-article-G2UBJ9N3" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p> </div> </div></div>
+  </article>
+  <article id="taxonomy-article-G2UBJ9N3" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>Inland Norway University of Applied Sciences</li>
+      <li>Faculty of Social and Health Sciences</li>
+      <li>Department of Health and Nursing Sciences</li>
+      <li>2019</li>
+      <li>January</li>
+    </ul>
+  </article>
+</div>

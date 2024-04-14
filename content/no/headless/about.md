@@ -1,0 +1,28 @@
+---
+headless: true
+---
+
+
+
+
+
+# Om
+
+Denne nettsida fungerer som eit arkiv for vitskaplege publikasjonar ved 
+Høgskulen i Innlandet (registrert i Cristin frå institusjonen vart oppretta 1. 
+januar, 2017). Den vert oppdatert månadleg.
+
+Arkivet vart sist oppdatert **14.04.2024 (klokka 21:22)** og inneheld **0** publikasjonar.
+
+Bruk [arkivet](#archive) for å finne publikasjonar for fakultet og institutt ved 
+høgskulen for år eller månad. Du kan òg bruke søkefunksjonen til å finne 
+enkeltpublikasjonar ved bruk av til dømes forfattarnamn eller tittel.
+
+Estimat av dei 17 SN-måla for berekraftig utvikling (Agenda 2030) er basert på 
+tilgjengelege samandrag av publikasjonar og er utrekna ved hjelp av maskinlæring
+basert på ein språkmodell (LLM) og semantisk analyse. Modellen vil bli gjort tilgjengeleg
+etter at den har vore gjennom ein fagfelleprosess. 
+
+
+Sjå elles 
+[Zotero-biblioteket](https://www.zotero.org/groups/5022929/hinn/library).
