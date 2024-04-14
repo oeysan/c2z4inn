@@ -12,7 +12,8 @@ knitr::opts_chunk$set(
 
 ```{r chart, include=FALSE}
 updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
-n <- length(MdFiles("../content/en/pub/"))
+pub <-  readRDS(file.path(local.storage, sprintf("bibliography_%s.rds", "en")))
+n <- nrow(pub)
 ```
 
 # About

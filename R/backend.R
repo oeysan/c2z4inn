@@ -1441,9 +1441,6 @@ LibraryUpdate <- \(lang = "no", pages = TRUE) {
   # Create SDG overview
   SdgOverview(lang)
   
-  # Create about
-  About(lang)
-  
   # Create doughtnuts
   SdgDoughnut(lang)
   
@@ -1455,6 +1452,9 @@ LibraryUpdate <- \(lang = "no", pages = TRUE) {
   
   # Create stats
   CreateStats(lang)
+  
+  # Create about
+  About(lang)
   
   return (lib)
 
