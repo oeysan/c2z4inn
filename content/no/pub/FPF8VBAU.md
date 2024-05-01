@@ -29,7 +29,7 @@ type: pub
   </article>
   <article id="sdg-article-FPF8VBAU" class="sdg-article">
     <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=10#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-FPF8VBAU" class="taxonomy-article">
     <h1>Arkiv</h1>

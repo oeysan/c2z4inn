@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2031680" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/SF2GU68N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-SF2GU68N" class="csl-bib-button">Samandrag</a>
-    <a href="#sdg-article-SF2GU68N" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1007/978-3-031-17746-0_37" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-SF2GU68N"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-SF2GU68N" class="abstract-article">
     <h1>Samandrag</h1>
     Organizing digital sustainability reporting in organizations is a crucial in organizations facing the upcoming tsunami of sustainability reporting requirements. The aim of this paper is to apply the accounting perspective in the implementation of digital sustainability reporting in the current scene of Industry 5.0 era. Under Industry 4.0, the accounting perspective guided external financial reporting which is produced by Accounting Information System (AIS) and financial accounting modules in Enterprise Resource Planning (ERP) systems. This paper applies this accounting perspective of digital financial reporting to organize digital sustainability reporting in the same fashion. The novelty of this paper is excelling upon the prior accounting perspective of digital financial reporting to create a conceptual framework for the implementation of digital sustainability reporting. The framework for digital sustainability reporting is a first step in helping the accounting profession and sustainability management level in organizations in the implementation of digital sustainability reporting. The framework also opens the door for new research in accounting research.
-  </article>
-  <article id="sdg-article-SF2GU68N" class="sdg-article">
-    <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-SF2GU68N" class="taxonomy-article">
     <h1>Arkiv</h1>

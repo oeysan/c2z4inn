@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/KJTIUF98" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-KJTIUF98" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-KJTIUF98" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-KJTIUF98" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-KJTIUF98"></div>
 </article>
@@ -24,6 +25,10 @@ type: pub
   <article id="contributors-article-KJTIUF98" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Christina Sandhaug</h1> <h2>Instituttleder</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:christina.sandhaug@inn.no">christina.sandhaug@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762517673"> +47 62 51 76 73 </a></dd> <dt>Mobilnummer</dt> <dd><a href="tel:+4799293911"> +47 99 29 39 11 </a></dd> </dl> <p> Fakultet for lærerutdanning og pedagogikk<br> Institutt for engelsk<br> Studiested Hamar, Rom 2A119 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.79636,11.07506">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/christina-sandhaug.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/christina-sandhaug.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=18745" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-KJTIUF98" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div> <div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>94</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-KJTIUF98" class="taxonomy-article">
     <h1>Arkiv</h1>

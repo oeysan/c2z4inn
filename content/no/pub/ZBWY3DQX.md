@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1499350" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/ZBWY3DQX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-ZBWY3DQX" class="csl-bib-button">Samandrag</a>
-    <a href="#sdg-article-ZBWY3DQX" class="csl-bib-button">Berekraftsmål</a>
     <a href="http://viewjournal.eu//articles/10.18146/2213-0969.2017.jethc123/galley/31/download/" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZBWY3DQX"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-ZBWY3DQX" class="abstract-article">
     <h1>Samandrag</h1>
     This article investigates the historical development of one of the most successful television production companies in Norway, Rubicon TV, focusing on its changing leaders, their mission statements and programme portfolios. Based on primary historical documents, the article shows how the various CEOs of the company have consistently argued that television is not a ‘window to the world’, but a harmless medium for light, engaging entertainment. This understanding was originally a reaction to the perceived elitism and paternalism of public service television, allowing the company leaders moral leeway to produce provocative and innovative programmes that came to change the Norwegian television landscape.
-  </article>
-  <article id="sdg-article-ZBWY3DQX" class="sdg-article">
-    <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-ZBWY3DQX" class="taxonomy-article">
     <h1>Arkiv</h1>

@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/UJA5PSRV" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-UJA5PSRV" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-UJA5PSRV" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-UJA5PSRV" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E25CDBF3A37CEC821B635DA9992256DC/S193578932300068Xa.pdf/div-class-title-assessing-firefighters-tourniquet-skill-attainment-and-retention-a-controlled-simulation-based-experiment-div.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-UJA5PSRV"></div>
@@ -25,6 +26,10 @@ type: pub
   <article id="contributors-article-UJA5PSRV" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Inger Lund-Kordahl</h1> <h2>Førsteamanuensis</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:inger.lundkordahl@inn.no">inger.lundkordahl@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762430179"> +47 62 43 01 79 </a></dd> </dl> <p> Handelshøgskolen Innlandet – Fakultet for økonomi og samfunnsvitenskap<br> Institutt for organisasjon, ledelse, styring<br> Studiested Rena, Rom 3Ø013 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=61.13620,11.37454">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/inger-lundkordahl.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/inger-lundkordahl.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=4366" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-UJA5PSRV" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-UJA5PSRV" class="taxonomy-article">
     <h1>Arkiv</h1>

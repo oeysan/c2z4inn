@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/ST2D7ZSC" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-ST2D7ZSC" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-ST2D7ZSC" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-ST2D7ZSC" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01233/pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ST2D7ZSC"></div>
@@ -25,6 +26,10 @@ type: pub
   <article id="contributors-article-ST2D7ZSC" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Giovanna Calogiuri</h1> <h2>Professor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:giovanna.calogiuri@inn.no">giovanna.calogiuri@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762430245"> +47 62 43 02 45 </a></dd> </dl> <p> Fakultet for helse- og sosialvitenskap<br> Seksjon for folkehelse<br> Studiested Elverum, Rom 4L3335 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.88177,11.53669">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/giovanna-calogiuri.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/giovanna-calogiuri.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=358086" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-ST2D7ZSC" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-ST2D7ZSC" class="taxonomy-article">
     <h1>Arkiv</h1>

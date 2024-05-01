@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/NBWWUUQS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-NBWWUUQS" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-NBWWUUQS" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-NBWWUUQS" class="csl-bib-button">Berekraftsmål</a>
   </div>
   <div id="csl-bib-meta-container-NBWWUUQS"></div>
 </article>
@@ -24,6 +25,10 @@ type: pub
   <article id="contributors-article-NBWWUUQS" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Victoria Slettli</h1> <h2>Førsteamanuensis</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:victoria.slettli@inn.no">victoria.slettli@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762430415"> +47 62 43 04 15 </a></dd> </dl> <p> Handelshøgskolen Innlandet – Fakultet for økonomi og samfunnsvitenskap<br> Institutt for organisasjon, ledelse, styring<br> Studiested Rena, Rom 3Ø127 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=61.13620,11.37454">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/victoria-slettli.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/victoria-slettli.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=320594" alt="Cristin URL" class="personas-cristin">Cristin</a> </div> <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Arvind Singhal</h1> <h2>Professor II</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:arvind.singhal@inn.no">arvind.singhal@inn.no</a> </dd> </dl> <p> Handelshøgskolen Innlandet – Fakultet for økonomi og samfunnsvitenskap<br> Institutt for organisasjon, ledelse, styring<br> Studiested Rena </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/finn-en-ansatt/arvind-singhal.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/arvind-singhal.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=863653" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-NBWWUUQS" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div> <div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>94</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-NBWWUUQS" class="taxonomy-article">
     <h1>Arkiv</h1>

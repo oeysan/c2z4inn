@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2127967" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/BATURV4F" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-BATURV4F" class="csl-bib-button">Abstract</a>
-    <a href="#sdg-article-BATURV4F" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1080/13668803.2022.2157248" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-BATURV4F"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-BATURV4F" class="abstract-article">
     <h1>Abstract</h1>
     This qualitative study identified the values of 26 Dutch dual-earnerfathers underlying their actual division of paid and unpaid work,and the role work decisions favoring their family, referred to asFamily Relatedness of Work Decisions (FRWD), and receivedpartner support played in realizing these values. We used thecapability approach as theoretical framework to compareindividuals on the kind of lives they value, and what constrains orenables them herein. Results showed different patterns in what isvalued related to fathers’paid workhours.Work-oriented fathersprimarily valued income provision and received substantialpartner support in caregiving and housework.Work–family fathersvalued gender-equality in the division of labor with support fromtheir partners both in earning and caregiving.Family–workfathers’lack of substantially paid work hampered them inrealizing their valued equal division of labor. Our resultsillustrated that fathers’values shaped their time-allocation in paidand unpaid work, in synergy with FRWD and received partnersupport. Moreover, FRWD were more closely related to fathers’values than to their employment type. We conclude that partnersupport needs to be incorporated into the FRWD framework.
-  </article>
-  <article id="sdg-article-BATURV4F" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-BATURV4F" class="taxonomy-article">
     <h1>Archive</h1>

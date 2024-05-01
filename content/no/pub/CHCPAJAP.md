@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/CHCPAJAP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-CHCPAJAP" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-CHCPAJAP" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-CHCPAJAP" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/03004430.2023.2247188?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CHCPAJAP"></div>
@@ -25,6 +26,10 @@ type: pub
   <article id="contributors-article-CHCPAJAP" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>May Britt Drugli</h1> <h2>Professor II</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:may.drugli@inn.no">may.drugli@inn.no</a> </dd> </dl> <p> Fakultet for lærerutdanning og pedagogikk<br> Senter for praksisrettet utdanningsforskning<br> Studiested Hamar, Rom 2M34-3 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.79582,11.07304">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/may-drugli.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/may-drugli.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=29493" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-CHCPAJAP" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div> <div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>94</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-CHCPAJAP" class="taxonomy-article">
     <h1>Arkiv</h1>

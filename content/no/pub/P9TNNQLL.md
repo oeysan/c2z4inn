@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1585936" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/P9TNNQLL" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-P9TNNQLL" class="csl-bib-button">Samandrag</a>
-    <a href="#sdg-article-P9TNNQLL" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1467-8489.2004.00239.x" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-P9TNNQLL"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-P9TNNQLL" class="abstract-article">
     <h1>Samandrag</h1>
     A method of stochastic dominance analysis with respect to a function (SDRF) is described and illustrated. The method, called stochastic efficiency with respect to a function (SERF), orders a set of risky alternatives in terms of certainty equivalents for a specified range of attitudes to risk. It can be applied for conforming utility functions with risk attitudes defined by corresponding ranges of absolute, relative or partial risk aversion coefficients. Unlike conventional SDRF, SERF involves comparing each alternative with all the other alternatives simultaneously, not pairwise, and hence can produce a smaller efficient set than that found by simple pairwise SDRF over the same range of risk attitudes. Moreover, the method can be implemented in a simple spreadsheet with no special software needed.
-  </article>
-  <article id="sdg-article-P9TNNQLL" class="sdg-article">
-    <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-P9TNNQLL" class="taxonomy-article">
     <h1>Arkiv</h1>

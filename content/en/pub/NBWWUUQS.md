@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/NBWWUUQS" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-NBWWUUQS" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-NBWWUUQS" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-NBWWUUQS" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-NBWWUUQS"></div>
 </article>
@@ -24,6 +25,10 @@ type: pub
   <article id="contributors-article-NBWWUUQS" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Victoria Slettli</h1> <h2>Associate Professor</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:victoria.slettli@inn.no">victoria.slettli@inn.no</a> </dd> <dt>Phone number</dt> <dd><a href="tel:+4762430415"> +47 62 43 04 15 </a></dd> </dl> <p> Inland School of Business and Social Sciences<br> Department of Organisation, Leadership and Management<br> Campus Rena, Room 3Ø127 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=61.13620,11.37454">Show on map</a></li> <li><a href="https://www.inn.no/english/find-an-employee/victoria-slettli.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/victoria-slettli.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=320594" alt="Cristin URL" class="personas-cristin">Cristin</a> </div> <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Arvind Singhal</h1> <h2>Professor II</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:arvind.singhal@inn.no">arvind.singhal@inn.no</a> </dd> </dl> <p> Inland School of Business and Social Sciences<br> Department of Organisation, Leadership and Management<br> Campus Rena </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/english/find-an-employee/arvind-singhal.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/arvind-singhal.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=863653" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-NBWWUUQS" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>94</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-NBWWUUQS" class="taxonomy-article">
     <h1>Archive</h1>

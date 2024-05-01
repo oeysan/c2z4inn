@@ -28,7 +28,7 @@ type: pub
   </article>
   <article id="sdg-article-MU22FE7S" class="sdg-article">
     <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div> <div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>107</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div> <div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>830</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-MU22FE7S" class="taxonomy-article">
     <h1>Arkiv</h1>

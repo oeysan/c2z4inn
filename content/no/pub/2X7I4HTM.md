@@ -23,7 +23,7 @@ type: pub
   </article>
   <article id="sdg-article-2X7I4HTM" class="sdg-article">
     <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=1#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="https://www.fn.no" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-2X7I4HTM" class="taxonomy-article">
     <h1>Arkiv</h1>

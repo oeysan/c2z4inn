@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/WFSQ6RPT" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-WFSQ6RPT" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WFSQ6RPT" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-WFSQ6RPT" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.sjweh.fi/download.php?abstract_id=2250&amp;file_nro=1" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WFSQ6RPT"></div>
@@ -25,6 +26,10 @@ type: pub
   <article id="contributors-article-WFSQ6RPT" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Knut Ragnvald Skulberg</h1> <h2>Associate Professor</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:knut.skulberg@inn.no">knut.skulberg@inn.no</a> </dd> <dt>Phone number</dt> <dd><a href="tel:+4762430214"> +47 62 43 02 14 </a></dd> <dt>Mobile number</dt> <dd><a href="tel:+4790143164"> +47 90 14 31 64 </a></dd> </dl> <p> Faculty of Social and Health Sciences<br> Section for Public Health<br> Campus Elverum, Room 4L3202 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.88177,11.53669">Show on map</a></li> <li><a href="https://www.inn.no/english/find-an-employee/knut-skulberg.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/knut-skulberg.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=9616" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-WFSQ6RPT" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-WFSQ6RPT" class="taxonomy-article">
     <h1>Archive</h1>

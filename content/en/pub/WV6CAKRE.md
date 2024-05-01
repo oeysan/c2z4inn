@@ -13,7 +13,6 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/WV6CAKRE" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-WV6CAKRE" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-WV6CAKRE" class="csl-bib-button">Contributors</a>
-    <a href="#sdg-article-WV6CAKRE" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://link.springer.com/content/pdf/10.1007/s10113-022-01881-8.pdf" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WV6CAKRE"></div>
@@ -26,10 +25,6 @@ type: pub
   <article id="contributors-article-WV6CAKRE" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Per Krister Angelstam</h1> <h2>Professor</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:per.angelstam@inn.no">per.angelstam@inn.no</a> </dd> </dl> <p> Faculty of Applied Ecology, Agricultural Sciences and Biotechnology<br> Department of Forestry and Wildlife Management<br> Campus Evenstad </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/english/find-an-employee/per-angelstam.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/per-angelstam.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=1318014" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
-  </article>
-  <article id="sdg-article-WV6CAKRE" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>107</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>830</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-WV6CAKRE" class="taxonomy-article">
     <h1>Archive</h1>

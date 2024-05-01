@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1516084" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/WYBT26SM" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-WYBT26SM" class="csl-bib-button">Abstract</a>
-    <a href="#sdg-article-WYBT26SM" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="http://www.sjwop.com/articles/10.16993/sjwop.31/galley/31/download/" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-WYBT26SM"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-WYBT26SM" class="abstract-article">
     <h1>Abstract</h1>
     The purpose was to explore the relationship and mediation effects between the Big Five personality dimensions, and political skill with military staff members’ perceived performance. The sample included 185 Armed Forces International staff members from several military education facilities. The results indicated that the PSI and several personality dimensions were positively correlated with individuals’ perceived performance. In addition, the personality dimension Conscientiousness acted as a statistically significant mediator between an individual’s use of political skills and their perceived performance. Practical considerations and future research directions are suggested.
-  </article>
-  <article id="sdg-article-WYBT26SM" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-WYBT26SM" class="taxonomy-article">
     <h1>Archive</h1>

@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/CHCPAJAP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-CHCPAJAP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-CHCPAJAP" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-CHCPAJAP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/03004430.2023.2247188?needAccess=true&amp;role=button" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CHCPAJAP"></div>
@@ -25,6 +26,10 @@ type: pub
   <article id="contributors-article-CHCPAJAP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>May Britt Drugli</h1> <h2>Professor II</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:may.drugli@inn.no">may.drugli@inn.no</a> </dd> </dl> <p> Faculty of education<br> The Centre for Studies of Educational Practice<br> Campus Hamar, Room 2M34-3 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.79582,11.07304">Show on map</a></li> <li><a href="https://www.inn.no/english/find-an-employee/may-drugli.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/may-drugli.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=29493" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-CHCPAJAP" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>94</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-CHCPAJAP" class="taxonomy-article">
     <h1>Archive</h1>

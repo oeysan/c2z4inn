@@ -29,7 +29,7 @@ type: pub
   </article>
   <article id="sdg-article-GNXN9GA6" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-GNXN9GA6" class="taxonomy-article">
     <h1>Archive</h1>

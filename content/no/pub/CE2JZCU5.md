@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1914019" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/CE2JZCU5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-CE2JZCU5" class="csl-bib-button">Samandrag</a>
-    <a href="#sdg-article-CE2JZCU5" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://europepmc.org/articles/pmc307915?pdf=render" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-CE2JZCU5"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-CE2JZCU5" class="abstract-article">
     <h1>Samandrag</h1>
     In human cells at least 20 different proteins or groups of proteins have been identified that are associated with hnRNAs. These proteins (designated A1-U) are highly abundant in the nucleus. In this study, we present the sequence of a novel cDNA clone, sub2.3, isolated from a human lymphocyte cDNA library. The predicted amino acid sequence shows homology to repeated domains in the human hnRNA binding protein K (hnRNP K), which are believed to be of functional importance. hnRNP K is among the major oligo(rC/dC) binding proteins in vertebrate cells and we show here that the protein product of sub2.3 also binds to oligo(dC). This is shown by a novel approach where we demonstrated specific binding of in vitro translated sub2.3 protein to biotinylated oligo(dC) which was immobilized on magnetic streptavidin-coated Dynabeads. Moreover we found that the sub2.3 transcript is expressed in a tissue dependent manner with the highest expression observed in several lymphoid tissues and skeletal muscle. The gene was also abundantly expressed in several lymphoid cell lines and the hepatoma cell line HepG2 while a low expression was observed in the HL60 myeloid cell line and in the HeLa cervical carcinoma cell line. In conclusion, this study presents the cDNA sequence of a novel transcript which shows tissue specific expression and encodes a protein with oligo(dC) binding specificity in vitro.
-  </article>
-  <article id="sdg-article-CE2JZCU5" class="sdg-article">
-    <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-CE2JZCU5" class="taxonomy-article">
     <h1>Arkiv</h1>

@@ -15,7 +15,7 @@ headless: true
             {
                 "label": "Mål 1: Utrydde fattigdom",
                 "data": [
-                    1,
+                    0,
                     4,
                     1,
                     1
@@ -125,7 +125,7 @@ headless: true
             {
                 "label": "Mål 11: Berekraftig byar og lokalsamfunn",
                 "data": [
-                    6,
+                    5,
                     43,
                     53,
                     95
@@ -169,7 +169,7 @@ headless: true
             {
                 "label": "Mål 15: Livet på land",
                 "data": [
-                    406,
+                    405,
                     3,
                     3,
                     26

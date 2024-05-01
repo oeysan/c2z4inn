@@ -13,6 +13,7 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/M7FBS6E8" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-M7FBS6E8" class="csl-bib-button">Samandrag</a>
     <a href="#contributors-article-M7FBS6E8" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-M7FBS6E8" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://journals.sagepub.com/doi/pdf/10.1177/09697764211028884" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-M7FBS6E8"></div>
@@ -25,6 +26,10 @@ type: pub
   <article id="contributors-article-M7FBS6E8" class="contributors-article">
     <h1>Medverkande</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Markus Grillitsch</h1> <h2>Førsteamanuensis II</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:markus.grillitsch@inn.no">markus.grillitsch@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762517800"> +47 62 51 78 00 </a></dd> </dl> <p> Handelshøgskolen Innlandet – Fakultet for økonomi og samfunnsvitenskap<br> Institutt for økonomifag<br> Studiested Lillehammer </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/finn-en-ansatt/markus-grillitsch.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/markus-grillitsch.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=1318006" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-M7FBS6E8" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-M7FBS6E8" class="taxonomy-article">
     <h1>Arkiv</h1>

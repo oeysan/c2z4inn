@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1956640" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/KJ4RWH2C" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-KJ4RWH2C" class="csl-bib-button">Samandrag</a>
+    <a href="#sdg-article-KJ4RWH2C" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.3366/iur.2021.0516" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-KJ4RWH2C"></div>
@@ -20,6 +21,10 @@ type: pub
   <article id="abstract-article-KJ4RWH2C" class="abstract-article">
     <h1>Samandrag</h1>
     This article examines a series of poems by Irish authors, and focuses on their engagement with human rights violations and conflicts through the metaphors and imagery of flight and the aerial view. It argues that these poems address the need for a shift away from the perspective of a defined, distinct human subject, and towards a posthumanist framework which emphasizes relational, situated, and embodied ethics and aesthetics in an interconnected world. Since the introduction of modern aviation, Irish poets have frequently employed the imagery of flying to consider poetry's role in relation to conflict and crisis. Here, the adoption of visual and material metaphors of flight and aerial travel in human rights contexts is discussed, particularly in poems by Seamus Heaney, Peter Sirr and Justin Quinn. Through a reimagined poetics of flight, these poets question established dichotomies between proximity and distance, and material embodiment and disembodied abstraction
+  </article>
+  <article id="sdg-article-KJ4RWH2C" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-KJ4RWH2C" class="taxonomy-article">
     <h1>Arkiv</h1>

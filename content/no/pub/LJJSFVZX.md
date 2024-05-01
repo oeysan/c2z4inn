@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1862818" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/LJJSFVZX" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-LJJSFVZX" class="csl-bib-button">Samandrag</a>
-    <a href="#sdg-article-LJJSFVZX" class="csl-bib-button">Berekraftsmål</a>
     <a href="https://doi.org/10.1080/10286632.2020.1860030" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-LJJSFVZX"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-LJJSFVZX" class="abstract-article">
     <h1>Samandrag</h1>
     Streaming services have emerged as increasingly important access points for cultural content, often promising, as Netflix does, ‘unlimited entertainment’. However, the actual conditions of availability remain under-examined. While streaming services typically contain a vast selection of objects, they certainly do not hold the total amount of all possible items. Streaming services thus pose new challenges for policymakers who wish to ensure access to, and availability of culture. In this paper, we build on previous research to develop the term ‘contingent availability’ and discuss how cultural items are made available in streaming contexts. Departing from a pyramid model of availability, we investigate these levels empirically through a case-based approach. Nine Norwegian award-winning or critically acclaimed books, movies and TV series were strategically selected to highlight how availability in streaming services is contingent upon multiple conditions. For each case, we assess the ways in which Norwegian cultural policy influences production, distribution and availability of culture. We discuss how cultural policy measures do secure availability for most of the cases, but is unable to effectively combat fragmentation of availability.
-  </article>
-  <article id="sdg-article-LJJSFVZX" class="sdg-article">
-    <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>5</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-LJJSFVZX" class="taxonomy-article">
     <h1>Arkiv</h1>

@@ -13,7 +13,6 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/A67SYW6J" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-A67SYW6J" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-A67SYW6J" class="csl-bib-button">Contributors</a>
-    <a href="#sdg-article-A67SYW6J" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-A67SYW6J"></div>
 </article>
@@ -25,10 +24,6 @@ type: pub
   <article id="contributors-article-A67SYW6J" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Arvind Singhal</h1> <h2>Professor II</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:arvind.singhal@inn.no">arvind.singhal@inn.no</a> </dd> </dl> <p> Inland School of Business and Social Sciences<br> Department of Organisation, Leadership and Management<br> Campus Rena </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/english/find-an-employee/arvind-singhal.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/arvind-singhal.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=863653" alt="Cristin URL" class="personas-cristin">Cristin</a> </div> <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <img src="https://www.inn.no/bilder-ansatte/peer-jacob-svenkerud.jpg" alt="Peer Jacob Svenkerud" loading="lazy"><div class="pressPhoto"> <a href="https://www.inn.no/pressebilder-ansatte/peer-jacob-svenkerud.jpg" target="_blank"> Press Photo </a> </div> </div> <div class="info"> <hgroup><h1>Peer Jacob Svenkerud</h1> <h2>Rector</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:peer.svenkerud@inn.no">peer.svenkerud@inn.no</a> </dd> <dt>Phone number</dt> <dd><a href="tel:+4762430406"> +47 62 43 04 06 </a></dd> <dt>Mobile number</dt> <dd><a href="tel:+4791554368"> +47 91 55 43 68 </a></dd> </dl> <p> Inland Norway University of Applied Sciences<br> Campus Elverum, Room 4A3732 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.88065,11.53734">Show on map</a></li> <li><a href="https://www.inn.no/english/find-an-employee/peer-svenkerud.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/peer-svenkerud.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=559002" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
-  </article>
-  <article id="sdg-article-A67SYW6J" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-A67SYW6J" class="taxonomy-article">
     <h1>Archive</h1>

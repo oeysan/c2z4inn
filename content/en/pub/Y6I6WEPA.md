@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1747571" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/Y6I6WEPA" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-Y6I6WEPA" class="csl-bib-button">Abstract</a>
+    <a href="#sdg-article-Y6I6WEPA" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1111/fwb.13405" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-Y6I6WEPA"></div>
@@ -20,6 +21,10 @@ type: pub
   <article id="abstract-article-Y6I6WEPA" class="abstract-article">
     <h1>Abstract</h1>
     This is the peer reviewed version of the following article: "Circumpolar patterns of Arctic freshwater fish biodiversity: A baseline for monitoring", which has been published in final form at https://doi.org/10.1111/fwb.13405. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions
+  </article>
+  <article id="sdg-article-Y6I6WEPA" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-Y6I6WEPA" class="taxonomy-article">
     <h1>Archive</h1>

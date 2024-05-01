@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1502133" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/4CGQ2M5T" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-4CGQ2M5T" class="csl-bib-button">Abstract</a>
+    <a href="#sdg-article-4CGQ2M5T" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1108/ijotb-20-03-2017-b002" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-4CGQ2M5T"></div>
@@ -20,6 +21,10 @@ type: pub
   <article id="abstract-article-4CGQ2M5T" class="abstract-article">
     <h1>Abstract</h1>
     The aim was to explore the existing literature on emotion and strategic leadership in a systematic review and to synthesize it into a theoretical model. A literature review on emotion in connection to strategic leadership was undertaken. After adhering to the search strategy and exclusion criteria, 46 peer-reviewed texts consisting of articles and relevant book chapters remained. The texts were analyzed according to the grounded theory method (GTM) to generate a new theoretical model and a core variable was identified, organizational emotion shaping. The model attempts to show how the interaction of individual and organizational framing factors with the strategic leader's tasks and challenges lead to emotion shaping internal and external of the organization. Suggestions for future research were formed and suggestions of practical implications were given. This literature review and theoretical integration offers a starting point for potential areas of further exploration
+  </article>
+  <article id="sdg-article-4CGQ2M5T" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-4CGQ2M5T" class="taxonomy-article">
     <h1>Archive</h1>

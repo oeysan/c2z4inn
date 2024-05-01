@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2050294" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/NGXN8A4Z" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-NGXN8A4Z" class="csl-bib-button">Abstract</a>
-    <a href="#sdg-article-NGXN8A4Z" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1016/j.ejor.2022.03.051" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-NGXN8A4Z"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-NGXN8A4Z" class="abstract-article">
     <h1>Abstract</h1>
     This study analyzes the effects of farmers’ risk on productivity where the production function is generalized to be specific to risk variables. This resulted in a semiparametric smooth-coefficient (SPSC) production function. The novelty of the SPSC approach is that it can explain the direct and indirect channels through which risk can affect productivity. The study uses several measures of risk, including attitudes toward risk, perceptions of risk, and risk management skills of farmers. It then shows how these risk-related variables affect productivity both directly and indirectly via the inputs. Using 2015 farm-level data from organic basmati rice (OBR) smallholders in India, the study finds that OBR farmers with high degrees of risk aversion had lower productivity than less risk-averse or risk-neutral OBR farmers. Additionally, OBR farmers who were most concerned about production risks (i.e., weather and pest risks) had higher productivity than their counterparts. Finally, the study reveals that OBR farmers can reduce production costs by increasing farm size.
-  </article>
-  <article id="sdg-article-NGXN8A4Z" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>107</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-NGXN8A4Z" class="taxonomy-article">
     <h1>Archive</h1>

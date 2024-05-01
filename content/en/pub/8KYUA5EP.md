@@ -13,7 +13,6 @@ type: pub
     <a href="http://zotero.org/groups/5402882/items/8KYUA5EP" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-8KYUA5EP" class="csl-bib-button">Abstract</a>
     <a href="#contributors-article-8KYUA5EP" class="csl-bib-button">Contributors</a>
-    <a href="#sdg-article-8KYUA5EP" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.2230" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-8KYUA5EP"></div>
@@ -26,10 +25,6 @@ type: pub
   <article id="contributors-article-8KYUA5EP" class="contributors-article">
     <h1>Contributors</h1>
     <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Karen Marie Mathisen</h1> <h2>Associate Professor</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:karen.mathisen@inn.no">karen.mathisen@inn.no</a> </dd> <dt>Phone number</dt> <dd><a href="tel:+4762430893"> +47 62 43 08 93 </a></dd> </dl> <p> Faculty of Applied Ecology, Agricultural Sciences and Biotechnology<br> Department of Forestry and Wildlife Management<br> Campus Evenstad, Room 6N204 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=61.42516,11.07813">Show on map</a></li> <li><a href="https://www.inn.no/english/find-an-employee/karen-mathisen.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/karen-mathisen.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=328273" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
-  </article>
-  <article id="sdg-article-8KYUA5EP" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-8KYUA5EP" class="taxonomy-article">
     <h1>Archive</h1>

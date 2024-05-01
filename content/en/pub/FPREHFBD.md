@@ -12,6 +12,7 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=1811262" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/FPREHFBD" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-FPREHFBD" class="csl-bib-button">Abstract</a>
+    <a href="#sdg-article-FPREHFBD" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://www.tandfonline.com/doi/pdf/10.1080/15022250.2020.1766560?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FPREHFBD"></div>
@@ -20,6 +21,10 @@ type: pub
   <article id="abstract-article-FPREHFBD" class="abstract-article">
     <h1>Abstract</h1>
     In the dawn of the Anthropocene, it is imperative to identify methods to challenge philosophies of researching upon others and nature and instead identify means of researching with. This paper explores the use of go-along methods in complex and dynamic nature-based tourism settings. Specifically, it re-orients attention towards the collaborative and participatory processes involved when “walking the talking” of go-along methods. Based on 35 highly diverse go-alongs from the westernmost and easternmost parts of Denmark, we illuminate challenging dimensions of go-along methods. Inherent shifts towards participant led ways of engaging with nature force researchers to navigate with others as led along by others through literal and figurative unknown terrains of nature, sociality, (dis)empowerment and embodiment. Go-alongs as a co-navigating and co-learning endeavor is more than the sum of walking and talking as we continuously relate to self, others and nature. Accordingly, we coin being-along as the social and bodily navigation of unknown terrains with others. Findings suggest tourism researchers are still to seize the opportunities of go-along methods and propose a cultivation of more caring, emphatic and attentive ways of engaging with others on which go-along methods thrive.
+  </article>
+  <article id="sdg-article-FPREHFBD" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-FPREHFBD" class="taxonomy-article">
     <h1>Archive</h1>

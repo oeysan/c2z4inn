@@ -23,7 +23,7 @@ type: pub
   </article>
   <article id="sdg-article-7FVAXSMN" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>94</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div> <div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>850</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-7FVAXSMN" class="taxonomy-article">
     <h1>Archive</h1>

@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2026337" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/IPIMT93X" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-IPIMT93X" class="csl-bib-button">Abstract</a>
-    <a href="#sdg-article-IPIMT93X" class="csl-bib-button">Sustainable Development Goals</a>
     <a href="https://doi.org/10.1016/j.iref.2022.02.028" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-IPIMT93X"></div>
@@ -21,10 +20,6 @@ type: pub
   <article id="abstract-article-IPIMT93X" class="abstract-article">
     <h1>Abstract</h1>
     The purpose of this paper is to examine the connected dynamics of the affected Asian financial markets and global financial market in relation to the outbreak of the coronavirus (COVID-19) pandemic. We particularly examine the temporal dependence and connectedness of the affected markets with the global financial market by using the time-varying dependence approach in a time-frequency space under COVID-19. Our findings indicate a strong, positive dependence among the investigated markets’ due to the outbreak of COVID-19. In addition, we report an increased tendency of co-movements over the higher horizon which is documented by COVID-19. These findings are of significant interest for market participants, policymakers, and international investors.
-  </article>
-  <article id="sdg-article-IPIMT93X" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-IPIMT93X" class="taxonomy-article">
     <h1>Archive</h1>

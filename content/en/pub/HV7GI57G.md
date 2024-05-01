@@ -12,7 +12,6 @@ type: pub
     <a href="https://app.cristin.no/results/show.jsf?id=2121706" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/HV7GI57G" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#abstract-article-HV7GI57G" class="csl-bib-button">Abstract</a>
-    <a href="#sdg-article-HV7GI57G" class="csl-bib-button">Sustainable Development Goals</a>
   </div>
   <div id="csl-bib-meta-container-HV7GI57G"></div>
 </article>
@@ -20,10 +19,6 @@ type: pub
   <article id="abstract-article-HV7GI57G" class="abstract-article">
     <h1>Abstract</h1>
     Det er et uttalt politisk ønske at norske kommuner skal samarbeide med sosiale entreprenører slik at ressursene i velferdssamfunnet utnyttes bedre. Det har vist seg langt enklere å ønske slike samarbeid enn å få det til i praksis. Artikkelen bygger på en empirisk dybdestudie. Den utforsker hvilke tankemønstre som er i spill når kommunale aktører og sosiale entreprenører forsøker å samarbeide om nye velferdstiltak for barn og unge. Teoretisk omdreiningspunkt er samarbeidsdrevet innovasjon. Analysen viser at ulike tankemønstre ble fremhevet som positivt for nytenkning, men også som hovedårsak til at samarbeidene stoppet etter pilotering. Et viktig funn er at ulike tankemønstre kombinert med ulike institusjonelle rammebetingelser gjør det vanskelig å bli enige om nye velferdsløsninger. Artikkelen drøfter hvorvidt ulike tankemønstre og institusjonelle rammebetingelser kan forenes for å realisere samarbeidsdrevet innovasjon.
-  </article>
-  <article id="sdg-article-HV7GI57G" class="sdg-article">
-    <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-HV7GI57G" class="taxonomy-article">
     <h1>Archive</h1>
