@@ -4,8 +4,8 @@ headless: true
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=AA5IEJ67">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for helse- og sosialvitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">1187</span></p>
-<p>Berekraftsmål: <span class="stats-n">1006</span></p>
+<p>Publikasjonar: <span class="stats-n">1208</span></p>
+<p>Berekraftsmål: <span class="stats-n">1051</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -32,21 +32,21 @@ headless: true
                     16.25,
                     14.6667,
                     13.1667,
-                    23.3333
+                    22.75
                 ],
                 "borderRadius": 0
             },
             {
                 "label": "Berekraftsmål",
                 "data": [
-                    9.25,
-                    8.25,
-                    11,
-                    11.4167,
-                    15.5,
-                    13,
-                    12.0833,
-                    13.3333
+                    10,
+                    8.5833,
+                    10.6667,
+                    12.25,
+                    15.8333,
+                    13.4167,
+                    12.6667,
+                    12.5
                 ],
                 "borderRadius": 0
             }
@@ -120,20 +120,20 @@ headless: true
             {
                 "label": "Publikasjonar",
                 "data": [
-                    3,
                     4,
-                    624,
-                    165,
-                    29,
+                    6,
+                    641,
+                    171,
+                    33,
                     3,
-                    27,
-                    21,
-                    44,
+                    23,
+                    30,
+                    43,
                     1,
-                    1,
-                    4,
-                    76,
-                    4
+                    3,
+                    3,
+                    88,
+                    2
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",
@@ -208,5 +208,5 @@ headless: true
 {{< /chart >}}</div>
 </div>
 <div id="sdg-overview">
-  <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>624</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>165</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>76</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>44</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=5&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>29</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=10&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>21</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=2&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>4</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=15&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>4</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=17&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>4</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=1&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>3</span> Publikasjonar</a> <p><a href="https://www.fn.no" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg6" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=6&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>3</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=12&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg13" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=13&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+  <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>641</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>171</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>88</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>43</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=5&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>33</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=10&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>30</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>23</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=2&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=1&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>4</span> Publikasjonar</a> <p><a href="https://www.fn.no" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg6" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg06_no.png" class="image" alt="SDG 6"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=6&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>3</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg13" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=13&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>3</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=15&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>3</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=17&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>2</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=12&collection=AA5IEJ67#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
 </div>

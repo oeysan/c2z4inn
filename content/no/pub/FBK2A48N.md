@@ -5,13 +5,14 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-FBK2A48N" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">M&#xE6;lan, E. N., &amp; Fjeld, W. (2024). Barnehagel&#xE6;rere og l&#xE6;reres kompetanse i helhetlig seksualitetsveiledning og -undervisning. <i>Norsk pedagogisk tidsskrift</i>, <i>1</i>, 15.</div>
+  <div class="csl-entry">M&#xE6;lan, E. N., &amp; Fjeld, W. (2024). Barnehagel&#xE6;rere og l&#xE6;reres kompetanse i helhetlig seksualitetsveiledning og -undervisning. <i>Norsk pedagogisk tidsskrift</i>, <i>108</i>(1), 65&#x2013;77. <a href="https://doi.org/10.18261/npt.108.1.7">https://doi.org/10.18261/npt.108.1.7</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-FBK2A48N" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2243601" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/FBK2A48N" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-FBK2A48N" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.18261/npt.108.1.7" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-FBK2A48N"></div>
 </article>

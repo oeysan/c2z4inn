@@ -16,8 +16,8 @@ headless: true
                 "label": "Mål 1: Utrydde fattigdom",
                 "data": [
                     1,
-                    3,
-                    0,
+                    4,
+                    1,
                     1
                 ],
                 "backgroundColor": "rgba(229, 36, 59, 1)",
@@ -26,10 +26,10 @@ headless: true
             {
                 "label": "Mål 2: Utrydde svolt",
                 "data": [
-                    84,
-                    4,
+                    68,
+                    6,
                     0,
-                    18
+                    19
                 ],
                 "backgroundColor": "rgba(221, 166, 58, 1)",
                 "borderRadius": 0
@@ -37,10 +37,10 @@ headless: true
             {
                 "label": "Mål 3: Gode helse og livskvalitet",
                 "data": [
-                    63,
-                    624,
+                    65,
+                    641,
                     27,
-                    125
+                    130
                 ],
                 "backgroundColor": "rgba(76, 159, 56, 1)",
                 "borderRadius": 0
@@ -48,10 +48,10 @@ headless: true
             {
                 "label": "Mål 4: God utdanning",
                 "data": [
-                    7,
-                    165,
-                    422,
-                    77
+                    6,
+                    171,
+                    433,
+                    91
                 ],
                 "backgroundColor": "rgba(197, 25, 45, 1)",
                 "borderRadius": 0
@@ -60,8 +60,8 @@ headless: true
                 "label": "Mål 5: Likestilling mellom kjønna",
                 "data": [
                     1,
-                    29,
-                    19,
+                    33,
+                    18,
                     22
                 ],
                 "backgroundColor": "rgba(255, 58, 33, 1)",
@@ -70,7 +70,7 @@ headless: true
             {
                 "label": "Mål 6: Reint vatn og gode sanitær forhold",
                 "data": [
-                    5,
+                    4,
                     3,
                     1,
                     0
@@ -81,10 +81,10 @@ headless: true
             {
                 "label": "Mål 7: Rein energi til alle",
                 "data": [
-                    9,
+                    8,
                     0,
                     0,
-                    58
+                    53
                 ],
                 "backgroundColor": "rgba(252, 195, 11, 1)",
                 "borderRadius": 0
@@ -92,10 +92,10 @@ headless: true
             {
                 "label": "Mål 8: Anstendig arbeid og økonomisk vekst",
                 "data": [
-                    2,
-                    27,
-                    9,
-                    138
+                    3,
+                    23,
+                    4,
+                    123
                 ],
                 "backgroundColor": "rgba(162, 25, 66, 1)",
                 "borderRadius": 0
@@ -106,7 +106,7 @@ headless: true
                     1,
                     0,
                     0,
-                    60
+                    54
                 ],
                 "backgroundColor": "rgba(253, 105, 37, 1)",
                 "borderRadius": 0
@@ -114,10 +114,10 @@ headless: true
             {
                 "label": "Mål 10: Mindre ulikskap",
                 "data": [
-                    1,
-                    21,
-                    39,
-                    12
+                    0,
+                    30,
+                    37,
+                    18
                 ],
                 "backgroundColor": "rgba(221, 19, 103, 1)",
                 "borderRadius": 0
@@ -125,10 +125,10 @@ headless: true
             {
                 "label": "Mål 11: Berekraftig byar og lokalsamfunn",
                 "data": [
-                    10,
-                    44,
-                    63,
-                    91
+                    6,
+                    43,
+                    53,
+                    95
                 ],
                 "backgroundColor": "rgba(253, 157, 36, 1)",
                 "borderRadius": 0
@@ -136,10 +136,10 @@ headless: true
             {
                 "label": "Mål 12: Ansvarleg forbruk og produksjon",
                 "data": [
-                    13,
+                    12,
                     1,
-                    4,
-                    43
+                    2,
+                    37
                 ],
                 "backgroundColor": "rgba(191, 139, 46, 1)",
                 "borderRadius": 0
@@ -147,10 +147,10 @@ headless: true
             {
                 "label": "Mål 13: Stoppe klimaendringane",
                 "data": [
-                    52,
-                    1,
-                    10,
-                    64
+                    49,
+                    3,
+                    12,
+                    62
                 ],
                 "backgroundColor": "rgba(63, 126, 68, 1)",
                 "borderRadius": 0
@@ -158,10 +158,10 @@ headless: true
             {
                 "label": "Mål 14: Livet i havet",
                 "data": [
-                    15,
+                    17,
                     0,
-                    1,
-                    10
+                    2,
+                    6
                 ],
                 "backgroundColor": "rgba(10, 151, 217, 1)",
                 "borderRadius": 0
@@ -169,10 +169,10 @@ headless: true
             {
                 "label": "Mål 15: Livet på land",
                 "data": [
-                    407,
-                    4,
-                    5,
-                    32
+                    406,
+                    3,
+                    3,
+                    26
                 ],
                 "backgroundColor": "rgba(86, 192, 43, 1)",
                 "borderRadius": 0
@@ -180,10 +180,10 @@ headless: true
             {
                 "label": "Mål 16: Fred, rettferd og velfungerande institusjonar",
                 "data": [
-                    5,
-                    76,
-                    65,
-                    139
+                    7,
+                    88,
+                    62,
+                    161
                 ],
                 "backgroundColor": "rgba(0, 104, 157, 1)",
                 "borderRadius": 0
@@ -191,10 +191,10 @@ headless: true
             {
                 "label": "Mål 17: Samarbeid for å nå måla",
                 "data": [
-                    0,
-                    4,
+                    1,
+                    2,
                     8,
-                    46
+                    47
                 ],
                 "backgroundColor": "rgba(25, 72, 106, 1)",
                 "borderRadius": 0

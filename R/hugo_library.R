@@ -28,7 +28,8 @@ RenderSave(
   remove.blank = FALSE
 )
 
-commit.name <- "0.1.0"
+
+commit.name <- "0.1.1"
 branch.name <- "main"
 
 init <- system("git init")

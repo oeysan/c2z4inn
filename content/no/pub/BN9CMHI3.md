@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-BN9CMHI3" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Dells&#xE9;n, F. U. (2022). Scientific Progress Without Justification: A reply to McCoy. I I. Lawler, K. Khalifa, &amp; E. Shech (Red.), <i>Scientific Understanding and Representation: Modeling in the Physical Sciences</i> (s. 392&#x2013;398). Routledge. <a href="https://doi.org/10.4324/9781003202905-35">https://doi.org/10.4324/9781003202905-35</a></div>
+  <div class="csl-entry">Dells&#xE9;n, F. U. (2022). Scientific Progress Without Problems: A Reply to McCoy. I I. Lawler, K. Khalifa, &amp; E. Shech (Red.), <i>Scientific Understanding and Representation: Modeling in the Physical Sciences</i> (s. 392&#x2013;398). Routledge. <a href="https://doi.org/10.4324/9781003202905-35">https://doi.org/10.4324/9781003202905-35</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-BN9CMHI3" class="csl-bib-button">Arkiv</a>

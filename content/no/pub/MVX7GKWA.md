@@ -26,6 +26,7 @@ type: pub
     <ul>
       <li>Høgskolen i Innlandet</li>
       <li>Fakultet for lærerutdanning og pedagogikk</li>
+      <li>Institutt for nordisk språk og litteratur</li>
       <li>2024</li>
       <li>Mars</li>
     </ul>

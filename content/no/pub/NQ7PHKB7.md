@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-NQ7PHKB7" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Steien, G. B. (2024). Central African Republic. I U. Reutner (Red.), <i>Manual of romance languages in Africa</i> (s. 427&#x2013;440). De Gruyter. <a href="https://doi.org/10.1515/9783110628869-021">https://doi.org/10.1515/9783110628869-021</a></div>
+  <div class="csl-entry">Steien, G. B. (2024). Central African Republic. I U. Reutner (Red.), <i>Manual of romance languages in Africa</i> (s. 483&#x2013;496). De Gruyter. <a href="https://doi.org/10.1515/9783110628869-021">https://doi.org/10.1515/9783110628869-021</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-NQ7PHKB7" class="csl-bib-button">Arkiv</a>

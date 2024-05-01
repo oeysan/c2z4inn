@@ -26,6 +26,7 @@ type: pub
     <ul>
       <li>Inland Norway University of Applied Sciences</li>
       <li>Faculty of Education</li>
+      <li>Department of Scandinavian Languages and Literature</li>
       <li>2024</li>
       <li>March</li>
     </ul>

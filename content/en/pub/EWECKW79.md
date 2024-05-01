@@ -5,13 +5,14 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-EWECKW79" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Tavares, V., &amp; Somby, H. M. (2024). Virtual Reality Technology in Norwegian Teacher Education: Creating an Innovative Experience or Another Academic Elite? In M. Bowdon, K. Yee, &amp; W. Dorner (Eds.), <i>Ethical Considerations of Virtual Reality in the College Classroom: Cross-Disciplinary Case Studies of Immersive Technology Implementation</i>. Routledge.</div>
+  <div class="csl-entry">Tavares, V., &amp; Somby, H. M. (2024). Virtual Reality Technology in Norwegian Teacher Education: Creating an Innovative Experience or Another Academic Elite? In M. Bowdon, K. Yee, &amp; W. Dorner (Eds.), <i>Ethical Considerations of Virtual Reality in the College Classroom: Cross-Disciplinary Case Studies of Immersive Technology Implementation</i> (p. 70). Routledge. <a href="https://doi.org/10.4324/9781003329718-6">https://doi.org/10.4324/9781003329718-6</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-EWECKW79" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2184828" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/EWECKW79" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-EWECKW79" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.4324/9781003329718-6" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-EWECKW79"></div>
 </article>

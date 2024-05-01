@@ -5,7 +5,7 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-WBJZ4SQU" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Karlsen, S., Jordhus-Lier, A., &amp; Nielsen, S. G. (2023). Norwegian schools of music and arts: Local significance and strategies of inclusion. <i>International Journal of Music Education</i>. <a href="https://doi.org/10.1177/02557614231157737">https://doi.org/10.1177/02557614231157737</a></div>
+  <div class="csl-entry">Karlsen, S., Jordhus-Lier, A., &amp; Nielsen, S. G. (2024). Norwegian schools of music and arts: Local significance and strategies of inclusion. <i>International Journal of Music Education</i>, <i>42</i>(2), 271&#x2013;284. <a href="https://doi.org/10.1177/02557614231157737">https://doi.org/10.1177/02557614231157737</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WBJZ4SQU" class="csl-bib-button">Archive</a>
@@ -29,7 +29,7 @@ type: pub
   </article>
   <article id="sdg-article-WBJZ4SQU" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>7</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-WBJZ4SQU" class="taxonomy-article">
     <h1>Archive</h1>

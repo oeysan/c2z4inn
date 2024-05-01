@@ -5,13 +5,14 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-MTPSL22R" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Hatfield, J. L., &amp; Tone Elin, S. (2024). Assessing the assessment: exploring Norwegian primary education teachers&#x2019; perceptions of national accountability testing. <i>Scandinavian Journal of Educational Research</i>, 1&#x2013;18.</div>
+  <div class="csl-entry">Hatfield, J. L., &amp; Tone Elin, S. (2024). Assessing the assessment: exploring Norwegian primary education teachers&#x2019; perceptions of national accountability testing. <i>Scandinavian Journal of Educational Research</i>, 1&#x2013;18. <a href="https://doi.org/10.1080/00313831.2024.2308883">https://doi.org/10.1080/00313831.2024.2308883</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MTPSL22R" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2238980" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/MTPSL22R" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-MTPSL22R" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/00313831.2024.2308883?needAccess=true" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-MTPSL22R"></div>
 </article>

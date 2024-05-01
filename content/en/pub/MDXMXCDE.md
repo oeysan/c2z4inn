@@ -5,7 +5,7 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-MDXMXCDE" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Hilt, L. T., S&#xF8;reide, G. E., Riese, H., &amp; Guro, B. (2024). &#x2018;School is the Foundation of Everything&#x2019;: Master- and Counter-narratives in Lower Secondary School Pupils&#x2019; Stories About the Importance of Schooling and Education. <i>Young</i>. <a href="https://doi.org/10.1177/11033088231221653">https://doi.org/10.1177/11033088231221653</a></div>
+  <div class="csl-entry">Hilt, L. T., S&#xF8;reide, G. E., Riese, H., &amp; Guro, B. (2024). &#x2018;School is the Foundation of Everything&#x2019;: Master- and Counter-narratives in Lower Secondary School Pupils&#x2019; Stories About the Importance of Schooling and Education. <i>Young</i>, <i>32</i>(3), 313&#x2013;329. <a href="https://doi.org/10.1177/11033088231221653">https://doi.org/10.1177/11033088231221653</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-MDXMXCDE" class="csl-bib-button">Archive</a>
@@ -29,7 +29,7 @@ type: pub
   </article>
   <article id="sdg-article-MDXMXCDE" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>5</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>7</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-MDXMXCDE" class="taxonomy-article">
     <h1>Archive</h1>

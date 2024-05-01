@@ -5,13 +5,14 @@ type: pub
 <h1>Publication</h1>
 <article id="csl-bib-container-ZHJCWHX5" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">M&#xF8;lstad, C. E. (2024). The Return to Bildung in the Shape of Learning Outcomes. In P. P. Trifonas &amp; S. Jagger (Eds.), <i>Handbook of Curriculum Theory and Research</i>. Springer International Publishing. <a href="https://link.springer.com/10.1007/978-3-030-82976-6">https://link.springer.com/10.1007/978-3-030-82976-6</a></div>
+  <div class="csl-entry">M&#xF8;lstad, C. E. (2024). The Return to Bildung in the Shape of Learning Outcomes. In P. P. Trifonas &amp; S. Jagger (Eds.), <i>Handbook of Curriculum Theory and Research</i> (p. 489). Springer International Publishing. <a href="https://doi.org/10.1007/978-3-031-21155-3_16">https://doi.org/10.1007/978-3-031-21155-3_16</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-ZHJCWHX5" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2146281" alt="Cristin URL" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5402882/items/ZHJCWHX5" alt="Zotero URL" class="csl-bib-button">Zotero</a>
     <a href="#contributors-article-ZHJCWHX5" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1007/978-3-031-21155-3_16" class="csl-bib-button">Unpaywall</a>
   </div>
   <div id="csl-bib-meta-container-ZHJCWHX5"></div>
 </article>
