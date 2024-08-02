@@ -5,7 +5,7 @@ headless: true
 <h1>Overview for Expert group in film and television science</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">50</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">15</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">14</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -13,7 +13,6 @@ headless: true
     "data": {
         "labels": [
             "Goal 4: Quality Education",
-            "Goal 5: Gender equality",
             "Goal 11: Sustainable cities and communities",
             "Goal 16: Peace, Justice and strong institutions"
         ],
@@ -22,13 +21,11 @@ headless: true
                 "label": "Publications",
                 "data": [
                     2,
-                    1,
-                    9,
-                    3
+                    6,
+                    6
                 ],
                 "backgroundColor": [
                     "rgba(197, 25, 45, 1)",
-                    "rgba(255, 58, 33, 1)",
                     "rgba(253, 157, 36, 1)",
                     "rgba(0, 104, 157, 1)"
                 ],
@@ -89,5 +86,5 @@ headless: true
 {{< /chart >}}</div>
 </div>
 <div id="sdg-overview">
-  <div class="sdg-container"><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=59T9S6TA#archive" class="sdg-publication-count"><span>9</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=16&collection=59T9S6TA#archive" class="sdg-publication-count"><span>3</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=59T9S6TA#archive" class="sdg-publication-count"><span>2</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=5&collection=59T9S6TA#archive" class="sdg-publication-count"><span>1</span> Publication</a> <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p> </div> </div></div>
+  <div class="sdg-container"><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=59T9S6TA#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=16&collection=59T9S6TA#archive" class="sdg-publication-count"><span>6</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=59T9S6TA#archive" class="sdg-publication-count"><span>2</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div></div>
 </div>

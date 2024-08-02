@@ -4,8 +4,8 @@ headless: true
 <a id="archive-url" href="{{< params subfolder >}}no/archive/?&collection=FA57FABL">Gå til arkivet</a>
 <h1>Oversikt for Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">1538</span></p>
-<p>Berekraftsmål: <span class="stats-n">945</span></p>
+<p>Publikasjonar: <span class="stats-n">1539</span></p>
+<p>Berekraftsmål: <span class="stats-n">910</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -32,21 +32,21 @@ headless: true
                     14.25,
                     22.8333,
                     26.9167,
-                    28.5
+                    28.75
                 ],
                 "borderRadius": 0
             },
             {
                 "label": "Berekraftsmål",
                 "data": [
-                    6.0833,
-                    6.8333,
-                    6.75,
-                    8,
-                    9.9167,
-                    13.6667,
-                    22.1667,
-                    16
+                    5.3333,
+                    6.5,
+                    5.8333,
+                    7.1667,
+                    9.5833,
+                    12.75,
+                    23,
+                    17
                 ],
                 "borderRadius": 0
             }
@@ -123,21 +123,21 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     1,
-                    19,
-                    130,
-                    91,
-                    22,
-                    53,
-                    123,
-                    54,
-                    18,
-                    95,
-                    37,
-                    62,
-                    6,
-                    26,
-                    161,
-                    47
+                    16,
+                    116,
+                    69,
+                    20,
+                    51,
+                    202,
+                    57,
+                    10,
+                    80,
+                    40,
+                    65,
+                    2,
+                    15,
+                    125,
+                    41
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",
@@ -214,5 +214,5 @@ headless: true
 {{< /chart >}}</div>
 </div>
 <div id="sdg-overview">
-  <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=FA57FABL#archive" class="sdg-publication-count"><span>161</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3&collection=FA57FABL#archive" class="sdg-publication-count"><span>130</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8&collection=FA57FABL#archive" class="sdg-publication-count"><span>123</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11&collection=FA57FABL#archive" class="sdg-publication-count"><span>95</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4&collection=FA57FABL#archive" class="sdg-publication-count"><span>91</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg13" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=13&collection=FA57FABL#archive" class="sdg-publication-count"><span>62</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg9" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=9&collection=FA57FABL#archive" class="sdg-publication-count"><span>54</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg7" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=7&collection=FA57FABL#archive" class="sdg-publication-count"><span>53</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=17&collection=FA57FABL#archive" class="sdg-publication-count"><span>47</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=12&collection=FA57FABL#archive" class="sdg-publication-count"><span>37</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=15&collection=FA57FABL#archive" class="sdg-publication-count"><span>26</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=5&collection=FA57FABL#archive" class="sdg-publication-count"><span>22</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=2&collection=FA57FABL#archive" class="sdg-publication-count"><span>19</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=10&collection=FA57FABL#archive" class="sdg-publication-count"><span>18</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg14" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=14&collection=FA57FABL#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=1&collection=FA57FABL#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a> <p><a href="https://www.fn.no" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+  <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_no.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=8&collection=FA57FABL#archive" class="sdg-publication-count"><span>202</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=FA57FABL#archive" class="sdg-publication-count"><span>125</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3&collection=FA57FABL#archive" class="sdg-publication-count"><span>116</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11&collection=FA57FABL#archive" class="sdg-publication-count"><span>80</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4&collection=FA57FABL#archive" class="sdg-publication-count"><span>69</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg13" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg13_no.png" class="image" alt="SDG 13"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=13&collection=FA57FABL#archive" class="sdg-publication-count"><span>65</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg9" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg09_no.png" class="image" alt="SDG 9"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=9&collection=FA57FABL#archive" class="sdg-publication-count"><span>57</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg7" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg07_no.png" class="image" alt="SDG 7"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=7&collection=FA57FABL#archive" class="sdg-publication-count"><span>51</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=17&collection=FA57FABL#archive" class="sdg-publication-count"><span>41</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_no.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=12&collection=FA57FABL#archive" class="sdg-publication-count"><span>40</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=5&collection=FA57FABL#archive" class="sdg-publication-count"><span>20</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_no.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=2&collection=FA57FABL#archive" class="sdg-publication-count"><span>16</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_no.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=15&collection=FA57FABL#archive" class="sdg-publication-count"><span>15</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_no.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=10&collection=FA57FABL#archive" class="sdg-publication-count"><span>10</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg14" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg14_no.png" class="image" alt="SDG 14"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=14&collection=FA57FABL#archive" class="sdg-publication-count"><span>2</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_no.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=1&collection=FA57FABL#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a> <p><a href="https://www.fn.no" class="sdg-read-more">Les meir</a></p> </div> </div></div>
 </div>

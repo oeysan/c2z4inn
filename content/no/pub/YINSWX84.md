@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-YINSWX84" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Rieker, P., &amp; Giske, M. T. E. (2023). <i>European Actorness in a Shifting Geopolitical Order. European Strategic Autonomy Through Differentiated Integration</i>. Palgrave Macmillan. <a href="https://link.springer.com/book/9783031445453">https://link.springer.com/book/9783031445453</a></div>
+  <div class="csl-entry">Rieker, P., &amp; Giske, M. T. E. (2024). <i>European Actorness in a Shifting Geopolitical Order. European Strategic Autonomy Through Differentiated Integration</i>. Palgrave Macmillan. <a href="https://link.springer.com/book/9783031445453">https://link.springer.com/book/9783031445453</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YINSWX84" class="csl-bib-button">Arkiv</a>
@@ -23,7 +23,7 @@ type: pub
   </article>
   <article id="sdg-article-YINSWX84" class="sdg-article">
     <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_no.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=17#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16#archive" class="sdg-publication-count"><span>8</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-YINSWX84" class="taxonomy-article">
     <h1>Arkiv</h1>

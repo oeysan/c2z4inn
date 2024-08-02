@@ -18,8 +18,8 @@ scientific publications at Inland Norway University of Applied Sciences
 (registered in Cristin since the institution was established on January
 1, 2017).
 
-The archive was last updated **05-01-2024 (at 17:55)** and contains
-**4733** publications.
+The archive was last updated **08-02-2024 (at 12:42)** and contains
+**4734** publications.
 
 You may also visit the [Zotero
 library](https://www.zotero.org/groups/5402882/inn-arkiv/library).

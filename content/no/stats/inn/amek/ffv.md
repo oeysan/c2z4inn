@@ -5,7 +5,7 @@ headless: true
 <h1>Oversikt for Faggruppe for Film og fjernsynsvitenskap</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">50</span></p>
-<p>Berekraftsmål: <span class="stats-n">15</span></p>
+<p>Berekraftsmål: <span class="stats-n">14</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -13,7 +13,6 @@ headless: true
     "data": {
         "labels": [
             "Mål 4: God utdanning",
-            "Mål 5: Likestilling mellom kjønna",
             "Mål 11: Berekraftig byar og lokalsamfunn",
             "Mål 16: Fred, rettferd og velfungerande institusjonar"
         ],
@@ -22,13 +21,11 @@ headless: true
                 "label": "Publikasjonar",
                 "data": [
                     2,
-                    1,
-                    9,
-                    3
+                    6,
+                    6
                 ],
                 "backgroundColor": [
                     "rgba(197, 25, 45, 1)",
-                    "rgba(255, 58, 33, 1)",
                     "rgba(253, 157, 36, 1)",
                     "rgba(0, 104, 157, 1)"
                 ],
@@ -89,5 +86,5 @@ headless: true
 {{< /chart >}}</div>
 </div>
 <div id="sdg-overview">
-  <div class="sdg-container"><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11&collection=59T9S6TA#archive" class="sdg-publication-count"><span>9</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=59T9S6TA#archive" class="sdg-publication-count"><span>3</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4&collection=59T9S6TA#archive" class="sdg-publication-count"><span>2</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_no.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=5&collection=59T9S6TA#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+  <div class="sdg-container"><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_no.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=11&collection=59T9S6TA#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_no.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=16&collection=59T9S6TA#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4&collection=59T9S6TA#archive" class="sdg-publication-count"><span>2</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
 </div>

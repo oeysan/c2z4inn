@@ -5,7 +5,7 @@ type: pub
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-533DGAJM" class="csl-bib-container">
   <div class="csl-bib-body" style="line-height: 1.35; padding-left: 1em; text-indent:-1em;">
-  <div class="csl-entry">Helg&#xF8;y, K. V., M&#xF8;rk, G., &amp; Bonsaksen, T. (2024). Occupational therapy students&#x2019; experiences and perceptions of journal club participation. <i>Scandinavian Journal of Occupational Therapy</i>, <i>31</i>(1). <a href="https://doi.org/10.1080/11038128.2024.2328712">https://doi.org/10.1080/11038128.2024.2328712</a></div>
+  <div class="csl-entry">Helg&#xF8;y, K. V., Bonsaksen, T., &amp; M&#xF8;rk, G. (2024). Occupational therapy students&#x2019; experiences and perceptions of journal club participation. <i>Scandinavian Journal of Occupational Therapy</i>, <i>31</i>(1). <a href="https://doi.org/10.1080/11038128.2024.2328712">https://doi.org/10.1080/11038128.2024.2328712</a></div>
 </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-533DGAJM" class="csl-bib-button">Arkiv</a>
@@ -29,7 +29,7 @@ type: pub
   </article>
   <article id="sdg-article-533DGAJM" class="sdg-article">
     <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
+    <div class="sdg-container"><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_no.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=3#archive" class="sdg-publication-count"><span>8</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div> <div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_no.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}no/archive/?sdg=4#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a> <p><a href="NA" class="sdg-read-more">Les meir</a></p> </div> </div></div>
   </article>
   <article id="taxonomy-article-533DGAJM" class="taxonomy-article">
     <h1>Arkiv</h1>
