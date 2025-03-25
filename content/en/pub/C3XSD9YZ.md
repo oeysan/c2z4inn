@@ -1,0 +1,77 @@
+---
+title: Fra serviceorientert kompetanse til samspillskompetanse? En analyse av kvalifikasjonskrav
+  til Nav-veiledere
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-C3XSD9YZ" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Hermanrud, I. (2024). Fra serviceorientert kompetanse til samspillskompetanse? En analyse av kvalifikasjonskrav til Nav-veiledere. <i>Norsk statsvitenskapelig tidsskrift</i>, <i>40</i>(4), 194–207. <a href="https://doi.org/10.18261/nst.40.4.2">https://doi.org/10.18261/nst.40.4.2</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-C3XSD9YZ" alt="archive" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2325556" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/C3XSD9YZ" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-C3XSD9YZ" alt="keywords" class="csl-bib-button">Keywords</a>
+    <a href="#about-article-C3XSD9YZ" alt="about_pub" class="csl-bib-button">About</a>
+    <a href="#contributors-article-C3XSD9YZ" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-C3XSD9YZ" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.18261/nst.40.4.2" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.18261/nst.40.4.2" alt="EZproxy" class="csl-bib-button">EZproxy</a>
+  </div>
+  <div id="csl-bib-meta-container-C3XSD9YZ"></div>
+</article>
+<div id="csl-bib-meta-C3XSD9YZ" class="csl-bib-meta">
+  <article id="about-article-C3XSD9YZ" class="about_pub-article">
+    <h1>About</h1>
+    Hermanrud conducted a study comparing job advertisements for Nav advisors from 2008-2009 with those from 2022-2023. They found that the role of Nav advisors has evolved to require new skills. Previously, advisors needed to mobilize users' resources and manage conflicting interests. Now, there is a demand for "interaction competence," which involves working effectively within networks and collaborating with various stakeholders. This shift reflects a move away from traditional bureaucratic skills and New Public Management approaches. The study highlights that while advisors still need to work closely with users, they also need to engage more with external partners and Nav's own systems. This change addresses challenges with the generalist model in Nav and emphasizes specialized roles, particularly for job specialists.
+  </article>
+  <article id="keywords-article-C3XSD9YZ" class="keywords-article">
+    <h1>Keywords</h1>
+    Nav, Competence Requirements, Job Advertisements, Service-Oriented Competence, Interaction Competence, Network-Based Governance
+  </article>
+  <article id="abstract-article-C3XSD9YZ" class="abstract-article">
+    <h1>Scientific abstract</h1>
+    Denne artikkelen presenterer funn fra en kvalitativ innholdsanalyse som sammenligninger stillingsannonser i Nav fra 2008–2009 med stillingsannonser i 2022–2023. Studiens hovedbidrag er en beskrivelse av en mer utadrettet veilederrolle i Nav. Problemstillingen er: Hvilke endringer ser vi i kompetansekrav for Nav-veiledere i stillingsannonsene? Studien avdekker nye stillingstitler og nye kompetansekrav til veiledere i Nav. Mens tidligere studier har avdekket etterspørsel etter evne til å mobilisere brukerens ressurser og evnen til å håndtere motstridende hensyn, avdekker denne studien en etterspørsel etter en samspillskompetanse. Studiens hovedbidrag beskriver og teoretiserer denne fremvoksende samspillskompetansen basert på nettverksbasert styringsform i Nav, som delvis avløser og delvis supplerer kompetanser knyttet til klassisk byråkrati og New Public Management. Studien bekrefter tidligere studier som har antydet at en attraktiv kompetanse i Nav er evnen til å håndtere motstridende hensyn. Studien viser både en økt spesialisering til en mer utadrettet veilederrolle mot arbeidslivet, men også en mer innadrettet veilederrolle som retter seg mot Navs egne ordninger. Dette kan sees i sammenheng med utfordringer med generalistmodellen i Nav. Konklusjonen er at veiledernes kompetanse fortsatt er knyttet til å jobbe med brukeren, men det er også nye krav om en mer utadrettet samspillskompetanse for Nav-veiledere generelt og jobbspesialister spesielt.
+  </article>
+  <article id="contributors-article-C3XSD9YZ" class="contributors-article">
+    <h1>Contributors</h1>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <img src="data:image/jpeg;base64,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AKAF60ATwybTg9KTGXgakY4gGgCIjHWkMSgYUAIaAG0AJQAUALQAtAC0AFABQA2gBpoASgBwoAWgBaAGs2OaYio77qpIljKYhKACgAoADQAlAwoEFAC0AGaAEoAWgAoAKAFFAC0AFABQBZjmxw1TYdyysynuKQyUgMKAIiMcUhiUDEoASgBKAEoAWgBaAFoAKAEoAQ0ANNACCgB1AC0AMeQLTsK5Wdy1UTcjpiCgBaAFPSgBpoASgYUCFoAKACgBM0ALQAUAAoAKAFxQAUAFABQAtABQA9ZGToaBk4uc9RzSsFxwlU+1TYq47cD0oAWkAUDCgBKAFoAKYBSAQ0AIaYCUAHSgQ0yAUWC5C0pNVYm5FyaYgoAKACgBaAEoASgAoAKACgAoASgAoAdQAUAJQAooAKACgBaACgAoASgAoAMUAFAC5oAcHIpDuSCY96LBceJhSsO47zBSsO47cKADcKADNADC4FAXGmQU7CuMMvpTsK4wuTTAYaBBQAUAFAC0AFACUAJQAUAFACUALQAUAFABQAtABQAUAFABQAUAFABQAtABQAUAGKAEoAWgAxQAUAFACUAGTQAZNABk0AFABQAUAGKACgAoAKACgBaAEoAKACgAoATFABQAUAFABQAlADqACgAxQAUAFABQAUAFAC0ALQAdaAEoAKADFABQAUAFABQAmKACgAoAKACgBRQAtAgoGJigQUDCgBKACgAoASgAoAKACgAoAKADFAC4oAU0AJQAUAFABQAUAFAC0AJQAUALmgAzQAtABQAlABQAUALQAlABQAUAFABigAFAC0AFACUAJQAUAFABQAUAFACUALQAUAJQAtACUAOoAbQAtABQAUAFABQAUAFABQAtAAaAAUALQAmaAFzQAcUAFABQAlACigBKADNABmgAzQAZoASgAoADQAUAGKADFABQAUAFABQAlAC0AJQAtACZoAUUAKKAEoAKACgBaAExQAUABoAKAFoASgAxQAGgBaAA0AJQAUALQAlABQAUAFABQAtACUALmgBM0AFABQAYoAKAFoAKAEoASgBaACgBKACgBaACgAoAKAFoADQAlAC9qACgANACUAFABQAUALQAlAC0ALQAlABQISgYUAFAC0ALTEBFIYhoAKAFxQA2gAoAWgAoASgAoASgBTQAUAFABQB//9k=" alt="Inge Hermanrud" loading="lazy"> </div> <div class="info"> <hgroup><h1>Inge Hermanrud</h1> <h2>Associate Professor</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:inge.hermanrud@inn.no">inge.hermanrud@inn.no</a> </dd> <dt>Phone number</dt> <dd><a href="tel:+4761288202"> +47 61 28 82 02 </a></dd> </dl> <p> Inland School of Business and Social Sciences<br> Department of Organisation, Leadership and Management<br> Campus Lillehammer </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/english/find-an-employee/inge-hermanrud.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/inge-hermanrud.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=328438" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-C3XSD9YZ" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg8" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div> <div id="sdg16" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-C3XSD9YZ" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>
+        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=TY5PNNUR">2024</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=QVAW4LVT">November</a>
+      </li>
+    </ul>
+  </article>
+</div>

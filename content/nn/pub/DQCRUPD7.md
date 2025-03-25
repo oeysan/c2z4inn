@@ -1,0 +1,80 @@
+---
+title: Trust in large carnivore science in Norway
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-DQCRUPD7" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Barmoen, M., Bærum, K. M., Johansson, M., &#38; Mathiesen, K. E. (2021). Trust in large carnivore science in Norway. <i>European Journal of Wildlife Research</i>, <i>67</i>(6), 1–13. <a href="https://doi.org/10.1007/s10344-021-01538-7">https://doi.org/10.1007/s10344-021-01538-7</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-DQCRUPD7" alt="archive" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1951952" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/DQCRUPD7" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-DQCRUPD7" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="#about-article-DQCRUPD7" alt="about_pub" class="csl-bib-button">Om</a>
+    <a href="#sdg-article-DQCRUPD7" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10344-021-01538-7.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10344-021-01538-7.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
+  </div>
+  <div id="csl-bib-meta-container-DQCRUPD7"></div>
+</article>
+<div id="csl-bib-meta-DQCRUPD7" class="csl-bib-meta">
+  <article id="about-article-DQCRUPD7" class="about_pub-article">
+    <h1>Om</h1>
+    Barmoen et al. gjennomførte ein studie i Noreg for å utforske offentleg tillit til vitskapen om store rovdyr, som er avgjerande for effektiv viltforvaltning. Dei undersøkte 2,110 personar frå ulike regionar for å forstå korleis tillit varierer mellom ulike grupper. Studien fann at eldre personar, individ med lågare utdanningsnivå, dei som har mista husdyr til rovdyr, storviltjegerar, og personar som fryktar store rovdyr har tendens til å ha lågare tillit til vitskapeleg informasjon om desse dyra. Dette er viktig fordi tillit til vitskap påverkar korleis politikk vert akseptert og implementert. Å forstå desse tillitsmønstra kan hjelpe med å forbetre kommunikasjonsstrategiar og handtere konfliktar knytt til store rovdyr, og sikre betre sameksistens mellom menneske og dyreliv.
+  </article>
+  <article id="keywords-article-DQCRUPD7" class="keywords-article">
+    <h1>Emneord</h1>
+    Store rovdyr, Sosial tillit, Viltforvaltning, Menneskelege dimensjonar, Vitskapskommunikasjon
+  </article>
+  <article id="abstract-article-DQCRUPD7" class="abstract-article">
+    <h1>Samandrag</h1>
+    Large carnivores are controversial species, and associated conficts between stakeholders with opposing views on large  
+carnivores are observed across the globe. Social trust, the public’s willingness to rely on those responsible for developing  
+policies, has gained much attention regarding the acceptance of large carnivores and large carnivore management. However,  
+trust in large carnivore science has not received as much consideration. In Norway, administrative management authorities  
+are responsible to execute the political framework decided by the Norwegian Parliament while basing their decisions on  
+recommendations from large carnivore science. As large carnivore science is the main knowledge provider for monitoring  
+and measures implemented in management decisions to achieve viable carnivore populations, trust in science is crucial. Yet,  
+scientifc information is often challenged. As attitude studies show a tendency for the wider general public to be more positive towards large carnivores than people most adversely afected, we wanted to examine whether the trust in large carnivore  
+science follows the same pattern. We used a geographically stratifed sample of 2110 respondents, fve respondents from each  
+municipality in Norway, to model how trust varies across the sample. Our results indicate that elderly men, people with lower  
+education, those who have experienced loss of livestock to carnivores associate with lower trust in large carnivore science.  
+Lower trust was also found among big game hunters and people who fear large carnivores. This knowledge could help to  
+guide targeted science communication and contribute to a more comprehensive understanding of cognitions important for  
+management of conficts involving large carnivores. 
+Large carnivores confict · Wildlife management · Human dimensions · Trust in science · Science  
+communication
+  </article>
+  <article id="sdg-article-DQCRUPD7" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg15" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
+        <div class="sdg-overlay">
+          <a href="/nn/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-DQCRUPD7" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>
+        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=5LT6Q2XL">2021</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=XJI2FSP6">November</a>
+      </li>
+    </ul>
+  </article>
+</div>

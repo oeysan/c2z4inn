@@ -1,0 +1,43 @@
+---
+title: Marriage XII. Music
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-ZYMZYEMI" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Rygg, K. (2019). Marriage XII. Music. <i>Encyclopedia of the Bible and Its Reception (EBR)</i>, <i>17</i>, 1035–1037. <a href="https://www.degruyter.com/view/EBR/MainLemma_1260?rskey=glW5zl&#38;result=3&#38;dbq_0=marriage&#38;dbf_0=ebr-title&#38;dbt_0=title&#38;o_0=AND">https://www.degruyter.com/view/EBR/MainLemma_1260?rskey=glW5zl&#38;result=3&#38;dbq_0=marriage&#38;dbf_0=ebr-title&#38;dbt_0=title&#38;o_0=AND</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-ZYMZYEMI" alt="archive" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1731161" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/ZYMZYEMI" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-ZYMZYEMI" alt="keywords" class="csl-bib-button">Emneord</a>
+  </div>
+  <div id="csl-bib-meta-container-ZYMZYEMI"></div>
+</article>
+<div id="csl-bib-meta-ZYMZYEMI" class="csl-bib-meta">
+  <article id="keywords-article-ZYMZYEMI" class="keywords-article">
+    <h1>Emneord</h1>
+    
+  </article>
+  <article id="taxonomy-article-ZYMZYEMI" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>
+        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=N3YI5B9V">2019</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=AEXU9G9P">September</a>
+      </li>
+    </ul>
+  </article>
+</div>

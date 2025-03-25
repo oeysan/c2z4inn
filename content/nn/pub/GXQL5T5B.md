@@ -1,0 +1,73 @@
+---
+title: 'Sámi Sport in the Nordic Civil Sphere: Assimilation, Multiculturalism, and
+  Multiple Axes of Membership'
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-GXQL5T5B" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Skille, E. Å., &#38; Broch, T. B. (2019). Sámi Sport in the Nordic Civil Sphere: Assimilation, Multiculturalism, and Multiple Axes of Membership. I J. C. Alexander, A. Lund, &#38; A. Voyer (Red.), <i>The Nordic Civil Sphere</i> (s. 151). Polity Press. <a href="https://politybooks.com/bookdetail/?isbn=9781509538836&#38;subject_id=1&#38;tag_id=24">https://politybooks.com/bookdetail/?isbn=9781509538836&#38;subject_id=1&#38;tag_id=24</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-GXQL5T5B" alt="archive" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1763448" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/GXQL5T5B" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-GXQL5T5B" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="#about-article-GXQL5T5B" alt="about_pub" class="csl-bib-button">Om</a>
+    <a href="#contributors-article-GXQL5T5B" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-GXQL5T5B" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+  </div>
+  <div id="csl-bib-meta-container-GXQL5T5B"></div>
+</article>
+<div id="csl-bib-meta-GXQL5T5B" class="csl-bib-meta">
+  <article id="about-article-GXQL5T5B" class="about_pub-article">
+    <h1>Om</h1>
+    Skille og Broch utforskar korleis omgrepet om den sivile sfæren, som er eit demokratisk rom som fremjar solidaritet og universelle verdiar, gjeld for nordiske samfunn. Dei argumenterer for at sjølv om nordiske land er kjende for sin sosialdemokrati, har dette ofte blitt forklart gjennom materielle og organisatoriske faktorar. I staden framhevar forfattarane dei kulturelle aspekta som støttar desse demokratiske ideala. Dei peikar på at nordiske sivile sfærer er overvektig kvite, europeiske, sekulære og kjønnsjamne på ein restriktiv måte. Dette kan føre til spenningar mellom innfødde borgarar og innvandrarar, og avdekker underliggjande fordommar i sosialdemokratiske verdiar. Denne studien er viktig fordi den hjelper oss å forstå dei kulturelle grunnlaga for sosialdemokrati og kompleksiteten innan tilsynelatande egalitære samfunn.
+  </article>
+  <article id="keywords-article-GXQL5T5B" class="keywords-article">
+    <h1>Emneord</h1>
+    Nordiske samfunn, Sosialdemokrati, Sivil sfære, Kulturelle grunnlag, Egalitært stat
+  </article>
+  <article id="abstract-article-GXQL5T5B" class="abstract-article">
+    <h1>Samandrag</h1>
+    The civil sphere is a distinctively democratic field in modern societies, one that sustains universalizing cultural aspirations and organizational structures and that has tense and uncertain boundaries with other spheres of social life, like the economy, religion, family, and state.  Unlike the latter, which are more particularistic and hierarchical in character, the civil sphere defines itself in terms of solidarity – the feeling of being connected with every other person in the collectivity.  The utopian ideals of democratic solidarity shape every modern society, even if they are often compromised by the messy realities of social life. 
+ 
+This volume uses the theory of the civil sphere to shed new light on Nordic societies, while at the same time drawing on the distinctive experiences of the Nordic nations to reflect on and advance the theory of the civil sphere.  Nordic societies have long been admired for creating a distinctive form of social democracy, but this admirable achievement has not been well conceptualized theoretically.  Most attempts to explain Nordic social democracy focus on material and organizational factors.  This volume, by contrast, emphasizes the cultural foundations and characteristics of social democracy, demonstrating how civil sensibilities are necessary for the creation of an egalitarian and democratic state.  Nordic civil spheres, however, are not only pro-civil but also white in color, European in ethnicity, secular in character and gender-equal in a subtly restrictive manner.  Such primordialization of state civility is vividly on display in the sometime tense relationships that develop among natives and “foreigners” in Nordic countries, relationships that expose the primordial undersides of the social democratic codes and civil values that constitute the Nordic civil sphere. 
+ 
+A major contribution to the theory of the civil sphere and to our understanding of the cultural and normative underpinnings of social and political life, this volume will be of particular interest to students and scholars of sociology and politics.
+  </article>
+  <article id="contributors-article-GXQL5T5B" class="contributors-article">
+    <h1>Medverkande</h1>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <img src="data:image/jpeg;base64,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" alt="Eivind Åsrum Skille" loading="lazy"> </div> <div class="info"> <hgroup><h1>Eivind Åsrum Skille</h1> <h2>Professor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:eivind.skille@inn.no">eivind.skille@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762430054"> +47 62 43 00 54 </a></dd> </dl> <p> Fakultet for helse- og sosialvitenskap<br> Seksjon for idrett og kroppsøving<br> Studiested Elverum, Rom 4R4142 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.88156,11.53723">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/eivind-skille.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/eivind-skille.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=328312" alt="Cristin URL" class="personas-cristin">Cristin</a> </div> <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Trygve Beyer Broch</h1> <h2>Professor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:trygve.broch@inn.no">trygve.broch@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762430261"> +47 62 43 02 61 </a></dd> </dl> <p> Fakultet for helse- og sosialvitenskap<br> Seksjon for folkehelse<br> Studiested Elverum, Rom 4L3333 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.88177,11.53669">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/trygve-broch.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/trygve-broch.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=328623" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-GXQL5T5B" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg16" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
+        <div class="sdg-overlay">
+          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-GXQL5T5B" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>
+        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=MXF6ZEHK">2019</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=FUEQ3SGE">Desember</a>
+      </li>
+    </ul>
+  </article>
+</div>

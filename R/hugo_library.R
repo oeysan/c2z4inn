@@ -1,24 +1,27 @@
 # Set working directory
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
-Sys.setenv(LANG = "EN")
 rm(list=ls())
 graphics.off()
 source("backend.R")
 
+start.date <- "2017-01"
+end.date <- "2025-03"
+unit.id = "209.0.0.0"
+
 # Post to Zotero library
 library <- LibraryPost(
-  lang = "no", 
-  locale = "nn-NO", 
-  start.date = "2017-01",
-  end.date = "2024-04",
+  unit.id = unit.id,
+  start.date = start.date,
+  end.date = end.date,
   update = TRUE,
   post = TRUE,
   post.only = TRUE
 )
 
+
 # Update pages
-lib.no <- LibraryUpdate("no")
-lib.en <- LibraryUpdate("en")
+lib.no <- LibraryUpdate(unit.id, "nn")
+lib.en <- LibraryUpdate(unit.id, "en")
 
 # Render README
 RenderSave(
@@ -28,8 +31,7 @@ RenderSave(
   remove.blank = FALSE
 )
 
-
-commit.name <- "0.1.1"
+commit.name <- "0.2.0"
 branch.name <- "main"
 
 init <- system("git init")

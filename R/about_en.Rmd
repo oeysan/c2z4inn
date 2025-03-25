@@ -1,5 +1,6 @@
 ---
 headless: true
+encoding: UTF-8
 ---
 
 ```{r knitrrrr, include = FALSE}
@@ -19,8 +20,8 @@ n <- nrow(pub)
 # About
 
 This website serves as an archive for scientific publications at 
-Inland Norway University of Applied Sciences 
-(registered in Cristin since the institution was established on January 1, 2017). 
+University of Inland Norway (registered in Cristin since the institution was 
+established on January 1, 2017). 
 It is updated monthly.
 
 The archive was last updated **`r updated`** and contains **`r n`** publications.
@@ -36,4 +37,4 @@ using machine learning based on a large language model (LLM) and semantic analys
 The model will be made available pending peer-review.
 
 You may also visit the 
-[Zotero library](https://www.zotero.org/groups/5022929/hinn/library).
+[Zotero library](https://www.zotero.org/groups/5881554/inn_archive/library).

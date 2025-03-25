@@ -1,0 +1,255 @@
+---
+title: |-
+  '`r params$title`'
+type: "pub"
+encoding: UTF-8
+Dict: !r Dict
+---
+
+```{r knitrrrr, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%",
+  warning = FALSE,
+  message = FALSE
+)
+```
+
+```{r updated, include=FALSE}
+library(c2z4uni)
+updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
+```
+
+```{r functions, include=FALSE}
+CreateButton <- \(name, url, lang) {
+  
+  if (is.null(url)) return (NULL)
+  dict.name <- Dict(name, lang)
+  if (is.null(dict.name)) dict.name <- name
+  
+  button <- htmltools::a(
+    dict.name,
+    href = url,
+    alt = name,
+    class = "csl-bib-button"
+  )
+  
+  return (button)
+}
+
+CreateArticle <- \(name, data, key, lang) {
+  if (is.null(data)) {
+    return (NULL)
+  }
+  dict.name <- Dict(name, lang)
+  if (is.null(dict.name)) dict.name <- name
+  article <- htmltools::tags$article(
+      htmltools::h1(dict.name),
+      htmltools::HTML(data),
+      id = paste0(name, "-article-", key),
+      class = paste0(name, "-article")
+  )
+}
+
+CreateArchive <- \(collection, archive.url, key, lang, header.text = NULL) {
+  if (!requireNamespace("htmltools", quietly = TRUE)) {
+    stop("Package 'htmltools' is required but not installed.")
+  }
+  
+  # Use a default header if none is provided.
+  if (is.null(header.text)) {
+    header.text <- c2z4uni:::Dict("archive", lang)
+  }
+  
+  # Create the header tag.
+  header.tag <- htmltools::h1(header.text)
+  
+  # Helper function to create individual list items with hrefs
+  ListItems <- \(keys, names, base.url) {
+    htmltools::tags$ul(mapply(
+      \(key, name) htmltools::tags$li(
+          htmltools::a(href = paste0(base.url, key), name)
+        ),
+      keys,
+      names,
+      SIMPLIFY = FALSE
+    ))
+  }
+  
+  # Generate multiple unordered lists
+  ul.list <- htmltools::tagList(mapply(
+    ListItems,
+    collection$collection.keys,
+    collection$collection.names,
+    MoreArgs = list(base.url = archive.url),
+    SIMPLIFY = FALSE
+  ))
+  
+  # Build the complete article tag.
+  archive.list <- htmltools::tags$article(
+    header.tag,
+    ul.list,
+    # Optionally add an id based on item.key if provided.
+    id = if (!is.null(key)) paste0("taxonomy-article-", key) else NULL,
+    class = "taxonomy-article"
+  )
+
+  return(archive.list)
+}
+```
+
+
+```{r define, include=FALSE}
+
+# Visible bindings 
+synopsis <- keywords <- abstract <- contributors <- sdg <- synopsis.button <- 
+  keywords.button <- abstract.button <- contributors.button <-  sdg.button <- 
+  NULL
+
+lang <- params$lang
+key <- params$key
+
+archive.button <- CreateButton(
+  "archive", 
+  paste0("#", paste0("taxonomy-article-", key)),
+  lang
+)
+cristin.button <- CreateButton("Cristin", params$cristin.url, lang)
+zotero.button <- CreateButton("Zotero", params$zotero.url, lang)
+unpaywall.button <- CreateButton("Unpaywall", params$unpaywall, lang)
+ezproxy.button<- CreateButton("EZproxy", params$unpaywall, lang)
+```
+
+
+```{r synopsis, echo=FALSE, results='asis'}
+if (!is.null(params$synopsis)) {
+  synopsis.button <- CreateButton(
+    "about_pub",
+    paste0("#", paste0("about-article-", key)),
+    lang
+  )
+  synopsis <- CreateArticle("about_pub", params$synopsis, key, lang)
+}
+```
+
+
+```{r keywords, echo=FALSE, results='asis'}
+if (!is.null(params$keywords)) {
+  keywords.button <- CreateButton(
+    "keywords",
+    paste0("#", paste0("keywords-article-", key)),
+    lang
+  )
+  keywords <- CreateArticle("keywords", params$keywords, key, lang)
+}
+```
+
+
+```{r abstract, echo=FALSE, results='asis'}
+if (!is.null(params$abstract)) {
+  abstract.button <- CreateButton(
+    "abstract", 
+    paste0("#", paste0("abstract-article-", key)),
+    lang
+  )
+  abstract <- CreateArticle("abstract", params$abstract, key, lang)
+}
+```
+
+
+```{r contributors, echo=FALSE, results='asis'}
+if (!is.null(params$contributors)) {
+  contributors.button <- CreateButton(
+    "contributors", 
+    paste0("#", paste0("contributors-article-", key)),
+    lang
+  )
+  contributors <- CreateArticle("contributors", params$contributors, key, lang)
+}
+```
+
+
+```{r sdg, echo=FALSE, results='asis'}
+if (!is.null(params$sdg)) {
+  sdg.button <- CreateButton(
+    "sdg",
+    paste0("#", paste0("sdg-article-", key)),
+    lang
+ )
+  sdg <- htmltools::tagAppendChild(
+    htmltools::tags$article(
+      htmltools::h1(Dict("sdg", lang)),
+      id = paste0("sdg-article-", key),
+      class = "sdg-article"
+    ),
+    htmltools::div(
+      params$sdg  |>
+        do.call(what = htmltools::HTML),
+      class = "sdg-container"
+    )
+  )
+}
+```
+
+
+```{r archive, echo=FALSE, results='asis'}
+if (!is.null(params$archive)) {
+  archive.url <- paste0("/", lang, "/archive/?key=")
+  archive <- CreateArchive(params$archive[[1]], archive.url, key, lang)
+}
+```
+
+
+```{r combine_md, echo=FALSE, results='asis'}
+if (!is.null(params$reference)) {
+  reference <- htmltools::tagList(
+    htmltools::h1(params$Dict("publication", lang)),
+    htmltools::tagAppendChildren(
+      # Reference
+        htmltools::tags$article(
+        id = paste0("csl-bib-container-", key),
+        class = "csl-bib-container",
+        htmltools::HTML(params$reference)
+      ),
+        # Buttons
+        htmltools::div(
+          archive.button,
+          cristin.button,
+          zotero.button,
+          keywords.button,
+          synopsis.button,
+          contributors.button,
+          sdg.button,
+          unpaywall.button,
+          ezproxy.button,
+          class = "csl-bib-buttons"
+        ),
+        htmltools::div(
+          id = paste0("csl-bib-meta-container-", key)
+        )
+    ),
+      htmltools::div(
+        # Synopsis
+        synopsis,
+        # Keywords,
+        keywords,
+        # Abstract
+        abstract,
+        # Contributors
+        contributors,
+        # SDG
+        sdg,
+        # Taxonomy
+        archive,
+        id = paste0("csl-bib-meta-", key),
+        class = "csl-bib-meta"
+      )
+    )
+  cat(as.character(reference))
+}
+```
+
+
+
+

@@ -2,9 +2,14 @@
 library("c2z")
 library("c2z4uni")
 library("htmltools")
+
 library("dplyr")
 library("xml2")
 library("stringr")
+library("future")
+library("future.apply")
+library("progressr")
+
 
 # Define proejct dir (i.e., outside R folder)
 setwd(normalizePath(file.path(getwd(), "..")))
@@ -12,27 +17,33 @@ setwd(normalizePath(file.path(getwd(), "..")))
 local.storage <- file.path(getwd(), "storage")
 # Define R folder
 r.folder <- file.path(getwd(), "R")
+# Define Units folder
+unit.data <- file.path(r.folder, "units")
 # Define content
 content <- file.path(getwd(), "content")
-# Path to no publications
-pub.no <- file.path(content, "no", "pub")
+# Path to nn publications
+pub.nn <- file.path(content, "nn", "pub")
 # Path to en publications
 pub.en <- file.path(content, "en", "pub")
+# Define pub rmd
+pub.file <- file.path(r.folder, "pub.Rmd")
 # Define headless Rmd
 headless <- file.path(r.folder, "headless.Rmd")
-# Define about.no Rmd
-about.no <- file.path(r.folder, "about_no.Rmd")
+# Define about.nn Rmd
+about.nn <- file.path(r.folder, "about_nn.Rmd")
 # Define about.en Rmd
 about.en <- file.path(r.folder, "about_en.Rmd")
-# Define stats_no Rmd
-stats.no <- file.path(r.folder, "stats_no.Rmd")
-# Define stats_no Rmd
+# Define stats_nn Rmd
+stats.nn <- file.path(r.folder, "stats_nn.Rmd")
+# Define stats_en Rmd
 stats.en <- file.path(r.folder, "stats_en.Rmd")
+# Define stats menu Rmd
+stats.menu <- file.path(r.folder, "stats_menu.Rmd")
 # Define zotero
 zotero <- c2z::Zotero(
   user = FALSE,
-  token = "ZOTERO_HINN",
-  token.api = "ZOTERO_HINN_API"
+  token = "ZOTERO_INN",
+  token.api = "ZOTERO_INN_API"
 )
 
 ################################################################################
@@ -42,166 +53,109 @@ zotero <- c2z::Zotero(
 #' @title MountData
 #' @keywords internal
 #' @noRd
-MountData <- \(lang, sdg.data = NULL) {
+MountData <- function(lang, sdg.data = NULL, silent = TRUE) {
   
+  # Load sdg.data and sdg.predictions if not provided
   if (is.null(sdg.data)) {
-    assign(
-      "sdg.data", 
-      readRDS(file.path(local.storage, "sdg_predictions_summary.rds")),
-      envir = parent.frame()
-    )
-    assign(
-      "sdg.predictions", 
-      readRDS(file.path(local.storage, "sdg_predictions.rds")),
-      envir = parent.frame()
+    sdg.data <- c2z4uni:::LocalStorage(
+      "sdg_predictions_summary", 
+      local.storage,
+      message = "Loading SDG Summaries",
+      silent = silent
     )
   }
-    
-  assign(
+  
+  items <- c2z4uni:::LocalStorage(
     "items", 
-    readRDS(file.path(local.storage, "items.rds")), 
-    envir = parent.frame()
+    local.storage,
+    message = "Loading items",
+    silent = silent
   )
   
-  assign(
+  bibliography <- c2z4uni:::LocalStorage(
     "bibliography", 
-    readRDS(
-      file.path(local.storage, sprintf("bibliography_%s.rds", lang))
-    ),
-    envir = parent.frame()
+    local.storage,
+    message = "Loading bibliographies",
+    lang = lang,
+    silent = silent
   )
   
-  unit.paths <- readRDS(
-    file.path(local.storage, sprintf("unit_paths_%s.rds", lang))
+  monthlies <- c2z4uni:::LocalStorage(
+    "monthlies", 
+    local.storage,
+    message = "Loading monthlies",
+    lang = lang,
+    silent = silent
   )
   
-  monthlies <- readRDS(
-    file.path(local.storage, sprintf("monthlies_%s.rds", lang))
+  unit.paths <- c2z4uni:::LocalStorage(
+    "unit_paths", 
+    local.storage,
+    message = "Loading unit paths",
+    lang = lang,
+    silent = silent
   )
   
-  extras <- readRDS(file.path(local.storage, "monthlies_extras.rds"))
+  if (any(nrow(unit.paths))) {
+    unit.paths <- unit.paths |>
+      dplyr::left_join(
+        dplyr::select(unit.names, id, acronym),
+        by = "id"
+      )
+  }
+  
+  extras <- c2z4uni:::LocalStorage(
+    "monthlies_extras", 
+    local.storage,
+    message = "Loading extras",
+    silent = silent
+  )
+  
+  updated_keys <- c2z4uni:::LocalStorage(
+    "updated_keys", 
+    local.storage,
+    message = "Loading updated keys",
+    lang = lang,
+    silent = silent
+  )
   
   cristin.monthly <- list(
     unit.paths = unit.paths,
     monthlies = monthlies
   )
   
-  sdg.predictions <- readRDS(file.path(local.storage, "sdg_predictions.rds"))
-  
-  cristin.monthly$monthlies <- cristin.monthly$monthlies |>
-    dplyr::left_join(
-      sdg.predictions |>
-        dplyr::transmute(
-          key,
-          sdg = purrr::map(llm_sdgs_final, ~ as.character(.x))
-        ), by = "key"
-    ) |>
-    dplyr::left_join(
-      dplyr::select(extras, -c(cristin.id, version)), by = join_by(key)
-    )
-  
-  assign(
-    "unit.paths", 
-    unit.paths,
-    envir = parent.frame()
-  )
-    
-  assign(
-    "monthlies", 
-    monthlies,
-    envir = parent.frame()
-  )
-  
-  assign(
-    "extras", 
-    extras,
-    envir = parent.frame()
-  )
-  
-  assign(
-    "cristin.monthly", 
-    cristin.monthly,
-    envir = parent.frame()
-  )
-  
-  assign(
-    "updated.keys", 
-    readRDS(file.path(local.storage, "updated_keys.rds")),
-    envir = parent.frame()
-  )
- 
+  # Finally, assign all variables to the parent frame
+  assign("sdg.data", sdg.data, envir = parent.frame())
+  assign("items", items, envir = parent.frame())
+  assign("bibliography", bibliography, envir = parent.frame())
+  assign("unit.paths", unit.paths, envir = parent.frame())
+  assign("monthlies", monthlies, envir = parent.frame())
+  assign("extras", extras, envir = parent.frame())
+  assign("cristin.monthly", cristin.monthly, envir = parent.frame())
+  assign("updated.keys", updated_keys, envir = parent.frame())
 }
+
+unit.names <- readr::read_csv(
+  file.path(unit.data, "units.csv"),
+  show_col_types = FALSE
+)
 
 ################################################################################
 ###############################Internal Functions###############################
 ################################################################################
 
-#' @title UnitNames
-#' @keywords internal
-#' @noRd
-UnitNames <- \(unit.paths) {
-  
-  names <- c(
-    "inn",
-    "adm",
-    "dnf",
-    "alb",
-    "bio",
-    "jor",
-    "sou",
-    "amek",
-    "ffv",
-    "spu",
-    "tvu",
-    "hsv",
-    "foi",
-    "hos",
-    "sov",
-    "lup",
-    "eng",
-    "kok",
-    "mnk",
-    "nol",
-    "pvl",
-    "ped",
-    "sre",
-    "sell-lup",
-    "sepu",
-    "hhs",
-    "ols",
-    "psy",
-    "rom",
-    "rfi",
-    "oko",
-    "sell-hhs",
-    "ost"
-  )
-  
-  unit.paths |>
-    dplyr::mutate(acronym  = names)
-}
-
 #' @title Dict
 #' @keywords internal
 #' @noRd
-i18n.no <- readr::read_csv(
-  file.path(r.folder, "i18n", "no.csv"), 
-  col_types = readr::cols()
+i18n.nn <- jsonlite::fromJSON(
+  file.path(r.folder, "i18n", "nn.json"), 
 )
-i18n.en <- readr::read_csv(
-  file.path(r.folder, "i18n", "en.csv"), 
-  col_types = readr::cols()
+assign("nn", i18n.nn, envir = c2z4uni:::.dictEnv)
+i18n.en <- jsonlite::fromJSON(
+  file.path(r.folder, "i18n", "en.json"), 
 )
-Dict <- \(x = NULL,
-          lang = "no",
-          count = 1,
-          to.lower = FALSE,
-          prefix = FALSE,
-          error = NULL,
-          i18n = NULL) {
-  i18n <- if (lang == "no") i18n.no else i18n.en
-  c2z4uni:::Dict(x, lang, count, to.lower, prefix, error, i18n)
-}
+assign("en", i18n.en, envir = c2z4uni:::.dictEnv)
+Dict <- c2z4uni:::Dict
 
 #' @title SdgSum
 #' @keywords internal
@@ -212,7 +166,7 @@ SdgSum <- \(x,
             split = NULL, 
             total = FALSE,
             average = FALSE) {
-
+  
   # Visible bindings
   sdg.sum <- n.publications <- names <- NULL
   
@@ -222,15 +176,15 @@ SdgSum <- \(x,
     list()
   
   years <- sort(unique(unit.data[[1]]$year))
-
+  
   if (!is.null(split)) {
     names <- names(table(unit.data[[1]][, split]))
     unit.data <- unit.data[[1]] |>
       dplyr::group_split(!!ensym(split))
   }
-
+  
   year.months <- unlist(lapply(years, \(x) sum(grepl(x, names))))
-
+  
   if (any(nrow(sdg.data$sdgs))) { 
     sdg.sum <- lapply(unit.data, \(x) {
       sum.data <- sdg.data$sdgs |> 
@@ -246,7 +200,7 @@ SdgSum <- \(x,
     if (total) sdg.sum <- unlist(sdg.sum)
   }
   
-
+  
   if (is.list(sdg.sum) & length(sdg.sum) == 1) {
     sdg.sum <- unlist(sdg.sum)
   }
@@ -259,7 +213,7 @@ SdgSum <- \(x,
     sdg.sum <- unlist(lapply(split(sdg.sum, grouping), mean))
     n.publications <- unlist(lapply(split(n.publications, grouping), mean))
   }
-
+  
   return.list <- list(
     sdg.sum = sdg.sum,
     n.publications = n.publications,
@@ -278,12 +232,12 @@ Stats <- \(unit = NULL,
            monthlies, 
            extras, 
            sdg.data,
-           lang = "no",
+           lang = "nn",
            render = TRUE,
+           units.only = FALSE,
            min = 30,
            max.level = 2) {
   
-  unit.paths <- UnitNames(unit.paths)
   unit <- unit.paths |>
     dplyr::filter(id == unit | acronym == unit | name == unit | key == unit)
   
@@ -303,17 +257,19 @@ Stats <- \(unit = NULL,
   
   sdg.unit <- sdg.data$sdgs |>
     dplyr::filter(key %in% data$key)
-
-  sdg.data <- list(
-    sdgs = sdg.unit,
-    sum = dplyr::summarise(
-      sdg.unit,
-      dplyr::across(dplyr::starts_with("sdg"), 
-                    ~sum(.x, na.rm = TRUE)
+  
+  sdg.unit.sum <- sdg.unit |>
+    dplyr::summarise(
+      dplyr::across(
+        dplyr::starts_with("sdg"), sum
       )
     )
+  
+  sdg.data <- list(
+    sdgs = sdg.unit,
+    sum = sdg.unit.sum
   )
-
+  
   if (!any(nrow(sdg.unit))) {
     return (NULL)
   }
@@ -325,7 +281,8 @@ Stats <- \(unit = NULL,
     archive.append = paste0("&collection=", unit$key), 
     sort = TRUE, 
     delete = TRUE,
-    header = FALSE
+    header = FALSE,
+    silent = TRUE
   ) 
   
   unit.name <- unit$name
@@ -342,13 +299,16 @@ Stats <- \(unit = NULL,
     SdgSum(unit$key, data, sdg.data, "year.month", TRUE, TRUE),
     lang
   )
+  
   sdg.doughnut <- SdgDoughnut(
     lang, 
     sdg.data,
     FALSE, 
     FALSE,
     div.width = "550px",
-    div.height = "500px")
+    div.height = "500px",
+    silent = TRUE
+  )
   
   # Only use publication.trend on level less than max level
   ## Default is 2, meaning institutions (e.g., INN) and faculties.
@@ -371,17 +331,21 @@ Stats <- \(unit = NULL,
     dplyr::pull(acronym) |>
     (\(x) do.call(file.path, as.list(c("stats", x))))() 
   
-  return.list <- list(
-    unit = unit,
-    path = path,
-    params = params
-  )
+  if (units.only) {
+    return.list <- unit
+  } else {
+    return.list <- list(
+      unit = unit,
+      path = path,
+      params = params
+    )
+  }
   
   if (!render) {
     return (return.list)
   }
   
-  stats.file <- if (lang == "no") stats.no else stats.en
+  stats.file <- if (lang == "nn") stats.nn else stats.en
   
   RenderSave(
     stats.file,
@@ -400,35 +364,49 @@ Stats <- \(unit = NULL,
 #' @title CreateStats
 #' @keywords internal
 #' @noRd
-CreateStats <- \(lang = "no", sdg.data = NULL) {
-
+CreateStats <- \(lang = "nn", sdg.data = NULL, silent = FALSE) {
+  
   # Mount Data
   MountData(lang, sdg.data)
   
-  stats <- lapply(unit.paths$id, \(x) {
-    Stats(
-      unit = x,
-      unit.paths = unit.paths, 
-      items = items, 
-      monthlies = monthlies, 
-      extras = extras, 
-      sdg.data = sdg.data,
-      lang = lang,
-      render = TRUE
+  start.message <- sprintf(
+    "Creating descriptive statistics for %s.",
+    c2z4uni:::Numerus(
+      nrow(unit.paths),
+      "unit",
     )
-  })
-  
-  stats.units <- dplyr::bind_rows(lapply(stats, \(x) x$unit))
-  tree <- as.character(NestedList(stats.units, lang = lang))
-  tree.select <- SelectBox(stats.units, lang = lang)
-  html <- sprintf(
-    "<figure class=\"include\">%s</figure>",
-    paste0("\n", c2z:::ToString(c(tree, tree.select), "\n"), "\n")
   )
   
+  stats.data <- c2z::ProcessData(
+    data = unit.paths,
+    func = \(data) {
+      Stats(
+        unit = data$id,
+        unit.paths = unit.paths, 
+        items = items, 
+        monthlies = monthlies, 
+        extras = extras, 
+        sdg.data = sdg.data,
+        lang = lang,
+        render = TRUE,
+        units.only = TRUE
+      )
+    },
+    by.rows = TRUE,
+    use.multisession = TRUE,
+    process.message = "name",
+    start.message = start.message,
+    handler = "cli",
+    silent = silent
+  )
+
+  stats.units <- stats.data$results
+  tree <- as.character(NestedList(stats.units, lang = lang))
+  tree.select <- SelectBox(stats.units, lang = lang)
+
   RenderSave(
-    headless,
-    params = list(html = html),
+    stats.menu,
+    params = list(tree = tree, tree.select = tree.select),
     md.dir = file.path(content, lang, "headless"),
     md.name = "stats"
   )
@@ -442,9 +420,9 @@ SelectBox <- \(data,
                folder = "stats", 
                subfolder = "{{< params subfolder >}}",
                id = "tree-select",
-               lang = "no") {
+               lang = "nn") {
   
-
+  
   options <- lapply(seq_len(nrow(data)), \(i) {
     x <- data[i,] 
     path <- data |>
@@ -480,7 +458,7 @@ NestedList <- \(data,
                 parent = "FALSE", 
                 folder = "stats", 
                 subfolder = "{{< params subfolder >}}",
-                lang = "no") {
+                lang = "nn") {
   
   
   CreateLi <- \(data, parent, folder, subfolder, lang) {
@@ -552,7 +530,6 @@ RemoveBlank <- \(input.file, output.file = NULL) {
   # Close the output file
   close(file.conn)
   
-  cat("Blank lines removed and saved to", output.file, "\n")
 }
 
 #' @title Colors
@@ -597,55 +574,69 @@ RemoveEmpty <- function(x) {
 #' @title RenderSave
 #' @keywords internal
 #' @noRd
-RenderSave <- \(Rmd.path,
-                params,
-                md.dir = NULL,
-                md.name = NULL,
-                output.format = "html_document",
-                keep.yaml = TRUE,
-                silent = TRUE,
-                remove.blank = TRUE) {
+RenderSave <- function(Rmd.path,
+                       params,
+                       md.dir = NULL,
+                       md.name = NULL,
+                       output.format = "html_document",
+                       keep.yaml = TRUE,
+                       silent = TRUE,
+                       remove.blank = TRUE) {
   
   # Visible bindings
   output.options <- NULL
   
   # Find Rmd name
   Rmd.name <- basename(Rmd.path)
-  # Define md.path if not defined
+  # Define md.dir if not defined
   if (is.null(md.dir)) {
     md.dir <- dirname(Rmd.path)
   }
-  # Replace Rmd with md if md.name is not defined
+  
+  # Create a unique md name if not provided
   if (is.null(md.name)) {
-    md.name <- gsub("Rmd", "md", Rmd.name)
-    # Else append md to defined md name
+    md.name <- basename(tempfile(tmpdir = md.dir, fileext = ".md"))
   } else {
     md.name <- paste0(md.name, ".md")
   }
+  
   # Define output.options
   if (keep.yaml) {
     output.options <- list(
       preserve_yaml = TRUE,
-      keep_md = TRUE
+      keep_md = TRUE,
+      pandoc_args = "--quiet"
     )
   }
   
-  rmarkdown::render(
-    input  = Rmd.path,
-    params = params,
-    output_file = md.name,
-    output_dir = md.dir,
-    output_format = output.format,
+  # Render the document
+  output_file <- rmarkdown::render(
+    input          = Rmd.path,
+    params         = params,
+    output_file    = md.name,
+    output_dir     = md.dir,
+    output_format  = output.format,
     output_options = output.options,
-    quiet = silent
+    quiet          = silent
   )
   
-  # Remove blank lines from md
+  # Determine the correct markdown file path.
+  # With keep_md = TRUE, rmarkdown typically creates a file with a ".knit.md" suffix.
+  md_path_expected <- file.path(md.dir, md.name)
+  knit_md_path <- sub("\\.md$", ".knit.md", md_path_expected)
+  
+  # Use the knit_md_path if it exists; otherwise fallback to md_path_expected.
+  target_file <- if (file.exists(knit_md_path)) knit_md_path else md_path_expected
+  
+  # Remove blank lines from the markdown file if needed.
   if (remove.blank) {
-    RemoveBlank(file.path(md.dir, md.name))
+    RemoveBlank(target_file)
   }
   
+  return(output_file)
 }
+
+
 
 #' @title CreateChart
 #' @keywords internal
@@ -820,7 +811,7 @@ CreateChart <- function(
     jsonlite::prettify() |>
     # String to function
     (function(x) gsub("\"\\*code\\*|\\*code\\*\"", "", x))()
-
+  
   if (shortcode) {
     # Complete shortcode
     json <- paste0(
@@ -862,9 +853,9 @@ SdgColors <- \(alpha = 1) {
 #' @title SdgLabels
 #' @keywords internal
 #' @noRd
-SdgLabels <- \(lang = "no") {
+SdgLabels <- \(lang = "nn") {
   
-  if (lang == "no") {
+  if (lang == "nn") {
     
     # Example usage with an unknown number of groups
     labels <- c(
@@ -921,17 +912,18 @@ SdgDoughnut <- \(lang,
                  header = TRUE,
                  shortcode = TRUE,
                  div.width = NULL,
-                 div.height = NULL) {
+                 div.height = NULL,
+                 silent = TRUE) {
   
   # Mount Data
-  MountData(lang, sdg.data)
+  MountData(lang, sdg.data, silent)
   
   # Create numeric sdg data
   data <- as.numeric(sdg.data$sum)
   
   # Define SDG dataset
   datasets <- list(data[data > 0])
-
+  
   # Define SDG Labels
   labels <- SdgLabels(lang)[data > 0]
   
@@ -948,7 +940,7 @@ SdgDoughnut <- \(lang,
   chart <- CreateChart(
     type = type,
     labels = labels, 
-    dataset.labels = Dict("publications", lang, 2),
+    dataset.labels = Dict("publication", lang, 2),
     datasets = datasets, 
     background.color = background.color,
     font.color = "black",
@@ -991,14 +983,15 @@ SdgOverview <- \(lang,
                  archive.append = NULL,
                  sort = FALSE,
                  delete = FALSE,
-                 header = TRUE) {
+                 header = TRUE,
+                 silent = TRUE) {
   
   # Mount Data
-  MountData(lang, sdg.data)
+  MountData(lang, sdg.data, silent)
   
   # Fetch data
   sdg <- c2z4uni:::SdgInfo(
-    sdg.data$sum,
+    sdg.sum = sdg.data$sum,
     lang = lang,
     sdg.path = "{{< params subfolder >}}images/sdg",
     archive.url = paste0("{{< params subfolder >}}", lang, "/archive/"),
@@ -1035,7 +1028,7 @@ SdgOverview <- \(lang,
 #' @noRd
 PublicationTrend <- \(data, lang) {
   
-  dataset.labels <- c(Dict("publications", lang, 2), Dict("sdg", lang, 2))
+  dataset.labels <- c(Dict("publication", lang, 2), Dict("sdg", lang, 2))
   labels <- data$names
   datasets <- list(data$n.publications, data$sdg.sum)
   # Chart configuration
@@ -1059,15 +1052,15 @@ PublicationTrend <- \(data, lang) {
 #' @title SdgTrend
 #' @keywords internal
 #' @noRd
-SdgTrend <- \(lang, sdg.data = NULL, header = TRUE) {
+SdgTrend <- \(lang, sdg.data = NULL, header = TRUE, silent = TRUE) {
   
   # Mount Data
-  MountData(lang, sdg.data)
- 
+  MountData(lang, sdg.data, silent)
+  
   # Main publishing faculties
   ids <- c("209.0.0.0", "209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
   # Find units
-
+  
   units <- dplyr::filter(unit.paths, id %in% ids) |>
     dplyr::mutate(
       sdg = purrr::map(key, ~ SdgSum(
@@ -1075,7 +1068,7 @@ SdgTrend <- \(lang, sdg.data = NULL, header = TRUE) {
       )
     )
   
-  dataset.labels <- c("INN", "ALB", "HSV", "LUP", "HHS")
+  dataset.labels <- toupper(units$acronym)
   labels <- names(table(monthlies$year))
   datasets <- lapply(units$sdg, \(x) x$sdg.sum)
   
@@ -1110,20 +1103,21 @@ SdgTrend <- \(lang, sdg.data = NULL, header = TRUE) {
 #' @title SdgUnits
 #' @keywords internal
 #' @noRd
-SdgUnits <- \(lang, sdg.data = NULL, header = TRUE) {
-
+SdgUnits <- \(lang, sdg.data = NULL, header = TRUE, silent = TRUE) {
+  
   # Mount Data
-  MountData(lang, sdg.data)
+  MountData(lang, sdg.data, silent)
   
   # Main publishing faculties
   ids <- c("209.2.0.0", "209.4.0.0", "209.5.0.0", "209.6.0.0")
+
   # Find units
   units <- dplyr::filter(unit.paths, id %in% ids) |>
     dplyr::mutate(
       sdg = purrr::map(key, ~ SdgSum(.x, monthlies, sdg.data))
     )
-
-  labels <- c("ALB", "HSV", "LUP", "HHS")
+  
+  labels <- toupper(units$acronym)
   dataset.labels <- as.list(SdgLabels())
   datasets <-   as.list(
     do.call(dplyr::bind_rows,lapply(units$sdg, \(x) x$sdg.sum))
@@ -1208,27 +1202,34 @@ MdFiles <- \(path) {
 #' @title GetLibrary
 #' @keywords internal
 #' @noRd
-LibraryPost <- \(lang, 
-                locale, 
-                unit.key = "209.0.0.0",
-                email.unit = NULL,
-                user.cards = TRUE,
-                start.date = NULL, 
-                end.date = NULL, 
-                post = FALSE,
-                post.only = FALSE,
-                update = FALSE,
-                full.update = FALSE,
-                get.unpaywall = TRUE,
-                get.ezproxy = TRUE,
-                silent = FALSE,
-                sdg.host = "http://localhost:6963/process",
-                log = list()) {
+LibraryPost <- \(lang = "en", 
+                 post.lang = "en",
+                 locale = "en_US", 
+                 unit.id = "209.0.0.0",
+                 email.unit = NULL,
+                 user.cards = TRUE,
+                 start.date = NULL, 
+                 end.date = NULL, 
+                 post = FALSE,
+                 post.only = FALSE,
+                 update = FALSE,
+                 full.update = FALSE,
+                 get.unpaywall = TRUE,
+                 get.ezproxy = TRUE,
+                 use.identifiers = TRUE,
+                 use.citeproc = TRUE,
+                 use.multisession = TRUE,
+                 n.workers = NULL,
+                 handler = "cli",
+                 restore.defaults = FALSE,
+                 silent = FALSE,
+                 sdg.host = "http://localhost:6963/process",
+                 log = list()) {
   
   
   # Fetch updated data if update is TRUE
   if (update) {
-
+    
     # Set star date as 1 month ago from floored sys.date
     ## Eg. "2023-10-10" -> "2023-10-01" -> "2023-09-01"
     if (is.null(start.date)) {
@@ -1238,7 +1239,7 @@ LibraryPost <- \(lang,
     # Fetch library
     cristin.monthly <- CristinMonthly(
       zotero,
-      unit.key = unit.key,
+      unit.id = unit.id,
       start.date = start.date,
       end.date = end.date,
       local.storage = local.storage,
@@ -1249,27 +1250,23 @@ LibraryPost <- \(lang,
       full.update = full.update,
       get.unpaywall = get.unpaywall,
       get.ezproxy = get.ezproxy,
-      lang = lang
+      use.identifiers = use.identifiers,
+      use.citeproc = use.citeproc,
+      use.multisession = use.multisession,
+      n.workers = n.workers,
+      handler = handler,
+      restore.defaults = restore.defaults,
+      lang = lang,
+      post.lang = post.lang
     )
     
   }
   
-  # Cretate SDG summary
-  sdg.data <- c2z:::GoFish(
-    readRDS(file.path(local.storage, "sdg_predictions.rds")) |>
-      c2z4uni:::SdgSummary(),
-    NULL
-  )
-  saveRDS(
-    sdg.data, 
-    file.path(local.storage, "sdg_predictions_summary.rds")
-  )
-  
   if (post) return (cristin.monthly)
   
   # Mount Data
-  MountData(lang, sdg.data)
-
+  MountData(lang)
+  
   # Log
   log <-  c2z:::LogCat(
     "Creating email",
@@ -1277,12 +1274,13 @@ LibraryPost <- \(lang,
     log = log
   )
   
-  if (is.null(email.unit)) email.unit <- unit.key
+  if (is.null(email.unit)) email.unit <- unit.id
   
   # Create email
   email <- CristinMail(
-    unit.key = email.unit, 
-    cristin.monthly, 
+    unit.id = email.unit, 
+    monthlies,
+    unit.paths,
     "https://oeysan.github.io/c2z4inn",
     lang = lang
   )
@@ -1303,11 +1301,15 @@ LibraryPost <- \(lang,
   
   ## Create JSON data
   json <- CristinJson(
-    cristin.monthly, 
+    dplyr::arrange(monthlies, desc(year.month)),
+    unit.paths,
+    sdg.data = sdg.data,
     user.cards = user.cards,
     local.storage = local.storage, 
+    use.multisession = use.multisession,
     lang = lang
   )
+  
   # Specify the compressed file path
   compressed.file <- gzfile(json.path, "wb")
   # Write the compressed JSON data to the file
@@ -1316,7 +1318,7 @@ LibraryPost <- \(lang,
   close(compressed.file)
   
   # Creating publication folder if it does not exist
-  pub <- if (lang == "no") pub.no else pub.en
+  pub <- if (lang == "nn") pub.nn else pub.en
   dir.create(
     pub,
     showWarnings = FALSE,
@@ -1327,19 +1329,8 @@ LibraryPost <- \(lang,
   md.files <- gsub("\\.md", "", MdFiles(pub)) |>
     stringr::str_replace("\\.md", "")
   
-  # Non-updated md files
-  old.md <- md.files |>
-    stringr::str_subset(
-      paste(updated.keys, collapse = "|"), 
-      negate = TRUE
-    )
-  
-  # Deleted md files
-  deleted.md  <- md.files |>
-    stringr::str_subset(
-      paste(cristin.monthly$monthlies$key, collapse = "|"), 
-      negate = TRUE
-    )
+  # Deleted keys
+  deleted.md  <- setdiff(md.files, monthlies$key)
   
   # Remove deleted files
   if (any(length(deleted.md))) {
@@ -1354,9 +1345,12 @@ LibraryPost <- \(lang,
     file.remove(file.path(pub, paste0(deleted.md, ".md")))
   }
   
-  # Filter out non-updated md files
-  new.pages <- cristin.monthly$monthlies |>
-    dplyr::filter(!key %in% old.md)
+  missing.md  <- setdiff(monthlies$key, md.files)
+  updated.keys <- unique(missing.md, updated.keys)
+  
+  # Find new or updated keys
+  new.pages <- monthlies |>
+    dplyr::filter(key %in% updated.keys)
   
   # Log
   log <-  c2z:::LogCat(
@@ -1364,73 +1358,56 @@ LibraryPost <- \(lang,
     silent = silent,
     log = log
   )
-  
+
+  if (!any(nrow(new.pages))) {
+    return (NULL)
+  }
+
   # Create web pages
   web <- CristinWeb(
     new.pages,
-    sdg.data, 
+    sdg.data,
     "{{< params subfolder >}}images/sdg",
     archive.url = paste0("{{< params subfolder >}}", lang, "/archive/"),
-    user.cards = user.cards, 
-    local.storage = local.storage, 
-    lang = lang
+    md.path = pub,
+    md.save = TRUE,
+    user.cards = user.cards,
+    local.storage = local.storage,
+    lang = lang,
+    use.multisession = 50,
+    n.workers = n.workers,
+    handler = handler,
+    restore.defaults = restore.defaults,
+  )
+  log <- web$log
+  web <- web$results
+  
+  updated_keys <- c2z4uni:::LocalStorage(
+    "updated_keys", 
+    local.storage,
+    NULL,
+    message = "Resetting updated keys",
+    lang = lang,
+    silent = silent
   )
   
-  # Log
-  log <-  c2z:::LogCat(
-    "Saving MD files",
-    silent = silent,
-    log = log
-  )
-  
-  # Write individual MD files
-  # Start time for query
-  query.start <- Sys.time()
-  # Cycle through monthlies and create markdowns
-  for (i in seq_len(nrow(web))) {
-    item <- web[i, ]
-    path <- file.path(pub, paste0(item$key, ".md"))
-    writeLines(c("---", item$frontmatter ,"---", item$html), path)
-    # Estimate time of arrival
-    log.eta <-
-      c2z:::LogCat(
-        c2z:::Eta(
-          query.start,
-          i,
-          nrow(web)
-        ),
-        silent = silent,
-        flush = TRUE,
-        log = log,
-        append.log = FALSE
-      )
-  }
-  
-  # Create return list
-  return.list <- list(
-    monthly = cristin.monthly,
-    email = email,
-    web = web,
-    json = json
-  )
-  
-  return(return.list)
+  return("Completed")
   
 }
 
 
-LibraryUpdate <- \(lang = "no", pages = TRUE) {
+LibraryUpdate <- \(unit.id = "209.0.0.0", lang = "nn", pages = TRUE) {
   
-  if (lang == "no") { 
+  if (lang == "nn") { 
     locale <- "nn-NO"
   } else {
     locale <- "en-US"
   }
   
-  
   if (pages) {
     # Fetch English library
     lib <- LibraryPost(
+      unit.id = unit.id, 
       lang = lang, 
       locale = locale,
       update = TRUE,
@@ -1438,24 +1415,39 @@ LibraryUpdate <- \(lang = "no", pages = TRUE) {
     )
   }
   
+  # Mount data
+  MountData(lang, silent = FALSE)
+  
+  print("Updating SDG Overview")
+  
   # Create SDG overview
   SdgOverview(lang)
+  
+  print("Updating Doughnuts")
   
   # Create doughtnuts
   SdgDoughnut(lang)
   
-  # Create SDG per units
+  print("Updating SDG by Units")
+  
+  # Create SDG by units
   SdgUnits(lang)
+  
+  print("Updating Publication Trends")
   
   # Create SDG trend
   SdgTrend(lang)
   
+  print("Updating Descriptive Statistics")
+  
   # Create stats
   CreateStats(lang)
+  
+  print("Updating About Pages")
   
   # Create about
   About(lang)
   
-  return (lib)
-
+  return ("Completed")
+  
 }

@@ -1,5 +1,6 @@
 ---
 headless: true
+encoding: UTF-8
 ---
 
 
@@ -9,11 +10,11 @@ headless: true
 # About
 
 This website serves as an archive for scientific publications at 
-Inland Norway University of Applied Sciences 
-(registered in Cristin since the institution was established on January 1, 2017). 
+University of Inland Norway (registered in Cristin since the institution was 
+established on January 1, 2017). 
 It is updated monthly.
 
-The archive was last updated **08-02-2024 (at 12:31)** and contains **4734** publications.
+The archive was last updated **03-25-2025 (at 14:20)** and contains **5493** publications.
 
 Use [the archive](#archive) to find publications for faculties and departments 
 at the university for a specific year or month. You can also use the search 
@@ -26,4 +27,4 @@ using machine learning based on a large language model (LLM) and semantic analys
 The model will be made available pending peer-review.
 
 You may also visit the 
-[Zotero library](https://www.zotero.org/groups/5022929/hinn/library).
+[Zotero library](https://www.zotero.org/groups/5881554/inn_archive/library).

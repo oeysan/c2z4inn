@@ -284,20 +284,15 @@ function showPopup(text, messageKey, includeText = true, copyText = true) {
 document.addEventListener("DOMContentLoaded", function() {
   var dropdownButtons = document.querySelectorAll('.dropdown-button');
 
-  function toggleDropdownIcon() {
-    var dropdown = document.querySelector('.dropdown-button');
-    var dropdownContent = document.querySelector('.dropdown-content');
-
-    if (dropdown && dropdownContent) {
-        var firstIcon = dropdown.querySelector('i');
-
-        if (dropdownContent.classList.contains('show')) {
-            firstIcon.classList.remove('la-chevron-down');
-            firstIcon.classList.add('la-chevron-up');
-        } else {
-            firstIcon.classList.remove('la-chevron-up');
-            firstIcon.classList.add('la-chevron-down');
-        }
+  // Update the function to accept parameters
+  function toggleDropdownIcon(dropdown, dropdownContent) {
+    var firstIcon = dropdown.querySelector('i');
+    if (dropdownContent.classList.contains('show')) {
+      firstIcon.classList.remove('la-chevron-down');
+      firstIcon.classList.add('la-chevron-up');
+    } else {
+      firstIcon.classList.remove('la-chevron-up');
+      firstIcon.classList.add('la-chevron-down');
     }
   }
 
@@ -318,7 +313,6 @@ document.addEventListener("DOMContentLoaded", function() {
         containerDiv.innerHTML = "";
         includePage(targetPageURL, ".include", containerDiv, 0, false, [updateTreeUlHeight, checkTreeDimensions]);
       } else {
-        // Remove the section when the dropdown is hidden
         var section = dropdownContent.querySelector('section');
         if (section) {
           dropdownContent.removeChild(section);
@@ -331,12 +325,10 @@ document.addEventListener("DOMContentLoaded", function() {
     // Close the dropdown menu if user clicks outside of it
     document.addEventListener('click', function(event) {
       if (!dropdownContent.contains(event.target)) {
-        // Check if the section exists before removing it
         var existingSection = dropdownContent.querySelector('section');
         if (existingSection) {
           dropdownContent.removeChild(existingSection);
         }
-
         dropdownContent.classList.remove('show');
         toggleDropdownIcon(dropdown, dropdownContent);
       }

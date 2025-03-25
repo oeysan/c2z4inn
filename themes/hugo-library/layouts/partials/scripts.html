@@ -9,6 +9,7 @@
 {{ $scrollHideMenu := resources.Get "js/scroll-hide-menu.js" }}
 {{ $archive := resources.Get "js/archive.js" }}
 {{ $createCharts := resources.Get "js/create-charts.js" }}
+{{ $updateSdgs := resources.Get "js/sdg-updater.js" }}
 
 {{ $jsResources := slice 
   $loadingScreen 
@@ -19,7 +20,9 @@
   $scrollHideMenu 
   $archive 
   $createCharts 
+  $updateSdgs
 }}
+
 {{ $validResources := slice }}
 
 {{ range $jsResources }}
@@ -46,6 +49,21 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
 
+  // Define data URL
+  var dataURL = baseURL + "data/data_" + defaultContentLanguage + ".json.gz";
+
+  // Create a shared promise if one doesn't exist
+  if (!window.loadedDataPromise) {
+    window.loadedDataPromise = fetch(dataURL)
+      .then(response => response.arrayBuffer()) // Get response as array buffer
+      // Use pako.ungzip (not inflate) to properly decompress gzipped data
+      .then(buffer => pako.ungzip(new Uint8Array(buffer), { to: 'string' }))
+      .then(decompressedData => JSON.parse(decompressedData)) // Parse JSON
+      .catch(err => {
+        console.error("Error loading or processing JSON:", err);
+      });
+  }
+
   // To initialize the scroll-to-top button, call the function
   createChart(charts);
   initializeSlideshow(1);
@@ -63,6 +81,8 @@ document.addEventListener('DOMContentLoaded', function () {
   // To initialize the translation updater, call the function
   initializeTranslationUpdater(defaultContentLanguage);
   updateTreeUlHeight();
+  // Update SDG Counts
+  updateSdgs();
 
   // Hide the loader with a delay of 500 ms after the page is fully loaded
   const loaderContainer = document.querySelector('#loader-container');

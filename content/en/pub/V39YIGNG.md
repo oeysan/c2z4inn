@@ -1,0 +1,45 @@
+---
+title: 'Sovereign Debt Restructuring and the Law: The Holdout Creditor Problem in
+  Argentina and Greece. By Sebastian Grund. New York: Routledge, 2022. Pp. xvi, 182.
+  Index.'
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-V39YIGNG" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Iversen, A. (2024). Sovereign Debt Restructuring and the Law: The Holdout Creditor Problem in Argentina and Greece. By Sebastian Grund. New York: Routledge, 2022. Pp. xvi, 182. Index. <i>American Journal of International Law</i>.</div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-V39YIGNG" alt="archive" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2266954" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/V39YIGNG" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-V39YIGNG" alt="keywords" class="csl-bib-button">Keywords</a>
+  </div>
+  <div id="csl-bib-meta-container-V39YIGNG"></div>
+</article>
+<div id="csl-bib-meta-V39YIGNG" class="csl-bib-meta">
+  <article id="keywords-article-V39YIGNG" class="keywords-article">
+    <h1>Keywords</h1>
+    
+  </article>
+  <article id="taxonomy-article-V39YIGNG" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>
+        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=ITYAG68H">Department of Law, Philosophy and International studies</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=KVIAK4ZQ">2024</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=KILB6D54">May</a>
+      </li>
+    </ul>
+  </article>
+</div>

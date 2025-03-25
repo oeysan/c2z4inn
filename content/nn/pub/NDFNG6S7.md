@@ -1,0 +1,85 @@
+---
+title: 'On the expression of hegemony in the field of educational technology: - a
+  case study of editorials in a Norwegian academic journal'
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-NDFNG6S7" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Haugsbakk, G., &#38; Nordkvelle, Y. T. (2020). On the expression of hegemony in the field of educational technology: - a case study of editorials in a Norwegian academic journal. <i>Seminar.Net</i>, <i>16</i>(2), 19. <a href="https://doi.org/10.7577/seminar.4044">https://doi.org/10.7577/seminar.4044</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-NDFNG6S7" alt="archive" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1870348" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/NDFNG6S7" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-NDFNG6S7" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="#about-article-NDFNG6S7" alt="about_pub" class="csl-bib-button">Om</a>
+    <a href="#contributors-article-NDFNG6S7" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-NDFNG6S7" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.7577/seminar.4044" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.7577/seminar.4044" alt="EZproxy" class="csl-bib-button">EZproxy</a>
+  </div>
+  <div id="csl-bib-meta-container-NDFNG6S7"></div>
+</article>
+<div id="csl-bib-meta-NDFNG6S7" class="csl-bib-meta">
+  <article id="about-article-NDFNG6S7" class="about_pub-article">
+    <h1>Om</h1>
+    Haugsbakk og Nordkvelle gjennomførte ein studie som undersøkte leiarsidene i Nordisk tidsskrift for digital kompetanse, eit leiande akademisk tidsskrift i Noreg med fokus på utdanningsteknologi. Dei analyserte innhaldet i desse leiarsidene over ti år for å forstå korleis dominerande politiske prioriteringar og diskursar formar feltet. Funnene deira viser at leiarsidene i stor grad reflekterer dei politiske agendaene sett av Kunnskapsdepartementet, med få kritiske perspektiv og minimal referanse til dei faktiske forskingsartiklane publisert i tidsskriftet. Dette antyder at tidsskriftets leiarsider kan forsterke eksisterande maktstrukturar og politiske prioriteringar heller enn å fremje mangfaldige synspunkt eller kritisk debatt. Dette er viktig fordi det understrekar korleis innflytelsesrike publikasjonar kan forme og avgrense diskursen innan utdanningsteknologi.
+  </article>
+  <article id="keywords-article-NDFNG6S7" class="keywords-article">
+    <h1>Emneord</h1>
+    Hegemoni, Utdanningsteknologi, Statlege tiltak, Politiske diskursar, Nordisk tidsskrift for digital kompetanse, Leiarsider
+  </article>
+  <article id="abstract-article-NDFNG6S7" class="abstract-article">
+    <h1>Samandrag</h1>
+    This article has emerged from a project aiming at gaining an overview of actors and key figures, their perspectives and results after more than 30 years of ambitious governmental efforts to introduce computer technology in school. The main focus of the article is on what we consider to be dominant arguments, discourses and issues related to the hegemonization of meaning formation. Our line of reasoning is based primarily on a case study of the leading journal in the field of educational technology in Norway over the last fifteen years, the Nordic Journal of Digital Literacy. This is a mainstream research journal, which publishes peer-reviewed articles. However, being subject to the Norwegian Ministry of Education and Research, it represents a rather interesting case for interrogating the issue of hegemony. Placing the journal’s policy at the forefront, the focus of our analysis will be on the editorials. The main findings, based on issues of the journal over the first ten years are that the editorials are in keeping with what can be regarded as the political priorities and the prevailing political discourses in the field. They contain relatively few, if any, critical perspectives and scant reference is made to the research articles and research area it claims to serve. The method used is document analysis, inspired by discourse-analytic approaches.
+  </article>
+  <article id="contributors-article-NDFNG6S7" class="contributors-article">
+    <h1>Medverkande</h1>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <img src="data:image/jpeg;base64,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" alt="Yngve Troye Nordkvelle" loading="lazy"> </div> <div class="info"> <hgroup><h1>Yngve Troye Nordkvelle</h1> <h2>Professor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:yngve.nordkvelle@inn.no">yngve.nordkvelle@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4761288286"> +47 61 28 82 86 </a></dd> </dl> <p> Utdanningsavdelingen<br> Seksjon for UH-pedagogikk og kvalitet<br> Studiested Elverum </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/finn-en-ansatt/yngve-nordkvelle.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/yngve-nordkvelle.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=338834" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-NDFNG6S7" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg4" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
+        <div class="sdg-overlay">
+          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-NDFNG6S7" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>
+        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=MD94ZHP9">2021</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=TWFXHRMC">Januar</a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=QP7PBTSZ">Administrasjonen</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=XBVH2UA2">2021</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=XGXEEF4N">Januar</a>
+      </li>
+    </ul>
+  </article>
+</div>

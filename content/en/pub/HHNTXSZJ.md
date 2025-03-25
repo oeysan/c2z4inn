@@ -1,0 +1,69 @@
+---
+title: Innledning
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-HHNTXSZJ" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Walseth, K., &#38; Standal, Ø. F. (2023). Innledning. In K. Walseth &#38; Ø. F. Standal (Eds.), <i>Folkehelse og livsmestring: med utgangspunkt i fagene</i>. Universitetsforlaget.</div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-HHNTXSZJ" alt="archive" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2227684" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/HHNTXSZJ" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-HHNTXSZJ" alt="keywords" class="csl-bib-button">Keywords</a>
+    <a href="#about-article-HHNTXSZJ" alt="about_pub" class="csl-bib-button">About</a>
+    <a href="#sdg-article-HHNTXSZJ" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+  </div>
+  <div id="csl-bib-meta-container-HHNTXSZJ"></div>
+</article>
+<div id="csl-bib-meta-HHNTXSZJ" class="csl-bib-meta">
+  <article id="about-article-HHNTXSZJ" class="about_pub-article">
+    <h1>About</h1>
+    Walseth and Standal's book explores how to teach public health and life skills in schools through a multidisciplinary approach. They focus on integrating subjects like body, health, identity, and critical thinking into the curriculum. The authors explain the background of this interdisciplinary theme and provide practical ways for teachers to connect various subjects to public health and life skills. They emphasize the importance of teaching these topics from a critical perspective. The book is based on a research project funded by the Norwegian Research Council and includes contributions from researchers, teacher educators, and other experts. It is intended for teacher students, teachers, and school leaders, aiming to enhance their understanding and methods of teaching public health and life skills effectively.
+  </article>
+  <article id="keywords-article-HHNTXSZJ" class="keywords-article">
+    <h1>Keywords</h1>
+    Folkehelse, Livsmestring, Tverrfaglig Undervisning, Kritisk Tenkning, Kompetansemål
+  </article>
+  <article id="abstract-article-HHNTXSZJ" class="abstract-article">
+    <h1>Scientific abstract</h1>
+    Hvordan undervise i Folkehelse og livsmestring?Denne boka handler om tverrfaglig undervisning i Folkehelse og livsmestring med utgangspunkt i fagene. Temaene kropp, helse, identitet og kritisk tenkning er en rød tråd gjennom boka.Forfatterne gir en introduksjon til bakgrunnen for opprettelsen av det tverrfaglige temaet i skolen, og viser hvordan de enkelte fagene kan relateres til Folkehelse og livsmestring. I tillegg drøfter de hvordan lærere kan jobbe tverrfaglig med temaet, med utgangspunkt i fagenes kompetansemål. Intensjonen er å gi kunnskap om og drøfte tverrfaglig undervisning som tar utgangspunkt i kompetanser fra fagene. Forfatterne er spesielt opptatt av undervisning som tar et kritisk perspektiv på helse og livsmestring.Boka springer ut fra et forskningsprosjekt finansiert av Norges forskningsråd, Literacies for health and life-skills. Både forskere, lærerutdannere og andre som er opptatt av Folkehelse og livsmestring er bidragsytere.Målgruppe for boken er lærerstudenter, lærere og skoleledere.
+  </article>
+  <article id="sdg-article-HHNTXSZJ" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div> <div id="sdg4" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-HHNTXSZJ" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>
+        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=DLUBDP8T">2024</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=3Y6TNBSU">January</a>
+      </li>
+    </ul>
+  </article>
+</div>

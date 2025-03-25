@@ -21,4 +21,5 @@ options(
 )
 
 # fix Hugo version
-options(blogdown.hugo.version = "0.118.2")
+options(blogdown.hugo.version = "0.145.0")
+Sys.setlocale("LC_ALL", "en_US.UTF-8")

@@ -49,8 +49,8 @@
     "subfolder" site.Params.subfolder 
   )  
 }}
-{{ with resources.Get "sass/main.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" />
+{{ with resources.Get "sass/main.scss" | css.Sass $options | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" />
 {{ end }}
 
 <!-- Custom CSS -->
@@ -59,8 +59,7 @@
   {{ $outputPath := printf "/css/%s.css" . }}
   {{ $cssResource := resources.Get $inputPath }}
   {{ if $cssResource }}
-    {{ $options := dict "targetPath" $outputPath }}
-    {{ with $cssResource | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
+    {{ with $cssResource | resources.Minify | resources.Fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{ end }}
   {{ end }}

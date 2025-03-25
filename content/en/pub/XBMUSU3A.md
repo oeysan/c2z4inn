@@ -1,0 +1,44 @@
+---
+title: 'Aligning the stars in East Los High: How authentic characters and storylines
+  can translate into real-life changes through transmedia edutainment'
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-XBMUSU3A" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Wang, H., Singhal, A., Quist, C., Sachdev, A., &#38; Liu, S. (2019). Aligning the stars in East Los High: How authentic characters and storylines can translate into real-life changes through transmedia edutainment. <i>SEARCH Journal of Media and Communication Research</i>, <i>11</i>(3), 1–22. <a href="http://search.taylors.edu.my/documents/journals/2019-11-3/SEARCH-2019-11-3-J1-1-22.pdf">http://search.taylors.edu.my/documents/journals/2019-11-3/SEARCH-2019-11-3-J1-1-22.pdf</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-XBMUSU3A" alt="archive" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1741026" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/XBMUSU3A" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-XBMUSU3A" alt="keywords" class="csl-bib-button">Keywords</a>
+  </div>
+  <div id="csl-bib-meta-container-XBMUSU3A"></div>
+</article>
+<div id="csl-bib-meta-XBMUSU3A" class="csl-bib-meta">
+  <article id="keywords-article-XBMUSU3A" class="keywords-article">
+    <h1>Keywords</h1>
+    
+  </article>
+  <article id="taxonomy-article-XBMUSU3A" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>
+        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=7GQPC2L9">2019</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=E5ZADCUW">October</a>
+      </li>
+    </ul>
+  </article>
+</div>

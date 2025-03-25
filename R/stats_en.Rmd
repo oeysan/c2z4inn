@@ -1,5 +1,6 @@
 ---
-headless: true
+type: "stats"
+encoding: UTF-8
 ---
 
 ```{r knitrrrr, include = FALSE}
@@ -10,7 +11,6 @@ knitr::opts_chunk$set(
   warning = FALSE,
   message = FALSE
 )
-
 ```
 
 ```{r updated, include=FALSE}

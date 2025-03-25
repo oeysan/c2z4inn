@@ -1,5 +1,6 @@
 ---
 headless: true
+encoding: UTF-8
 ---
 
 ```{r knitrrrr, include = FALSE}

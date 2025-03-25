@@ -1,0 +1,23 @@
+---
+type: "stats"
+encoding: UTF-8
+---
+
+```{r knitrrrr, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%",
+  warning = FALSE,
+  message = FALSE
+)
+```
+
+```{r updated, include=FALSE}
+updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
+```
+
+<figure class="include">
+  `r params$tree`
+  `r params$tree.select`
+</figure>

@@ -1,14 +1,14 @@
 theme: "hugo-library"
 baseURL: "http://localhost:4321/"
-defaultContentLanguage: "no"
+defaultContentLanguage: "nn"
 defaultContentLanguageInSubdir: true
 disableFastRender: false
 disablePathToLower: true
 languages:
-  "no":
+  "nn":
     title: "INN-arkivet"
     weight: 1
-    contentDir: "content/no"
+    contentDir: "content/nn"
     disabled: false
     languageCode: nn-NO
     languageDirection: ltr
@@ -18,11 +18,10 @@ languages:
       - name: Statistikk
         identifier: stats
         params:
-          class: dropdown-button
-          include: stats
+          class: "dropdown-button"
         weight: 10
       - name: Arkivet
-        url: "/no/archive"
+        url: "/nn/archive"
         weight: 20
       - name: English
         identifier: "change-lang"
@@ -52,7 +51,7 @@ languages:
       - name: Norsk
         identifier: "change-lang"
         params:
-          lang: "no"
+          lang: "nn"
         weight: 30
     params:
       subtitle: a Zotero library for INN

@@ -32,6 +32,7 @@ function initializeArchivePage() {
     let jsonCollections;
     let jsonItems;
     let filteredData;
+    let urlKeyFilter = "";
 
     // Define an object to map parameter names to DOM elements
     const parameterMap = {
@@ -78,7 +79,8 @@ function initializeArchivePage() {
                 collections, 
                 key, 
                 cristinId, 
-                abstract, 
+                keywords,
+                synopsis, 
                 contributors, 
                 sdg, 
                 unpaywall, 
@@ -149,18 +151,33 @@ function initializeArchivePage() {
                 buttonsContainer.appendChild(cristinButton);
             }
 
-            // Create abstract button
-            if (abstract) {
-                const abstractButton = createButton({ 
+            // Create keywords button
+            if (keywords) {
+                const aboutButton = createButton({ 
                     type: "span", 
                     className: "csl-bib-button show-meta",
                     attribute: {
                         "data-key": key,
-                        "data-target": `abstract-article-${key}`,
-                        "data-i18n": "abstract_text"
+                        "data-target": `keywords-article-${key}`,
+                        "data-i18n": "keywords"
                     }
                 });
-                buttonsContainer.appendChild(abstractButton);
+                buttonsContainer.appendChild(aboutButton);
+            }
+
+
+            // Create synopsis button
+            if (synopsis) {
+                const aboutButton = createButton({ 
+                    type: "span", 
+                    className: "csl-bib-button show-meta",
+                    attribute: {
+                        "data-key": key,
+                        "data-target": `about-article-${key}`,
+                        "data-i18n": "about_pub"
+                    }
+                });
+                buttonsContainer.appendChild(aboutButton);
             }
 
             // Create contributors button
@@ -313,14 +330,19 @@ function initializeArchivePage() {
         monthSelect.value = '';
         itemTypeSelect.value = '';
         sdgSelect.value = '';
+        urlKeyFilter = "";
         
         // Reset all .collections selects
         const collectionsSelects = document.querySelectorAll('.collections');
         collectionsSelects.forEach(select => {
             select.value = '';
         });
-
-        // Your existing code for applying filters
+    
+        // Remove all query parameters from the URL, including key
+        const newUrl = window.location.protocol + "//" + window.location.host + window.location.pathname;
+        window.history.pushState({path: newUrl}, '', newUrl);
+    
+        // Reapply the filters after resetting values
         applyFilter();
     }
 
@@ -332,28 +354,25 @@ function initializeArchivePage() {
         const selectedType = itemTypeSelect.value;
         const selectedCollection = getLastSelectedCollection();
         const selectedSDG = sdgSelect.value;
-    
-        // Filter the data based on user input
+        
         filteredData = jsonItems.filter(item => {
-            // Concatenate the values of properties to search
-            const searchString = (
-                    item.html + item.key + item.abstract
-                ).toLowerCase();
-            
+            // Build the search string for full-text search
+            const searchString = (item.html + item.key + item.abstract).toLowerCase();
             return (
-                (!search || searchString.includes(search.toLowerCase())) &&
+                (!search || searchString.includes(search)) &&
                 (!selectedYear || item.year === parseInt(selectedYear)) &&
                 (!selectedMonth || item.month == selectedMonth) &&
                 (!selectedType || item.type === selectedType) &&
                 (!selectedCollection || item.collections?.includes(selectedCollection)) &&
-                (!selectedSDG || (item.sdg?.includes(selectedSDG) && item.sdg.includes(selectedSDG)))
+                (!selectedSDG || (Array.isArray(item.sdg) && item.sdg.some(val => val == selectedSDG))) &&
+                (!urlKeyFilter || item.key === urlKeyFilter || (item.collections && item.collections.includes(urlKeyFilter)))
             );
         });
-
-        // Reset the current page to 1
+    
         currentPage = 1;
         loadMoreItems();
     }
+    
 
     // Function to update and display the item count
     function updateItemCount(nItems) {
@@ -424,59 +443,45 @@ function initializeArchivePage() {
 
     // Function to set values of DOM elements based on URL parameters
     function setValuesFromURL(parameterMap) {
-        // Parse the URL to extract query parameters
         const urlSearchParams = new URLSearchParams(window.location.search);
-
-        // Check if there is a "collection" parameter in the URL
+    
+        // Process the "collection" parameter separately
         const collectionParam = urlSearchParams.get("collection");
-
         if (collectionParam !== null) {
-            // Find all .collections select elements
             const collectionsSelects = document.querySelectorAll('.collections');
-
-            // Iterate through the .collections select elements
             collectionsSelects.forEach(select => {
-                // Check if the select's options include the "collection" parameter value
                 const optionExists = Array.from(select.options).some(option => option.value === collectionParam);
-
                 if (optionExists) {
-                    // Set the value of the matching .collections select element
                     select.value = collectionParam;
                 }
             });
         }
-
-        // Iterate through the parameter names in the object
+    
+        // If there’s a key parameter, store it in the global variable.
+        const keyParam = urlSearchParams.get("key");
+        if (keyParam !== null) {
+            urlKeyFilter = keyParam;
+        }
+            
+        // Iterate through other parameters, excluding those already handled
         for (const paramName in parameterMap) {
-            if (paramName !== "collection") {
+            if (paramName !== "collection" && paramName !== "urlKeyFilter") {
                 const domElement = parameterMap[paramName];
                 const paramValue = urlSearchParams.get(paramName);
-
-                // Handle other parameters as before
+    
                 if (paramValue !== null && domElement !== undefined && domElement.tagName === "SELECT") {
-                    // Handle <select> elements
                     const optionExists = Array.from(domElement.options).some(option => option.value === paramValue);
-                    if (optionExists) {
-                        domElement.value = paramValue;
-                    } else {
-                        domElement.value = "";
-                    }
+                    domElement.value = optionExists ? paramValue : "";
                 } else if (domElement !== undefined && domElement.tagName === "INPUT") {
-                    // Handle <input> elements
                     domElement.value = paramValue || "";
                 }
             }
         }
-    }
+    }   
 
     // Function to initialize data and populate page content
     function initData() {
-        fetch(dataURL)
-            .then(response => response.arrayBuffer()) // Get response as array buffer
-            .then(buffer => pako.inflate(new Uint8Array(buffer), { to: 'string' })) // Inflate gzipped response
-            .then(data => {
-                // Parse the JSON data
-                const jsonData = JSON.parse(data);
+            window.loadedDataPromise.then(jsonData => {
                 jsonMenu = jsonData.menu;
                 jsonBib = jsonData.html;
                 jsonItems = jsonData.items;

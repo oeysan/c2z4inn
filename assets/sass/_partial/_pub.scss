@@ -173,3 +173,26 @@
 
 }
 
+
+article.taxonomy-article ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  article.taxonomy-article ul li {
+    display: inline;
+    font-size: 80%;
+  }
+
+  article.taxonomy-article ul li a:hover {
+    color: $global-flashy
+  }
+  
+  article.taxonomy-article ul li:not(:last-child)::after {
+    content: '\f054'; /* Unicode for Line Awesome chevron-right */
+    font-family: 'Line Awesome Free', 'Line Awesome', sans-serif;
+    font-weight: 900;
+    margin: 0 5px;
+  }
+

@@ -1,11 +1,12 @@
 ---
-headless: true
+type: "stats"
+encoding: UTF-8
 ---
-<a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=FA57FABL">Go to archive</a>
+<a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=DU8Q9LN9">Go to archive</a>
 <h1>Overview for Inland School of Business and Social Sciences</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">1539</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">910</span></p>
+<p>Publications: <span class="stats-n">1804</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">1860</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -19,34 +20,37 @@ headless: true
             2021,
             2022,
             2023,
-            2024
+            2024,
+            2025
         ],
         "datasets": [
             {
-                "label": "Publications",
+                "label": "publications",
                 "data": [
                     15.8333,
                     11.25,
                     13.5833,
-                    14,
-                    14.25,
-                    22.8333,
-                    26.9167,
-                    28.75
+                    13.9167,
+                    14.1667,
+                    21.9167,
+                    26.8333,
+                    27.3333,
+                    33
                 ],
                 "borderRadius": 0
             },
             {
                 "label": "Sustainable Development Goals",
                 "data": [
-                    5.3333,
-                    6.5,
-                    5.8333,
-                    7.1667,
-                    9.5833,
-                    12.75,
-                    23,
-                    17
+                    17.0833,
+                    11.0833,
+                    12.9167,
+                    13.25,
+                    14.6667,
+                    20.6667,
+                    34.4167,
+                    26.9167,
+                    24
                 ],
                 "borderRadius": 0
             }
@@ -120,24 +124,24 @@ headless: true
         ],
         "datasets": [
             {
-                "label": "Publications",
+                "label": "publications",
                 "data": [
-                    1,
-                    16,
-                    116,
-                    69,
-                    20,
-                    51,
-                    202,
-                    57,
-                    10,
-                    80,
-                    40,
-                    65,
-                    2,
-                    15,
-                    125,
-                    41
+                    6,
+                    25,
+                    230,
+                    155,
+                    39,
+                    60,
+                    350,
+                    210,
+                    87,
+                    152,
+                    76,
+                    119,
+                    13,
+                    33,
+                    230,
+                    75
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",
@@ -214,5 +218,101 @@ headless: true
 {{< /chart >}}</div>
 </div>
 <div id="sdg-overview">
-  <div class="sdg-container"><div id="sdg8" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=8&collection=FA57FABL#archive" class="sdg-publication-count"><span>202</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg16" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=16&collection=FA57FABL#archive" class="sdg-publication-count"><span>125</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg3" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=FA57FABL#archive" class="sdg-publication-count"><span>116</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg11" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=FA57FABL#archive" class="sdg-publication-count"><span>80</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg4" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=FA57FABL#archive" class="sdg-publication-count"><span>69</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg13" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=13&collection=FA57FABL#archive" class="sdg-publication-count"><span>65</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg9" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=9&collection=FA57FABL#archive" class="sdg-publication-count"><span>57</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg7" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=7&collection=FA57FABL#archive" class="sdg-publication-count"><span>51</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg17" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=17&collection=FA57FABL#archive" class="sdg-publication-count"><span>41</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg12" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=12&collection=FA57FABL#archive" class="sdg-publication-count"><span>40</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg5" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=5&collection=FA57FABL#archive" class="sdg-publication-count"><span>20</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg2" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=2&collection=FA57FABL#archive" class="sdg-publication-count"><span>16</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg15" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=15&collection=FA57FABL#archive" class="sdg-publication-count"><span>15</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg10" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=10&collection=FA57FABL#archive" class="sdg-publication-count"><span>10</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg14" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=14&collection=FA57FABL#archive" class="sdg-publication-count"><span>2</span> Publications</a> <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p> </div> </div><div id="sdg1" class="sdg"> <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1"> <div class="sdg-overlay"> <a href="{{< params subfolder >}}en/archive/?sdg=1&collection=FA57FABL#archive" class="sdg-publication-count"><span>1</span> Publication</a> <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p> </div> </div></div>
+  <div class="sdg-container"><div id="sdg8" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=8&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>350</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg3" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>230</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg16" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=16&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>230</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg9" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=9&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>210</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg4" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>155</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg11" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>152</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg13" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=13&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>119</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg10" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=10&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>87</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg12" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=12&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>76</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg17" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=17&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>75</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg7" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=7&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>60</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg5" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=5&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>39</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg15" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=15&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>33</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg2" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=2&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>25</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg14" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=14&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>13</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div><div id="sdg1" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=1&collection=DU8Q9LN9#archive" class="sdg-publication-count"><span>6</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div></div>
 </div>

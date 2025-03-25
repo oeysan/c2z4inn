@@ -11,18 +11,17 @@ style="width:200px;text-align:center;margin:0 auto;"/></a>
 
 </div>
 
-# Hugo Library for INN University
+# Hugo Library for University of Inland Norway (INN)
 
 This GitHub repository contains the source code for an archive for
-scientific publications at Inland Norway University of Applied Sciences
-(registered in Cristin since the institution was established on January
-1, 2017).
+scientific publications at INN (registered in Cristin since the
+institution was established on January 1, 2017).
 
-The archive was last updated **08-02-2024 (at 12:42)** and contains
-**4734** publications.
+The archive was last updated **03-25-2025 (at 14:29)** and contains
+**5493** publications.
 
 You may also visit the [Zotero
-library](https://www.zotero.org/groups/5402882/inn-arkiv/library).
+library](https://www.zotero.org/groups/5881554/inn_archive/librar).
 
 # About
 

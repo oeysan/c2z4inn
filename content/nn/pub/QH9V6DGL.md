@@ -1,0 +1,95 @@
+---
+title: 'Living Labs for Public Sector Innovation: insights from a European case study'
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publikasjon</h1>
+<article id="csl-bib-container-QH9V6DGL" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Hansen, A. V., Fuglsang, L., Liefooghe, C., Rubalcaba, L., Gago, D., Mergel, I., Haug, N., Røhnebæk, M., &#38; Mureddu, F. (2021). Living Labs for Public Sector Innovation: insights from a European case study. <i>Technology Innovation Management Review</i>, <i>11</i>(9/10). <a href="https://doi.org/10.22215/timreview/1464">https://doi.org/10.22215/timreview/1464</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-QH9V6DGL" alt="archive" class="csl-bib-button">Arkiv</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=2005333" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/QH9V6DGL" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-QH9V6DGL" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="#about-article-QH9V6DGL" alt="about_pub" class="csl-bib-button">Om</a>
+    <a href="#contributors-article-QH9V6DGL" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="#sdg-article-QH9V6DGL" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://timreview.ca/sites/default/files/article_PDF/TIMReview_2021_Issue_9-10-4.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://timreview.ca/sites/default/files/article_PDF/TIMReview_2021_Issue_9-10-4.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
+  </div>
+  <div id="csl-bib-meta-container-QH9V6DGL"></div>
+</article>
+<div id="csl-bib-meta-QH9V6DGL" class="csl-bib-meta">
+  <article id="about-article-QH9V6DGL" class="about_pub-article">
+    <h1>Om</h1>
+    Hansen et al. gjennomførte ein studie om "living labs," som er innovative rom der folk samarbeider for å skape løysingar i reelle omgjevnader. Dei undersøkte 21 døme frå Europa for å forstå korleis desse labane kan bidra til å forbetre offentlege tenester. Dei fann tre hovudmåtar living labs er organisert på: samarbeid mellom ulike sektorar, initiativ leia av offentleg sektor, og prosjekt starta av lokalsamfunn. Desse oppsetta viser ulike måtar å involvere innbyggjarar i å skape betre offentlege tenester. Studiet framhevar dei potensielle fordelane og utfordringane ved å bruke living labs i offentleg sektor, og hjelper politikarar og samfunn med å forstå korleis ein effektivt kan nytte denne tilnærminga for innovasjon.
+  </article>
+  <article id="keywords-article-QH9V6DGL" class="keywords-article">
+    <h1>Emneord</h1>
+    Living Labs, Innovasjon i offentleg sektor, Samskaping, Open innovasjon, Europeisk casestudie
+  </article>
+  <article id="abstract-article-QH9V6DGL" class="abstract-article">
+    <h1>Samandrag</h1>
+    Living labs have gained increased attention in research and practice as both a practical and 
+theoretical innovation phenomenon that emphasizes co-creation, real-life settings, and 
+user/customer involvement. More recently, living labs have also emerged as a specific approach 
+to open innovation processes in the context of publics across the EU. Nevertheless, it is still not 
+clear how the understanding of living labs can be translated and organized into new sectorial 
+settings, what type of public sector innovation challenges it addresses, and what role citizens and 
+users have. The aim of this article is therefore to explore and analyze how living labs are applied 
+as processes for public sector innovation. Based on a mixed method approach of 21 European 
+living lab cases, the analysis reveals a pattern of three different processes for living lab 
+organizational and actor roles: living labs organized as cross-sectorial collaboration, living labs 
+emerging within the public sector as main initiator and beneficiary, and living labs developed by 
+civil society actors. The findings are presented as three scenarios for implementing living labs, 
+which also acts as a background for the article’s final discussion about the potentials and pitfalls 
+of living labs in public sector contexts.
+  </article>
+  <article id="contributors-article-QH9V6DGL" class="contributors-article">
+    <h1>Medverkande</h1>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAAEAlgCWAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCEAFA3PEY8MlBGQUZaVVBfeMiCeG5uePWvuZHI//////////////////////////////////////////////////8BVVpaeGl464KC6//////////////////////////////////////////////////////////////////////////EAaIAAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKCwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+foRAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/AABEIAfwBfAMBEQACEQEDEQH/2gAMAwEAAhEDEQA/ALdIAoAKACgBaACgAoAKACgAoAKACgAoAKACgApgFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAlIAoAKACgAoAKACgBaACgAoAKACgAoAKACgAoAKACgApgFABSAKYBQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAJSAKACgAoAKACgAoAKACgBaACgAoAKACgAoAKACgAoAKYBSAKACmAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFACUgCgAoAKACgAoAKACgAoAKACgAoAWgBKAFoAKACgAoAKAEoAKACgAoAWmAUgCgAoAKACmAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAJSAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgApgFABQAtABQAUAFABQAUAFABQAUAFABQAUAJQAtABQAlABQAUAFIAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAEzQMTdQAuaADNACFqAE30AG6kAoagBc0wFzQAUCCgAoAKAFoAKYBQAUAJQAUAFABSAKYBQAUAFIApgFABQAUAFIAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgBCcUANLUhjc0DDdQAu6gQhPFADd1AxN1ADg9ACg/WgBwPOP60CDNAC5oAM0wHA0CCgAoAKYBQAUAFABQAUAFIApgFABSAKACmAUAFABQAUgCgAoAKACgAoAKACgAoAKACgAoAKACgAoAaWxQMZuzSATIFIY3PNAC/WgBQaYC5oAawoAYRigABoAdvAoAcHBpAO3CmAUCEzikMXdTEODUXAdTEFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQA1mxQMjJJqRjScUAGOMnigAJx04FADN/pQAoY96AHAj6UwA0AIaAGGgBpJoAbuNAEiyEe4oAfnjK/lSAVX3detMBTkHj8jSAUMM46exoAeCR9KYh4NMAoEFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAhOBQMiJyeakBpOaBhwOT1oAGIAyaAIiS30oAcv50AOxQABaBi4oACKAGkcUAMYUCGEUwDpQA5WxQA888jrSAcrbhjvQAvHegBVbHXn3oAkBpiHimIKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgCJzk0hjCeaQxOgzQAD+8aAI2JY/wAqYCquKQEgFAxwFAC4oELigAxTAQrQAhjoAYY6QDDHQMaVIoAFODQIf0ORQA4880AANADlbHXpQBKDTEOpiCgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAGscCgZCx7VI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8CgBdwNAAWUUAAYGgB1AAaAEzQA09aAEoAWgBRQIbJ2FMBUHFIB/agBY+tNCJR1pgLQAtABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAJQAUAIaAI5B81SxoYetADaBhQAUAJQA1mxQA0PTAdvoATdQAZoATNABQAuaAFDEUAO35FIBN1ADutACUALQAooENYZb9KYD1FAEhGEoEJGOaEDJaYC0AFABQAUAFABQAUAFABQAlABQAtABQAUAFABQAUAFACUAFABQAUAMfp9KTAjYcUhjTQMSgAoAQ0ANIzQABB3oAXYKYBtHpQAuxaAE8taADyx60AJsoANtACbKADGKAHCkA6gAoAcKBCIhJz+tMRIBzigBznC0AEfXNCAfTAKACgBaACgAoAKACgAoAKAEoAKACgAoAKACgAoAKACgAoAKACgAoAa3SkA3GRikMiNAxKAEoAKAFAoAWgBKAEzQAmaADNAw3UALmgQtABQAhFACCgB1ACigBwHHIpiJQMLTENUdxSAGOSKAHJ9360wHUAFABQAUAFABQAtABQAUAFACUAFABQAUAFABQAUAFABQAUAFABQAUAIaAGnrUjInHzGgBpoGJQAUALQAUAFADTQAlACUAFADqAFFAC0AJQAlADhQAooETKuPrVCBqQCj5RQAzqfrQBKOlMAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAEoAafvYpMBkg4pDIzQMSgAoAWgAoAXFACbaAF2UAGygBNlABtoAMUAFABQAlACigB8YG7r+FMTJs0xCDk5pAB5+lACKM80APpgFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFACUAFADHOGFJggcblpDIKAEoGLQAtABQAtAC0ALmgAoABQApoAaaAEoASgBKAFFAiIk7z9aoRZjckYP50gJMelMBD6CkA4DAxTABQAtABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFACUANdwgyaAIFYsSSe9JjRLGe1ICORdre1ADKBiUALmgBaAFzQAuaADNACZoAXdQAbqADNACZoASgAoAcKYESjLnFMkeXA4HakA+Jz07dqYEyjvQA6gBKAFoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoASgAoAKAA8DNAFORyzZpiCI/eqWNEgODSKJGw6+9AiAigYlABQAZoAXNABmgBM0AGaADNAC5oAM0AFACgUCCgYooERswUkD15NUIRPvDvQBITsXH8RoAlhfI2n8KBEtAwoAWgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgBKACgAoAKACgAoAiuGwuPWgCqTTEOiPJpMaJKkoUMRQIUjfyvX0oAjoASgYUAFACUAFABTAWgAoAWgBaQBQAUAL2pgQMP3pFMlj1ITHrQAzJJyetMB6nBoEW433LmkA6gYUAFAC0AFABQAUAFABQAUAFABQAUAFABQAUAJQAUAFABQAUAFABQBVmOZDTEQmgB0XU0mNEtSUJQAZxyKBC5DdRzQAhXuOaAGmgYUAFACUALQAUALQAtABQAUAFAC0AQSnDcVSJY3OTzTELmgBwNAE0T4b2oAs0hhQAUAFABQAtABQAUAFABQAUAFABQAUAFACUAFABQAUAFABQAxpFXvQBC0xPA4oAjY5J70xDDQAsfU0mNEtSMKBhQAlABmgANACUAFABQAUALQAtABQAUAFABTAKAIpR0polkdMQooAeKAHCgCwjgKAaQEgYHoaBi0AFABQAUAFAC0AFABQAUAFABQAUAJQAUAFABQAUANZwo5oAgeUtwOKBERNMBAeaAFNADf88UAKn3jSY0S1IwoGJQAUAJQAUAFABQAUALQAUAFABQAtACUwFoAKAI5BkUITIqokBQA8UAOFAD1PagB3SgByyEdelAEwORmkMWgAoAKACgAoAWgAoASgAoAKACgAoAKAELAdTQBE83ZaBEBbJ5pgNJoAaTQAJywoAcetACflQAq9aTGiSkMKQBQMKACgBKACgAoAKACgBaACgApgFABQAtAgoAY/SgCPFUSN70AOFADxQA4UAOoATpQBJG+Gx2NAE1IYtABQAUAFABQAUAFABQAUAFACE4GaAIGlJ74FADCxpiGGgBKAGk0AN6mgCRRigBTQAn4UAJzmkMkHSkMWkAUDCgBKACgAoAKACgAoAKAFpgFABQAUCCgAoAY54poGNpkjD1oAVaAHigBwoAd2oAKADODQBYEgpDFDA9KAHUAFABQAUAFABQAUAFABQBFMxAwO9AiucUwE/GgA/GgBpFADDQA5RgUAOHFABQAUAJQA9TxUlDqACkAUDEpgFABQAUAFABQAUAFABQAUAFAgoAKAGE800JiUxDD1oAVaAHigB2PagB3agBooAd9RQAZ5oAUNigB6ynvzQBIHBpDH5oAKACgAoAKACgBKAK8x+emIioAQ0ANNABQAAc0AOoAKADFACUAH40AKOtJjQ+kMKACgAoAKACgYUAFABQIKACgAoAKACgAoAaTQA3vVCCgQhFAAtADx+FAB+H5UAOXrQAlACjj0oAD1oAKAD/AAoAUHFAD1egB4l9aBjw49aQDqAEoAKAGs4WgCs7bmzTENNACUAJQA08UAKvSgBaAFFAAaAEoAKAAUmMeDSGLQAUAFACUAFAC0AFABQAUAFABQAUAJQAUANJpgJTJFxQAu2gAwBQAflQAfh+VACigBT1oASgAoAKAFoAKAFHagBeo5oAMHs1AFmkMKAGPIFHHJoArsSTzTEIaAG/pQAUAJQAUAFAC4oAKAA0AJQAUAFADgakoWgAoAWgBKACgAoAM0AFABQAUALQAlABQAlADTTEGaYhc+1ABmgBQfegA/D8qAD/ADzQAUAONACUAFABQAUAL60ALQAmM85oATLDjFAFouBSGRNITQIjJpgJQAh6UAJQAUAJQAUAHNABQAUALQAlABQAUAKKTGh1IYUALQAUAJQAUAFABQAtABQAUAJQAlABQA1jzTEGaYhfwoAKADA7igA57HIoAXOaAAUAO7UAFACUAFABQAvrQAUANII5FAChjigBxNACUAJQAlAB2oAT8KACgAoAKACgBKACgBaAEoAKAD8aAFFAxwqRhQAooAKACgBKACgBaACgBaAEoAKAExQAhNMQw0xAKAHUAFAB+lAC80AHBoAOfrQA5SCKACgBKACgAoAKAF9aACgBCKAF60AJQAlACUAFABQAUAJQAtABQAlAC0AHagBKACgBaAEoAevSkyhaQBQAtABQAlABQAUAFAC0AJQAUAIxwKAGVRIHpQAgoAd+X4UAFABQAtABQAUAHfI60AO680AIaACgAoAO1AC5oADQAZoASgBKACgBDQAlAC0AFABQAUAJQAUAFAC0AJQAtABQAUAKvWkxofSGFABQAUAFABQAUAFABQAUDEY4FNCGdaZIlAAaABelADqADr70AFACdKACgBaADvQAucUAIaACgAoAWgAoAWgBKAEoAKAEoAKAEoABQAfhQAUALQAlABQAtABQAhoAKAFoAKAAcGgCUVJQuKAEoAMUAFACUALQAUANLCiwXEJNOwrjcZpiFFACGgBDQADpQAv50ALQAUAFABigAoAKACgBOmKAFzQAUAFAC0AGaACgBKACgBKACgBKAA0AFABQAUAFABQAUALQAlABQAUAL+lABQAoYg8GlYdx6yeopWHcfSGFAhMUwDFADWOKEA0k07CuFMQcUAFACH2oATNACGgAHSgB3+eaACgAoAKACgAoASgBaAEoAKAFoAM0AFABQAUAFACUAFABQAlABQAlAC/jQAtACUAFABQAUAFABQAUALQAUAIaAFoAVWI+lKw7kwORkUhi4pAIxC0wIS2WqhC0CCgAoASgAzQAd6AGtQACgB1ABQAlAC0AFABQAUAFACd6AFoASgAoAWgAoAKACgBKACgAoAKAEoAQ0AAoAWgA/CgAoAKACgAoAKACgBaACgA7UAIKAFoAcrbTSaHcf5o9KVh3IycnNUITFAhQaAFoASgBM0AGfWgBCaAENADhQAf54oAWgANABQAlABQAUALQA2gB1ACUAFABQAooASgAoAKADrQAUAFACUAJQAnSgB34UAH4GgAoAKACgAoAKACgBaACgAoAToaAFFAC0AJQAUALQAA80AFACGgAoASgBDQAUAOoAOPpQAtABQAlAC0AJQAUAL2oAbQAtABQAUAFAC0ANoAWgBrGgBASDkUAKDk0AOoATvigBShx2NADTQAg9KAHUAH50AAoAKACgA70AFABQAvegAoAQ0AANAC0ALQAUAJQAh65oAWgBM0AFABQAUAJ3oAdQAooASgBaAEoAWgAoASgAPSgBKAFoAKACgAoAKACgBKAGtQAlAAOtADycCgBuaAHBqQDSeaYAaAFBoAX8aAEoAWgAoAKACgAoAWgA7elAAelADM0AOBoAXNABmgBM0AITQAtABQAlAC0AGOKAAdaAF/zmgBeooAT/PNABQAtACUAFAC0AIaAEFAC0AFABQAUAFABQAlACGgBtACjg0AK3SgBtABQAUAOoAb0oAdmgBMmgBwoAO1ABQAdqACgAoAUdaAFHTNAEZ60AFABQAtABQAh6UAOHSgAoAKAAUALQAgoAXoM0ALigAXnFACCgAoAXvQAHrQAUAIeooABQAUAFAAO1ABQAUAIaAP/2Q==" alt="Maria Røhnebæk" loading="lazy"> </div> <div class="info"> <hgroup><h1>Maria Røhnebæk</h1> <h2>Førsteamanuensis</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:maria.rohnebak@inn.no">maria.rohnebak@inn.no</a> </dd> </dl> <p> Handelshøgskolen Innlandet – Fakultet for økonomi og samfunnsvitenskap<br> Institutt for organisasjon, ledelse, styring<br> Studiested Lillehammer </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/finn-en-ansatt/maria-rohnebak.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/maria-rohnebak.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=312537" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-QH9V6DGL" class="sdg-article">
+    <h1>Berekraftsmål</h1>
+    <div class="sdg-container"><div id="sdg9" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg09_nn.png" class="image" alt="SDG 9">
+        <div class="sdg-overlay">
+          <a href="/nn/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div> <div id="sdg11" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
+        <div class="sdg-overlay">
+          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div> <div id="sdg16" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
+        <div class="sdg-overlay">
+          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-QH9V6DGL" class="taxonomy-article">
+    <h1>Arkiv</h1>
+    <ul>
+      <li>
+        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=RDNF7EXQ">2022</a>
+      </li>
+      <li>
+        <a href="/nn/archive/?key=77TGLEF8">Februar</a>
+      </li>
+    </ul>
+  </article>
+</div>

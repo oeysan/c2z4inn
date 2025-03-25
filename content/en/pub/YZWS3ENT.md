@@ -1,0 +1,71 @@
+---
+title: 'Work, family life and recovery: An exploratory study of “the third shift”'
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-YZWS3ENT" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">Ericsson, U., Pettersson, P., Rydstedt, L. W., &#38; Ekelund, E. (2021). Work, family life and recovery: An exploratory study of “the third shift.” <i>Work : A Journal of Prevention, Assesment and Rehabilitation</i>, <i>70</i>(4), 1131–1140. <a href="https://doi.org/10.3233/WOR-213624">https://doi.org/10.3233/WOR-213624</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-YZWS3ENT" alt="archive" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1982508" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/YZWS3ENT" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-YZWS3ENT" alt="keywords" class="csl-bib-button">Keywords</a>
+    <a href="#about-article-YZWS3ENT" alt="about_pub" class="csl-bib-button">About</a>
+    <a href="#contributors-article-YZWS3ENT" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="#sdg-article-YZWS3ENT" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://content.iospress.com:443/download/work/wor213624?id=work%2Fwor213624" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://content.iospress.com:443/download/work/wor213624?id=work%2Fwor213624" alt="EZproxy" class="csl-bib-button">EZproxy</a>
+  </div>
+  <div id="csl-bib-meta-container-YZWS3ENT"></div>
+</article>
+<div id="csl-bib-meta-YZWS3ENT" class="csl-bib-meta">
+  <article id="about-article-YZWS3ENT" class="about_pub-article">
+    <h1>About</h1>
+    Ericsson et al. conducted an exploratory study to understand how people recover from work by examining their daily routines. They introduced the concept of the "third shift," which refers to the time spent managing family responsibilities and leisure activities after work hours. By analyzing 24-hour narratives from participants, the authors found that balancing work, family life, and personal time is crucial for effective recovery. This study highlights the importance of finding time for relaxation and self-care amidst busy schedules. Understanding this balance can help individuals improve their overall well-being and prevent burnout, making it relevant for anyone trying to manage their work-life balance.
+  </article>
+  <article id="keywords-article-YZWS3ENT" class="keywords-article">
+    <h1>Keywords</h1>
+    Work, Family Life, Recovery, Leisure Time, Third Shift
+  </article>
+  <article id="abstract-article-YZWS3ENT" class="abstract-article">
+    <h1>Scientific abstract</h1>
+    Using 24-hour narratives as a starting-point, the present study examines conditions for recovery from work. 
+The third shift concept forms the explorative starting point for highlighting the interplay between work, family responsibilities, leisure time and recovery
+  </article>
+  <article id="contributors-article-YZWS3ENT" class="contributors-article">
+    <h1>Contributors</h1>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAAEAlgCWAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCEAFA3PEY8MlBGQUZaVVBfeMiCeG5uePWvuZHI//////////////////////////////////////////////////8BVVpaeGl464KC6//////////////////////////////////////////////////////////////////////////EAaIAAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKCwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+foRAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/AABEIAagBPAMBEQACEQEDEQH/2gAMAwEAAhEDEQA/ALlABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAJSAWmAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFIAoATNACZzQMKAFoEGaADNAC0AJQAZoAM0AFAC0wCgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACkAmaACgBM4oGNJyaACgBc0AAoAUUAGaADNABmgAoAKACgQtABQAtMAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKAEJxSASgYUAITQAmaAG7jSAA1Ax2fwoEFAC5pgNJPekAAUAL1oAKYCigAoAWgAoAWgQtMAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgBDSAQnPSgYgwKAEJoATP6UAJmgBM80hhigAAoAXpQAooAdmgAoASgAxzQAnNABmmIM/nQAvvQAoOaAHA0CFpgFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAhNIBpoGHQUAB6UAMJ9eKQDdxz60DHKCaAHYoAMUAJQAYoAKAFoAKAFoAKBBQAhFAxhBBzjIoAM+lAhVzmmBJQAtAhaYBQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABSAaaBiUAITQA3dSAb940DHqmKAHUAFACUAFABQAUAFABQAtABTELQAlAwpAMZPSgBobHWgCQMMDmmIdmgBRQIWmAUAFABQAUAFABQAUAFABQAUAFABQAUAFACdaQDSaBjc0AISaQDVBJ9qBkgAFAC0AFACUAFABQAUALQAUwFoEFABQAUAFABQMSgQ10zz3pDIgSrc0ASK2aYhynmgB9MQtABQAUAFABQAUAFABQAUAFABQAUAFADT1pDA0CGseKBkZNIYqrnrQA/pQAUAFABQAUALQAlAC0AFMAoAKAFoEFABQAlAwoAKQBQA1lDfWgCIZU49KAJR2piHqeKBDqYBQAUAFABQAUAFABQAUAFABQAUAIaQCD1oGITQAxj6UAIBk80hj6AEoAWgBKAFoAKACgBaACgAoAKYBQAUAFABQAUAJSAKACgBaAGsO460ANB4z70xDhxQA8HNAh1MAoAKACgAoAKACgAoAKACgAoAaaQxooARjigBgznrSGPoAKACgYUAJQAooAUUCFoAKACgAoAKYBSAKAEzQAZoAM0AJQAUAFAC0AFACY/KgBQM0xC4o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" alt="Leif Rydstedt" loading="lazy"> </div> <div class="info"> <hgroup><h1>Leif Rydstedt</h1> <h2>Professor Emeritus</h2> </hgroup><dl> <dt>Email</dt> <dd> <a href="mailto:leif.rydstedt@inn.no">leif.rydstedt@inn.no</a> </dd> <dt>Phone number</dt> <dd><a href="tel:+4761288298"> +47 61 28 82 98 </a></dd> </dl> <p> Inland School of Business and Social Sciences<br> Department of Organisation, Leadership and Management<br> Campus Lillehammer </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/english/find-an-employee/leif-rydstedt.html#vrtx-hinn-addresses">See Addresses</a></li> <li><a href="https://www.inn.no/english/find-an-employee/leif-rydstedt.html?vrtx=vcf">Download business card</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=338923" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+  </article>
+  <article id="sdg-article-YZWS3ENT" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg3" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-YZWS3ENT" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>
+        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=KTD9NXA8">Department of Psychology</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=AEVGZCNC">2022</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=64MCS3GE">January</a>
+      </li>
+    </ul>
+  </article>
+</div>

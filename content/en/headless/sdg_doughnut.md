@@ -1,5 +1,6 @@
 ---
 headless: true
+encoding: UTF-8
 ---
 <h1>Publications on Sustainable Development Goals</h1>
 {{< chart >}}{
@@ -28,23 +29,23 @@ headless: true
             {
                 "label": "Publications",
                 "data": [
-                    8,
-                    79,
-                    871,
-                    640,
-                    57,
-                    8,
-                    62,
-                    251,
-                    64,
-                    75,
-                    179,
-                    53,
-                    103,
-                    18,
-                    360,
-                    274,
-                    53
+                    16,
+                    131,
+                    1358,
+                    1352,
+                    149,
+                    19,
+                    77,
+                    461,
+                    257,
+                    404,
+                    232,
+                    108,
+                    257,
+                    50,
+                    538,
+                    479,
+                    112
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",

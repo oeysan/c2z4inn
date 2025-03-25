@@ -1,0 +1,71 @@
+---
+title: Crop variety management for climate adaptation supported by citizen science
+type: pub
+encoding: UTF-8
+
+---
+<h1>Publication</h1>
+<article id="csl-bib-container-TGBWR8BU" class="csl-bib-container">
+  <div class="csl-bib-body"> <div class="csl-entry">van Etten, J., de Sousa, K., Aguilar, A., Barrios, M., Coto, A., Dell’Acqua, M., Fadda, C., Gebrehawaryat, Y., van de Gevel, J., Gupta, A., Kiros, A. Y., Madriz, B., Mathur, P. K., Mengistu, D. K., Mercado, L., Mohammed, J. N., Paliwal, A., Pe, M. E., Quiros, C. F., … Steinke, J. (2019). Crop variety management for climate adaptation supported by citizen science. <i>Proceedings of the National Academy of Sciences of the United States of America (PNAS)</i>, <i>116</i>(10), 4194–4199. <a href="https://doi.org/10.1073/pnas.1813720116">https://doi.org/10.1073/pnas.1813720116</a></div> </div>
+  <div class="csl-bib-buttons">
+    <a href="#taxonomy-article-TGBWR8BU" alt="archive" class="csl-bib-button">Archive</a>
+    <a href="https://app.cristin.no/results/show.jsf?id=1678959" alt="Cristin" class="csl-bib-button">Cristin</a>
+    <a href="http://zotero.org/groups/5881554/items/TGBWR8BU" alt="Zotero" class="csl-bib-button">Zotero</a>
+    <a href="#keywords-article-TGBWR8BU" alt="keywords" class="csl-bib-button">Keywords</a>
+    <a href="#about-article-TGBWR8BU" alt="about_pub" class="csl-bib-button">About</a>
+    <a href="#sdg-article-TGBWR8BU" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.pnas.org/content/pnas/116/10/4194.full.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.pnas.org/content/pnas/116/10/4194.full.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
+  </div>
+  <div id="csl-bib-meta-container-TGBWR8BU"></div>
+</article>
+<div id="csl-bib-meta-TGBWR8BU" class="csl-bib-meta">
+  <article id="about-article-TGBWR8BU" class="about_pub-article">
+    <h1>About</h1>
+    Van Etten et al. conducted a study to help farmers choose the best crop varieties for their fields in the face of climate change. They used a method called citizen science, where farmers in Nicaragua, Ethiopia, and India tested different types of beans and wheat. Each farmer ranked the performance of three randomly assigned crop varieties. The researchers found that this approach provided valuable data on how different crops respond to climate variations. This information can improve recommendations for which crop varieties to plant, considering factors like climate forecasts and risk analysis. The study showed that involving farmers directly can lead to better, more accurate advice on crop management, helping them adapt to changing climate conditions.
+  </article>
+  <article id="keywords-article-TGBWR8BU" class="keywords-article">
+    <h1>Keywords</h1>
+    Crop Variety Management, Climate Adaptation, Citizen Science, Common Bean, Durum Wheat, Bread Wheat
+  </article>
+  <article id="abstract-article-TGBWR8BU" class="abstract-article">
+    <h1>Scientific abstract</h1>
+    Crop adaptation to climate change requires accelerated crop variety introduction accompanied by recommendations to help farmers match the best variety with their field contexts. Existing approaches to generate these recommendations lack scalability and predictivity in marginal production environments. We tested if crowdsourced citizen science can address this challenge, producing empirical data across geographic space that, in aggregate, can characterize varietal climatic responses. We present the results of 12,409 farmer-managed experimental plots of common bean (Phaseolus vulgaris L.) in Nicaragua, durum wheat (Triticum durum Desf.) in Ethiopia, and bread wheat (Triticum aestivum L.) in India. Farmers collaborated as citizen scientists, each ranking the performance of three varieties randomly assigned from a larger set. We show that the approach can register known specific effects of climate variation on varietal performance. The prediction of variety performance from seasonal climatic variables was generalizable across growing seasons. We show that these analyses can improve variety recommendations in four aspects: reduction of climate bias, incorporation of seasonal climate forecasts, risk analysis, and geographic extrapolation. Variety recommendations derived from the citizen science trials led to important differences with previous recommendations.
+  </article>
+  <article id="sdg-article-TGBWR8BU" class="sdg-article">
+    <h1>Sustainable Development Goals</h1>
+    <div class="sdg-container"><div id="sdg2" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div> <div id="sdg13" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
+        <div class="sdg-overlay">
+          <a href="/en/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div></div>
+  </article>
+  <article id="taxonomy-article-TGBWR8BU" class="taxonomy-article">
+    <h1>Archive</h1>
+    <ul>
+      <li>
+        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=SSN4QLEC">Department of Agricultural Sciences</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=XGI7PKZN">2019</a>
+      </li>
+      <li>
+        <a href="/en/archive/?key=6MUPJ4QN">February</a>
+      </li>
+    </ul>
+  </article>
+</div>

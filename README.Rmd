@@ -22,11 +22,11 @@ knitr::opts_chunk$set(
 style="width:200px;text-align:center;margin:0 auto;"/></a>
 </div>
 
-# Hugo Library for INN University
+# Hugo Library for University of Inland Norway (INN)
 
 This GitHub repository contains the source code for an archive for scientific 
-publications at Inland Norway University of Applied Sciences 
-(registered in Cristin since the institution was established on January 1, 2017).
+publications at INN (registered in Cristin since the institution was established
+on January 1, 2017).
 
 ```{r update, include=FALSE}
 updated <- format(Sys.time(), "%m-%d-%Y (at %H:%M)")
@@ -36,7 +36,7 @@ n <- length(MdFiles("content/en/pub/"))
 The archive was last updated **`r updated`** and contains **`r n`** publications.
 
 You may also visit the 
-[Zotero library](https://www.zotero.org/groups/5402882/inn-arkiv/library).
+[Zotero library](https://www.zotero.org/groups/5881554/inn_archive/librar).
 
 # About 
 
