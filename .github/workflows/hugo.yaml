@@ -7,33 +7,40 @@ on:
     branches: [main, master]
   workflow_dispatch:
 
-# Set the needed permissions
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Cancel running deployments if a new one is issued.
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: "pages"
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
 
 env:
   targetURL: "https://oeysan.github.io/c2z4inn/"
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Only restrict concurrency for non-PR jobs
-    concurrency:
-      group: pkgdown-${{ github.event_name != 'pull_request' || github.run_id }}
     env:
+      HUGO_ENVIRONMENT: production
+      TZ: America/Los_Angeles
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-    
       - name: Checkout
-        uses: actions/checkout@v3
-        
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Install Pandoc
         uses: r-lib/actions/setup-pandoc@v2
 
@@ -48,29 +55,49 @@ jobs:
       - name: Get Hugo version
         id: hugo_version
         run: |
-          version=$(cat .Rprofile | grep hugo.version | cut -d'"' -f2 )
+          version=$(cat .Rprofile | grep hugo.version | cut -d'"' -f2)
           echo "Hugo version in .Rprofile is $version"
-          echo "value=${version}" >>$GITHUB_OUTPUT
+          echo "value=${version}" >> $GITHUB_OUTPUT
 
       - name: Install Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: ${{ steps.hugo_version.outputs.value }}
           extended: true
-          
+
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-          
+
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      - name: Cache Restore
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            ${{ runner.temp }}/hugo_cache
+          key: hugo-${{ github.run_id }}
+          restore-keys: |
+            hugo-
+
       - name: Build site
         run: |
           sed -i "s|baseURL: \"/\"|baseURL: \"${{ env.targetURL }}\"|" config.yaml
           sed -i "s|subfolder: \"/|subfolder: \"/$(basename ${{ env.targetURL }})/|" config.yaml
           hugo -b ${{ env.targetURL }}
           touch public/.nojekyll
-        shell: bash
-        
+
+      - name: Cache Save
+        id: cache-save
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            ${{ runner.temp }}/hugo_cache
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -83,4 +110,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
