@@ -38,19 +38,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_nn.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -58,21 +58,11 @@ encoding: UTF-8
   <article id="taxonomy-article-SKU2QM3H" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7JIN2WXW">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7BTUP534">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7JIN2WXW">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7BTUP534">Desember</a></li>
     </ul>
   </article>
 </div>

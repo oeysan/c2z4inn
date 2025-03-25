@@ -29,38 +29,18 @@ encoding: UTF-8
   <article id="taxonomy-article-R8BBMHB4" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QXIG9W8W">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QXIG9W8W">Oktober</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=W536ZJQZ">Senter for livslang læring – HHS</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SW2CY7NB">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=J78K9C3K">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=W536ZJQZ">Senter for livslang læring – HHS</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SW2CY7NB">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=J78K9C3K">Oktober</a></li>
     </ul>
   </article>
 </div>

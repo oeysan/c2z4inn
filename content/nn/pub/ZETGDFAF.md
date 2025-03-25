@@ -46,7 +46,7 @@ well taken care of by their keyworkers during the day, many toddlers are tired a
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -54,21 +54,11 @@ well taken care of by their keyworkers during the day, many toddlers are tired a
   <article id="taxonomy-article-ZETGDFAF" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G3SEU2Z2">Senter for praksisrettet utdanningsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GXY3EJVE">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=NUKJB6A8">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G3SEU2Z2">Senter for praksisrettet utdanningsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GXY3EJVE">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=NUKJB6A8">Juni</a></li>
     </ul>
   </article>
 </div>

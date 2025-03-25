@@ -28,38 +28,18 @@ encoding: UTF-8
   <article id="taxonomy-article-QX5NYSXX" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6V8B4IYP">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CYKIW9SG">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6V8B4IYP">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CYKIW9SG">Oktober</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IRYXBU4S">Østlandsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=434BNZXF">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=AXSX6YXX">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IRYXBU4S">Østlandsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=434BNZXF">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=AXSX6YXX">Oktober</a></li>
     </ul>
   </article>
 </div>

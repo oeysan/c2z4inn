@@ -53,19 +53,19 @@ Stable low sense of mastery over time is associated with having a vulnerable per
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -73,21 +73,11 @@ Stable low sense of mastery over time is associated with having a vulnerable per
   <article id="taxonomy-article-JFZI28EP" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=676HMQBA">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=76T7GKV6">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=676HMQBA">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=76T7GKV6">Juni</a></li>
     </ul>
   </article>
 </div>

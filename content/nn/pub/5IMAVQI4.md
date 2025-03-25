@@ -29,55 +29,25 @@ encoding: UTF-8
   <article id="taxonomy-article-5IMAVQI4" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4A4PXWJ9">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=R7UE4MA3">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4A4PXWJ9">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=R7UE4MA3">Juni</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7GQPC2L9">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SYK45ZZG">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7GQPC2L9">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SYK45ZZG">Juni</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IRYXBU4S">Østlandsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FEF7Z2NY">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G5J6DFX2">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IRYXBU4S">Østlandsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FEF7Z2NY">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G5J6DFX2">Juni</a></li>
     </ul>
   </article>
 </div>

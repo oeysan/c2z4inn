@@ -40,19 +40,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -60,21 +60,11 @@ encoding: UTF-8
   <article id="taxonomy-article-PRTFWFXE" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QB7HPZ24">Center for Lifelong Learning – LUP</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7PIE3H63">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=D24EGY48">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QB7HPZ24">Center for Lifelong Learning – LUP</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7PIE3H63">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=D24EGY48">January</a></li>
     </ul>
   </article>
 </div>

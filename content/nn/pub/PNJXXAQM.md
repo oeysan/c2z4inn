@@ -39,13 +39,13 @@ The book is aimed at educating enterprises, both employers and workplace trainer
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_nn.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -53,21 +53,11 @@ The book is aimed at educating enterprises, both employers and workplace trainer
   <article id="taxonomy-article-PNJXXAQM" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=D9DGSFA7">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=D9DGSFA7">August</a></li>
     </ul>
   </article>
 </div>

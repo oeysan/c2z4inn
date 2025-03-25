@@ -43,19 +43,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg6" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg06_nn.png" class="image" alt="SDG 6">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_nn.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -63,21 +63,11 @@ encoding: UTF-8
   <article id="taxonomy-article-G5DGLG3K" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DRHXCX63">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6RWJU384">Juli</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DRHXCX63">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6RWJU384">Juli</a></li>
     </ul>
   </article>
 </div>

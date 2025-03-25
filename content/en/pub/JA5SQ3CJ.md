@@ -28,35 +28,17 @@ encoding: UTF-8
   <article id="taxonomy-article-JA5SQ3CJ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=II9RDAME">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=62EVJDH3">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DCHKD2VC">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=II9RDAME">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=62EVJDH3">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DCHKD2VC">September</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FLJPCLYW">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=PA2NCCRB">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FLJPCLYW">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=PA2NCCRB">September</a></li>
     </ul>
   </article>
 </div>

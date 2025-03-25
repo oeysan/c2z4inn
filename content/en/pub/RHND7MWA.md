@@ -28,38 +28,18 @@ encoding: UTF-8
   <article id="taxonomy-article-RHND7MWA" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ESJ3S3Z">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IVNR329P">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9FT8NP7E">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ESJ3S3Z">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IVNR329P">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9FT8NP7E">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7GQPC2L9">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2WRZR9KE">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7GQPC2L9">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2WRZR9KE">January</a></li>
     </ul>
   </article>
 </div>

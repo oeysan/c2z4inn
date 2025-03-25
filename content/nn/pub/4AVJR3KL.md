@@ -52,13 +52,13 @@ transportation and political developments in its surroundings.
     <div class="sdg-container"><div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_nn.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_nn.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -66,21 +66,11 @@ transportation and political developments in its surroundings.
   <article id="taxonomy-article-4AVJR3KL" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ITYAG68H">Institutt for rettsvitenskap, filosofi og internasjonale studier</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XDLKZVSJ">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=88XXCX62">Mai</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ITYAG68H">Institutt for rettsvitenskap, filosofi og internasjonale studier</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XDLKZVSJ">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=88XXCX62">Mai</a></li>
     </ul>
   </article>
 </div>

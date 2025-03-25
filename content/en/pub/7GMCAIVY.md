@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-7GMCAIVY" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2ZAN5K7T">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QU482WF9">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=MFA8W9D7">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2ZAN5K7T">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QU482WF9">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=MFA8W9D7">February</a></li>
     </ul>
   </article>
 </div>

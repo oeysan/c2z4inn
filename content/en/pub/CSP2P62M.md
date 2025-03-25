@@ -29,55 +29,25 @@ encoding: UTF-8
   <article id="taxonomy-article-CSP2P62M" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VD6VZ36D">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9THCKVVD">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=EKSK2XE3">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VD6VZ36D">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9THCKVVD">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=EKSK2XE3">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RX9SDGSP">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6PN5C2JQ">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RX9SDGSP">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6PN5C2JQ">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HPPS85RX">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HPPS85RX">January</a></li>
     </ul>
   </article>
 </div>

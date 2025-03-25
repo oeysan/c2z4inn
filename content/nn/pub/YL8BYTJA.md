@@ -30,21 +30,11 @@ encoding: UTF-8
   <article id="taxonomy-article-YL8BYTJA" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3IQA89I8">Institutt for økonomifag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=39DV3H9E">2021</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=UV94D3EI">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3IQA89I8">Institutt for økonomifag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=39DV3H9E">2021</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UV94D3EI">Januar</a></li>
     </ul>
   </article>
 </div>

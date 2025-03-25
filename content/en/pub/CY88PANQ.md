@@ -29,72 +29,32 @@ encoding: UTF-8
   <article id="taxonomy-article-CY88PANQ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2ZAN5K7T">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8Q8492ZL">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ME6GZ8FD">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2ZAN5K7T">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8Q8492ZL">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ME6GZ8FD">October</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FKHNMZNC">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XDWHG3ZU">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FKHNMZNC">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XDWHG3ZU">October</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T9U6ILTU">Department of Scandinavian Languages and Literature</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CAQL5F23">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ANKFGY4">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T9U6ILTU">Department of Scandinavian Languages and Literature</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CAQL5F23">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ANKFGY4">October</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8WZUMF5F">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5XY93SIB">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8WZUMF5F">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5XY93SIB">October</a></li>
     </ul>
   </article>
 </div>

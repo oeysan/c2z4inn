@@ -37,13 +37,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg1" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg01_en.png" class="image" alt="SDG 1">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=1#archive" class="sdg-publication-count"><span>16</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=1#archive" class="sdg-publication-count"><span>16</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal1" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -51,18 +51,10 @@ encoding: UTF-8
   <article id="taxonomy-article-QBU83LXV" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=II9RDAME">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=D943LLP2">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XTIZ7NX3">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=II9RDAME">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=D943LLP2">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XTIZ7NX3">May</a></li>
     </ul>
   </article>
 </div>

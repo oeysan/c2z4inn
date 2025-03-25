@@ -30,21 +30,11 @@ encoding: UTF-8
   <article id="taxonomy-article-UF4WAS2A" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LLA4BC9U">Department of Mathematics, Natural Sciences, and Physical Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CLB5ZGMT">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=J5XBBKKN">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LLA4BC9U">Department of Mathematics, Natural Sciences, and Physical Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CLB5ZGMT">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=J5XBBKKN">August</a></li>
     </ul>
   </article>
 </div>

@@ -48,31 +48,31 @@ students describe their overall view of the course and the method.
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_nn.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -80,38 +80,18 @@ students describe their overall view of the course and the method.
   <article id="taxonomy-article-6GJNPTI2" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RDJM7INQ">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FXGS4W8B">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RDJM7INQ">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FXGS4W8B">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=M7QWYS8Z">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CFLY4QGA">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=M7QWYS8Z">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CFLY4QGA">November</a></li>
     </ul>
   </article>
 </div>

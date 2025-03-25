@@ -24,21 +24,11 @@ encoding: UTF-8
   <article id="taxonomy-article-QULCIFFP" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=NZE26J5M">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G6QJTYUL">Mai</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=NZE26J5M">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G6QJTYUL">Mai</a></li>
     </ul>
   </article>
 </div>

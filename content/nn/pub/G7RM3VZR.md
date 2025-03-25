@@ -23,21 +23,11 @@ encoding: UTF-8
   <article id="taxonomy-article-G7RM3VZR" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=A558FPGR">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XF9ANEPF">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=A558FPGR">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XF9ANEPF">Januar</a></li>
     </ul>
   </article>
 </div>

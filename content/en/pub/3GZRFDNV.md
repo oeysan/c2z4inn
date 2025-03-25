@@ -30,18 +30,10 @@ encoding: UTF-8
   <article id="taxonomy-article-3GZRFDNV" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QP7PBTSZ">Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XBVH2UA2">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TH5R2C4Q">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QP7PBTSZ">Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XBVH2UA2">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TH5R2C4Q">April</a></li>
     </ul>
   </article>
 </div>

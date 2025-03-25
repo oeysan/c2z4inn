@@ -42,13 +42,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -56,69 +56,31 @@ encoding: UTF-8
   <article id="taxonomy-article-UADWELU9" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BG42VG37">Department of Game Development - The Game School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LLI7ED9F">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4W77QPRR">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BG42VG37">Department of Game Development - The Game School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LLI7ED9F">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4W77QPRR">March</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=558P36BB">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=SQF28DFY">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=558P36BB">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=SQF28DFY">March</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=P2L6JC54">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4H54TQII">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=P2L6JC54">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4H54TQII">March</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QP7PBTSZ">Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7GXMPLLQ">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LBKLET5X">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QP7PBTSZ">Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7GXMPLLQ">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LBKLET5X">March</a></li>
     </ul>
   </article>
 </div>

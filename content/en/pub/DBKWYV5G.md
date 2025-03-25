@@ -49,7 +49,7 @@ Originality/value – The originality of this paper is that it fleshes out how a
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -57,21 +57,11 @@ Originality/value – The originality of this paper is that it fleshes out how a
   <article id="taxonomy-article-DBKWYV5G" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3IQA89I8">Department of Business Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6THNNMZZ">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QCTXLTN4">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3IQA89I8">Department of Business Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6THNNMZZ">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QCTXLTN4">April</a></li>
     </ul>
   </article>
 </div>

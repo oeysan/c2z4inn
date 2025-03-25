@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-ETCU4DK6" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=G3SEU2Z2">Centre for Studies of Educational Practice</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9J5NBKMQ">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LSJUR4W3">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=G3SEU2Z2">Centre for Studies of Educational Practice</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9J5NBKMQ">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LSJUR4W3">April</a></li>
     </ul>
   </article>
 </div>

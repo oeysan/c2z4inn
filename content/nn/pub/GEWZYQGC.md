@@ -48,21 +48,11 @@ Originality/value
   <article id="taxonomy-article-GEWZYQGC" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=32SCKVEY">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=PH6GLULZ">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=32SCKVEY">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=PH6GLULZ">Juni</a></li>
     </ul>
   </article>
 </div>

@@ -36,19 +36,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -56,21 +56,11 @@ encoding: UTF-8
   <article id="taxonomy-article-LJWQ78HH" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KF5I8TQ8">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XSG28L54">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KF5I8TQ8">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XSG28L54">June</a></li>
     </ul>
   </article>
 </div>

@@ -42,25 +42,25 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_nn.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -68,55 +68,25 @@ encoding: UTF-8
   <article id="taxonomy-article-9GPJYPT8" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6V8B4IYP">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FK7ACIRC">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6V8B4IYP">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FK7ACIRC">April</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=L4LD5JU9">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T6J6N6RM">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=L4LD5JU9">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T6J6N6RM">April</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IRYXBU4S">Østlandsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=434BNZXF">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GA3E545K">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IRYXBU4S">Østlandsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=434BNZXF">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GA3E545K">April</a></li>
     </ul>
   </article>
 </div>

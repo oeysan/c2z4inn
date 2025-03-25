@@ -28,35 +28,17 @@ encoding: UTF-8
   <article id="taxonomy-article-JLU4JYDT" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KF5I8TQ8">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=YC6QG6IS">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KF5I8TQ8">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=YC6QG6IS">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QP7PBTSZ">Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4VTSX5TA">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=54SR7WTL">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QP7PBTSZ">Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4VTSX5TA">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=54SR7WTL">January</a></li>
     </ul>
   </article>
 </div>

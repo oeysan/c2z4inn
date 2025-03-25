@@ -29,38 +29,18 @@ encoding: UTF-8
   <article id="taxonomy-article-LQQLRUJC" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=H5P87HVL">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CA8Z3UHR">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=H5P87HVL">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CA8Z3UHR">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LLA4BC9U">Institutt for matematikk, naturfag og kroppsøving</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=5L9GJRF5">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QX67WP3T">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LLA4BC9U">Institutt for matematikk, naturfag og kroppsøving</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=5L9GJRF5">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QX67WP3T">Februar</a></li>
     </ul>
   </article>
 </div>

@@ -47,7 +47,7 @@ this theoretical programme are discussed.
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -55,21 +55,11 @@ this theoretical programme are discussed.
   <article id="taxonomy-article-XNIADRHB" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ZT9P4V3A">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CYG54HFS">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ZT9P4V3A">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CYG54HFS">Februar</a></li>
     </ul>
   </article>
 </div>

@@ -29,21 +29,11 @@ encoding: UTF-8
   <article id="taxonomy-article-7DJUYDRU" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FKHNMZNC">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=M4RTS27I">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FKHNMZNC">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=M4RTS27I">April</a></li>
     </ul>
   </article>
 </div>

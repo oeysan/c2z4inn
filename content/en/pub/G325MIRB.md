@@ -41,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -49,21 +49,11 @@ encoding: UTF-8
   <article id="taxonomy-article-G325MIRB" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CDUM7NYW">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=P53JIMD3">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CDUM7NYW">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=P53JIMD3">February</a></li>
     </ul>
   </article>
 </div>

@@ -56,7 +56,7 @@ This study is a contribution to the scarcely explored area of the prosody-pragma
     <div class="sdg-container"><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -64,21 +64,11 @@ This study is a contribution to the scarcely explored area of the prosody-pragma
   <article id="taxonomy-article-WLLTI8SE" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8BZA2YRV">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DDVC4KQ3">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8BZA2YRV">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DDVC4KQ3">Mars</a></li>
     </ul>
   </article>
 </div>

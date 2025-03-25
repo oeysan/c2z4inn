@@ -47,13 +47,13 @@ scrutiny of the narratives of social unrest in specific socio-cultural contexts.
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -61,21 +61,11 @@ scrutiny of the narratives of social unrest in specific socio-cultural contexts.
   <article id="taxonomy-article-MEH7SBTG" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9MEWKPK8">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=B8N2WQUV">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9MEWKPK8">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=B8N2WQUV">August</a></li>
     </ul>
   </article>
 </div>

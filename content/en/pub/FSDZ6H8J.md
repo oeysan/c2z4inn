@@ -61,7 +61,7 @@ Carrion ecology, Scavenging, Human subsidies, Pulsed resources, Gut piles, Scave
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -69,21 +69,11 @@ Carrion ecology, Scavenging, Human subsidies, Pulsed resources, Gut piles, Scave
   <article id="taxonomy-article-FSDZ6H8J" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QVBAYKNY">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=EEFETKRI">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QVBAYKNY">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=EEFETKRI">June</a></li>
     </ul>
   </article>
 </div>

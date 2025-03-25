@@ -28,18 +28,10 @@ encoding: UTF-8
   <article id="taxonomy-article-4CCM4C7X" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=AT7IFDV3">The Norwegian Film School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4G2H2RWZ">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RHJQS48A">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=AT7IFDV3">The Norwegian Film School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4G2H2RWZ">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RHJQS48A">June</a></li>
     </ul>
   </article>
 </div>

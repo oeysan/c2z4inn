@@ -28,55 +28,25 @@ encoding: UTF-8
   <article id="taxonomy-article-LGBGWCH9" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ESJ3S3Z">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6MJKVR8K">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Z3PNBMRH">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ESJ3S3Z">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6MJKVR8K">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Z3PNBMRH">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HTIZLGPZ">Department of Tourism, Creative Industries and Marketing</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7FC4GVYR">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=X4XIEGPK">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HTIZLGPZ">Department of Tourism, Creative Industries and Marketing</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7FC4GVYR">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=X4XIEGPK">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8V38ZFZN">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L8RZNZF4">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8V38ZFZN">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L8RZNZF4">January</a></li>
     </ul>
   </article>
 </div>

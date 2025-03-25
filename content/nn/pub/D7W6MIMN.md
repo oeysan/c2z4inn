@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-D7W6MIMN" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VD6VZ36D">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=PH5ECGW7">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FFC76M7N">Mai</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VD6VZ36D">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=PH5ECGW7">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FFC76M7N">Mai</a></li>
     </ul>
   </article>
 </div>

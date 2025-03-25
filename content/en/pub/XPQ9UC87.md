@@ -42,19 +42,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -62,21 +62,11 @@ encoding: UTF-8
   <article id="taxonomy-article-XPQ9UC87" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4IUS5XY3">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GVSG3L3W">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4IUS5XY3">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GVSG3L3W">August</a></li>
     </ul>
   </article>
 </div>

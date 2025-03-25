@@ -31,38 +31,18 @@ encoding: UTF-8
   <article id="taxonomy-article-RKG8BJL5" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3IQA89I8">Institutt for økonomifag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ZM8AGK3A">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=A2NGEDNX">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3IQA89I8">Institutt for økonomifag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ZM8AGK3A">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=A2NGEDNX">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IRYXBU4S">Østlandsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WY52T3Q9">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=B4VPLDHV">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IRYXBU4S">Østlandsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WY52T3Q9">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=B4VPLDHV">November</a></li>
     </ul>
   </article>
 </div>

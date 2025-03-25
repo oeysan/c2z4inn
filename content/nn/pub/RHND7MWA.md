@@ -28,38 +28,18 @@ encoding: UTF-8
   <article id="taxonomy-article-RHND7MWA" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9ESJ3S3Z">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IVNR329P">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9FT8NP7E">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9ESJ3S3Z">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IVNR329P">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9FT8NP7E">Januar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7GQPC2L9">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2WRZR9KE">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7GQPC2L9">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2WRZR9KE">Januar</a></li>
     </ul>
   </article>
 </div>

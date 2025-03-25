@@ -44,13 +44,13 @@ fire scars and 213 fire events during the period of 1742–2019. The Weibull med
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -58,21 +58,11 @@ fire scars and 213 fire events during the period of 1742–2019. The Weibull med
   <article id="taxonomy-article-RHC86FIY" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=H9K9UC39">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=YAL942HZ">Mai</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=H9K9UC39">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=YAL942HZ">Mai</a></li>
     </ul>
   </article>
 </div>

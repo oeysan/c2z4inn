@@ -37,38 +37,18 @@ encoding: UTF-8
   <article id="taxonomy-article-HQESGNFQ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FE6DCPZB">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T49DQDQJ">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FE6DCPZB">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T49DQDQJ">August</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=UKII4FET">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FR66DBMF">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UKII4FET">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FR66DBMF">August</a></li>
     </ul>
   </article>
 </div>

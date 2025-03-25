@@ -44,7 +44,7 @@ Conclusion: This case exemplifies the importance of including end-user participa
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -52,55 +52,25 @@ Conclusion: This case exemplifies the importance of including end-user participa
   <article id="taxonomy-article-4KFAJT8D" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BG42VG37">Department of Game Development - The Game School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7YIRMLZH">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=UQPMRY42">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BG42VG37">Department of Game Development - The Game School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7YIRMLZH">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=UQPMRY42">April</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DLUBDP8T">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BENHGVQW">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DLUBDP8T">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BENHGVQW">April</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=85HRZ8WX">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VY234GDA">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=85HRZ8WX">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VY234GDA">April</a></li>
     </ul>
   </article>
 </div>

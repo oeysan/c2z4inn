@@ -29,55 +29,25 @@ encoding: UTF-8
   <article id="taxonomy-article-CSP2P62M" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VD6VZ36D">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9THCKVVD">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=EKSK2XE3">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VD6VZ36D">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9THCKVVD">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=EKSK2XE3">Januar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RX9SDGSP">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6PN5C2JQ">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RX9SDGSP">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6PN5C2JQ">Januar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HPPS85RX">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HPPS85RX">Januar</a></li>
     </ul>
   </article>
 </div>

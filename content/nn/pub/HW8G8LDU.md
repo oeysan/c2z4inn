@@ -32,21 +32,11 @@ encoding: UTF-8
   <article id="taxonomy-article-HW8G8LDU" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=A9PHNY6J">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ZRKAFXQV">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=A9PHNY6J">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ZRKAFXQV">November</a></li>
     </ul>
   </article>
 </div>

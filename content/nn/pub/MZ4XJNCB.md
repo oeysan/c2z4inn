@@ -42,7 +42,7 @@ Denne reviderte utgaven har en ny del om mening og meningsdannelse, med et nyskr
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -50,21 +50,11 @@ Denne reviderte utgaven har en ny del om mening og meningsdannelse, med et nyskr
   <article id="taxonomy-article-MZ4XJNCB" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=A4X5SRD6">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3LP29NYC">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=A4X5SRD6">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3LP29NYC">November</a></li>
     </ul>
   </article>
 </div>

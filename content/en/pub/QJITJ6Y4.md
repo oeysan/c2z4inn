@@ -55,7 +55,7 @@ research is needed in order to evaluate the long-term effects of soil scariﬁca
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -63,21 +63,11 @@ research is needed in order to evaluate the long-term effects of soil scariﬁca
   <article id="taxonomy-article-QJITJ6Y4" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=YEV4VALG">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9DW535PA">July</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=YEV4VALG">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9DW535PA">July</a></li>
     </ul>
   </article>
 </div>

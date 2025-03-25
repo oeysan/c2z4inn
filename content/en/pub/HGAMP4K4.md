@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -51,38 +51,18 @@ encoding: UTF-8
   <article id="taxonomy-article-HGAMP4K4" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=SIJIUZDU">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=W6SUG4BM">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=SIJIUZDU">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=W6SUG4BM">May</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KTD9NXA8">Department of Psychology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=37B43Z6Y">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DUGR6377">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KTD9NXA8">Department of Psychology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=37B43Z6Y">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DUGR6377">May</a></li>
     </ul>
   </article>
 </div>

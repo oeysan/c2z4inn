@@ -41,13 +41,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -55,21 +55,11 @@ encoding: UTF-8
   <article id="taxonomy-article-XZ8YH26P" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5DDZ8L3N">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5DDZ8L3N">March</a></li>
     </ul>
   </article>
 </div>

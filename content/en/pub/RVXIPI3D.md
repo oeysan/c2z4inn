@@ -44,7 +44,7 @@ Visual inspection of both average monthly futures prices and the futures backwar
     <div class="sdg-container"><div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -52,21 +52,11 @@ Visual inspection of both average monthly futures prices and the futures backwar
   <article id="taxonomy-article-RVXIPI3D" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3IQA89I8">Department of Business Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6THNNMZZ">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=S4J2VH6D">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3IQA89I8">Department of Business Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6THNNMZZ">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=S4J2VH6D">October</a></li>
     </ul>
   </article>
 </div>

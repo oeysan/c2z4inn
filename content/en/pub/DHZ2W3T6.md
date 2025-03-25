@@ -29,55 +29,25 @@ encoding: UTF-8
   <article id="taxonomy-article-DHZ2W3T6" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TY5PNNUR">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CY2FPFRV">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TY5PNNUR">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CY2FPFRV">October</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3IQA89I8">Department of Business Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ZM8AGK3A">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=P2QEXFCS">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3IQA89I8">Department of Business Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ZM8AGK3A">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=P2QEXFCS">October</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WY52T3Q9">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CXVWE39Y">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WY52T3Q9">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CXVWE39Y">October</a></li>
     </ul>
   </article>
 </div>

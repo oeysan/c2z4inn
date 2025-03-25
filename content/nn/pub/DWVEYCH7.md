@@ -43,19 +43,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_nn.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -63,21 +63,11 @@ encoding: UTF-8
   <article id="taxonomy-article-DWVEYCH7" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7GQPC2L9">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2WRZR9KE">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7GQPC2L9">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2WRZR9KE">Januar</a></li>
     </ul>
   </article>
 </div>

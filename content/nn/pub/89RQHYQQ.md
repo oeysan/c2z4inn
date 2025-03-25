@@ -43,19 +43,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -63,52 +63,24 @@ encoding: UTF-8
   <article id="taxonomy-article-89RQHYQQ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3IQA89I8">Institutt for økonomifag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XK3XPH22">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=PWG8IYUQ">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3IQA89I8">Institutt for økonomifag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XK3XPH22">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=PWG8IYUQ">Mars</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ITYAG68H">Institutt for rettsvitenskap, filosofi og internasjonale studier</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XDLKZVSJ">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SG3A2UP5">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ITYAG68H">Institutt for rettsvitenskap, filosofi og internasjonale studier</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XDLKZVSJ">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SG3A2UP5">Mars</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QP7PBTSZ">Administrasjonen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4VTSX5TA">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=PQA3Q3CJ">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QP7PBTSZ">Administrasjonen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4VTSX5TA">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=PQA3Q3CJ">Mars</a></li>
     </ul>
   </article>
 </div>

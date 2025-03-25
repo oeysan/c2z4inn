@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-JSKJQFAV" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HCCH4BKG">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=C55MJL9H">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HCCH4BKG">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=C55MJL9H">November</a></li>
     </ul>
   </article>
 </div>

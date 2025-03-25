@@ -29,38 +29,18 @@ encoding: UTF-8
   <article id="taxonomy-article-QPUTPMCT" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ZXPJXTL9">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=K46NGGNP">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ZXPJXTL9">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=K46NGGNP">Desember</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=C5RPEIFL">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=PQPNUTSC">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=C5RPEIFL">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=PQPNUTSC">Desember</a></li>
     </ul>
   </article>
 </div>

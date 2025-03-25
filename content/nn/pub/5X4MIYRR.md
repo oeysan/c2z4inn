@@ -37,13 +37,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -51,21 +51,11 @@ encoding: UTF-8
   <article id="taxonomy-article-5X4MIYRR" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SIJIUZDU">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=JHP369NA">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SIJIUZDU">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=JHP369NA">Oktober</a></li>
     </ul>
   </article>
 </div>

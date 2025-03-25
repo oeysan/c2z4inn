@@ -54,19 +54,19 @@ economic growth. As a result, the green economy in the Global South is often nar
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_nn.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -74,21 +74,11 @@ economic growth. As a result, the green economy in the Global South is often nar
   <article id="taxonomy-article-R3YT6ZM9" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6DB23HCM">2021</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HVFY2ZXP">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6DB23HCM">2021</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HVFY2ZXP">Januar</a></li>
     </ul>
   </article>
 </div>

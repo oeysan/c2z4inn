@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_nn.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -51,21 +51,11 @@ encoding: UTF-8
   <article id="taxonomy-article-EYQ822DJ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IK56H2PP">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=NUC4ZU4K">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IK56H2PP">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=NUC4ZU4K">August</a></li>
     </ul>
   </article>
 </div>

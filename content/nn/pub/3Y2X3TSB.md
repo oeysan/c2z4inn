@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-3Y2X3TSB" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4IUS5XY3">2021</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XMHYE56H">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4IUS5XY3">2021</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XMHYE56H">Januar</a></li>
     </ul>
   </article>
 </div>

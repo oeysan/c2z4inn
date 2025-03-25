@@ -31,21 +31,11 @@ encoding: UTF-8
   <article id="taxonomy-article-AABGF5IW" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=676HMQBA">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QBYYL8BM">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=676HMQBA">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QBYYL8BM">November</a></li>
     </ul>
   </article>
 </div>

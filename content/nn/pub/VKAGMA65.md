@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-VKAGMA65" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IK56H2PP">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=372WNZZF">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IK56H2PP">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=372WNZZF">Oktober</a></li>
     </ul>
   </article>
 </div>

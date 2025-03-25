@@ -31,38 +31,18 @@ encoding: UTF-8
   <article id="taxonomy-article-A8KHE2Q8" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TKXB7BTS">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYYQ7MBK">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TKXB7BTS">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYYQ7MBK">September</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THSB4HN9">Department of English</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Z4WFKMZ4">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HC5IQ2V6">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THSB4HN9">Department of English</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Z4WFKMZ4">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HC5IQ2V6">September</a></li>
     </ul>
   </article>
 </div>

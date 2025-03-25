@@ -41,13 +41,13 @@ and independent and consciously employed complex social practices to climb the s
     <div class="sdg-container"><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -55,21 +55,11 @@ and independent and consciously employed complex social practices to climb the s
   <article id="taxonomy-article-HEN9S5GL" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=A558FPGR">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FZNIDRMQ">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=A558FPGR">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FZNIDRMQ">May</a></li>
     </ul>
   </article>
 </div>

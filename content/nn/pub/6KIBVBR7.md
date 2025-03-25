@@ -24,21 +24,11 @@ encoding: UTF-8
   <article id="taxonomy-article-6KIBVBR7" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FUSJD299">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G34NANYM">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FUSJD299">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G34NANYM">Juni</a></li>
     </ul>
   </article>
 </div>

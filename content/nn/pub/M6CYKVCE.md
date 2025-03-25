@@ -43,25 +43,25 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg6" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg06_nn.png" class="image" alt="SDG 6">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_nn.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_nn.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_nn.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -69,38 +69,18 @@ encoding: UTF-8
   <article id="taxonomy-article-M6CYKVCE" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G97E9PA5">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=TC4Z7I9S">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G97E9PA5">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=TC4Z7I9S">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=83ZSF7H3">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8V5WE55I">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=83ZSF7H3">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8V5WE55I">Februar</a></li>
     </ul>
   </article>
 </div>

@@ -43,13 +43,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg6" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg06_nn.png" class="image" alt="SDG 6">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_nn.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -57,21 +57,11 @@ encoding: UTF-8
   <article id="taxonomy-article-72WUXP6S" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8WZUMF5F">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9XEZGZ2V">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8WZUMF5F">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9XEZGZ2V">Desember</a></li>
     </ul>
   </article>
 </div>

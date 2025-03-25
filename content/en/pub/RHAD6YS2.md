@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -51,21 +51,11 @@ encoding: UTF-8
   <article id="taxonomy-article-RHAD6YS2" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Z8HBTF29">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GN9EJFES">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Z8HBTF29">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GN9EJFES">January</a></li>
     </ul>
   </article>
 </div>

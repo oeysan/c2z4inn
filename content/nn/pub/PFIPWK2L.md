@@ -41,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -49,38 +49,18 @@ encoding: UTF-8
   <article id="taxonomy-article-PFIPWK2L" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LNJIKLR2">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8WRHW5N7">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LNJIKLR2">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8WRHW5N7">Desember</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FLJPCLYW">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RZQY37CU">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FLJPCLYW">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RZQY37CU">Desember</a></li>
     </ul>
   </article>
 </div>

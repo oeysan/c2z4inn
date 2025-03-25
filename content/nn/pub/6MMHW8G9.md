@@ -40,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -54,38 +54,18 @@ encoding: UTF-8
   <article id="taxonomy-article-6MMHW8G9" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=E7U487S5">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WP4MTDZC">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=E7U487S5">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WP4MTDZC">August</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=32SCKVEY">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=M9JC9DBU">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=32SCKVEY">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=M9JC9DBU">August</a></li>
     </ul>
   </article>
 </div>

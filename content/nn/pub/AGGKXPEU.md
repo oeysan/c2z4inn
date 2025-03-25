@@ -24,38 +24,18 @@ encoding: UTF-8
   <article id="taxonomy-article-AGGKXPEU" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3IQA89I8">Institutt for økonomifag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9V5B7Z44">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VZHECY8M">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3IQA89I8">Institutt for økonomifag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9V5B7Z44">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VZHECY8M">Januar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IRYXBU4S">Østlandsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FEF7Z2NY">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=692GU8E5">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IRYXBU4S">Østlandsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FEF7Z2NY">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=692GU8E5">Januar</a></li>
     </ul>
   </article>
 </div>

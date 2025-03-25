@@ -23,18 +23,10 @@ encoding: UTF-8
   <article id="taxonomy-article-VMD4S6WW" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=II9RDAME">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3TJDYZJS">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GFFYDGQQ">Juli</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=II9RDAME">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3TJDYZJS">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GFFYDGQQ">Juli</a></li>
     </ul>
   </article>
 </div>

@@ -28,18 +28,10 @@ encoding: UTF-8
   <article id="taxonomy-article-2MHVVV83" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QP7PBTSZ">Administrasjonen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=D7RQQI73">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DJLRJUFR">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QP7PBTSZ">Administrasjonen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=D7RQQI73">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DJLRJUFR">November</a></li>
     </ul>
   </article>
 </div>

@@ -48,13 +48,13 @@ Conclusions and Significance: Community-based occupational therapists positioned
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -62,21 +62,11 @@ Conclusions and Significance: Community-based occupational therapists positioned
   <article id="taxonomy-article-R5W8U2UJ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SIJIUZDU">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=JE6BH2AK">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SIJIUZDU">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=JE6BH2AK">Januar</a></li>
     </ul>
   </article>
 </div>

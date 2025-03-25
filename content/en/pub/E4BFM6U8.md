@@ -30,72 +30,32 @@ encoding: UTF-8
   <article id="taxonomy-article-E4BFM6U8" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=85HRZ8WX">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BJ5VJNSN">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=85HRZ8WX">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BJ5VJNSN">June</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FKHNMZNC">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DRMQSRBC">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FKHNMZNC">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DRMQSRBC">June</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RSMGWRJN">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=B4YLVBHZ">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RSMGWRJN">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=B4YLVBHZ">June</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TY5PNNUR">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VC24SS6H">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TY5PNNUR">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VC24SS6H">June</a></li>
     </ul>
   </article>
 </div>

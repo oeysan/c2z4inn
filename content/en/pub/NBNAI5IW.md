@@ -30,38 +30,18 @@ encoding: UTF-8
   <article id="taxonomy-article-NBNAI5IW" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RX9SDGSP">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FKMR3HRA">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RX9SDGSP">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FKMR3HRA">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=A9PHNY6J">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ZRKAFXQV">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=A9PHNY6J">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ZRKAFXQV">November</a></li>
     </ul>
   </article>
 </div>

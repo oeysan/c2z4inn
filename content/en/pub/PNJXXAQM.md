@@ -39,13 +39,13 @@ The book is aimed at educating enterprises, both employers and workplace trainer
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -53,21 +53,11 @@ The book is aimed at educating enterprises, both employers and workplace trainer
   <article id="taxonomy-article-PNJXXAQM" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=D9DGSFA7">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=D9DGSFA7">August</a></li>
     </ul>
   </article>
 </div>

@@ -43,13 +43,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -57,38 +57,18 @@ encoding: UTF-8
   <article id="taxonomy-article-R35CTTYE" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VL6KDQ85">Department of Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ZLN3ADWB">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=JZDA6YP6">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VL6KDQ85">Department of Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ZLN3ADWB">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=JZDA6YP6">August</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=H9K9UC39">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=V5T9MSBV">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=H9K9UC39">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=V5T9MSBV">August</a></li>
     </ul>
   </article>
 </div>

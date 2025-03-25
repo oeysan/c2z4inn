@@ -41,21 +41,11 @@ ved hjelp av begrepet «scaffolding». Dette skal belyse hvordan veiledere igang
   <article id="taxonomy-article-8AW6VCS7" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RDNF7EXQ">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GDBMH28M">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RDNF7EXQ">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GDBMH28M">August</a></li>
     </ul>
   </article>
 </div>

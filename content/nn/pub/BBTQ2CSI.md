@@ -44,21 +44,11 @@ Den moderne telemarksbølgen er skrevet for forskere, idrettsstudenter med samfu
   <article id="taxonomy-article-BBTQ2CSI" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=Y3QE4BPW">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CQJN3BNH">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=Y3QE4BPW">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CQJN3BNH">Januar</a></li>
     </ul>
   </article>
 </div>

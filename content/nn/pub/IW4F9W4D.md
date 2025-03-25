@@ -39,38 +39,18 @@ encoding: UTF-8
   <article id="taxonomy-article-IW4F9W4D" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2ZAN5K7T">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FDDLZ9V3">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=I2JQ9UQL">Juli</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2ZAN5K7T">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FDDLZ9V3">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=I2JQ9UQL">Juli</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HLEHSSKP">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KHQ2MPCR">Juli</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HLEHSSKP">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KHQ2MPCR">Juli</a></li>
     </ul>
   </article>
 </div>

@@ -42,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -50,21 +50,11 @@ encoding: UTF-8
   <article id="taxonomy-article-6USAXQU4" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=E7U487S5">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8N84IDT9">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HTIZLGPZ">Institutt for reiseliv, opplevelsesnæringer og markedsføring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=E7U487S5">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8N84IDT9">September</a></li>
     </ul>
   </article>
 </div>

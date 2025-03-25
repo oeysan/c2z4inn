@@ -58,7 +58,7 @@ in drier habitats.
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -66,21 +66,11 @@ in drier habitats.
   <article id="taxonomy-article-PE8VTXXD" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DRHXCX63">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=W2TIJPTR">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DRHXCX63">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=W2TIJPTR">November</a></li>
     </ul>
   </article>
 </div>

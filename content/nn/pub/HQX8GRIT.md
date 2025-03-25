@@ -39,7 +39,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -47,21 +47,11 @@ encoding: UTF-8
   <article id="taxonomy-article-HQX8GRIT" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8VQBC64H">2021</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QGTHDADW">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8VQBC64H">2021</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QGTHDADW">Januar</a></li>
     </ul>
   </article>
 </div>

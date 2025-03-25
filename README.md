@@ -17,7 +17,7 @@ This GitHub repository contains the source code for an archive for
 scientific publications at INN (registered in Cristin since the
 institution was established on January 1, 2017).
 
-The archive was last updated **03-25-2025 (at 14:29)** and contains
+The archive was last updated **03-25-2025 (at 16:22)** and contains
 **5493** publications.
 
 You may also visit the [Zotero

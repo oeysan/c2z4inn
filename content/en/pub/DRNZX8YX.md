@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-DRNZX8YX" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=G3SEU2Z2">Centre for Studies of Educational Practice</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GXY3EJVE">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5M8AFHRE">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=G3SEU2Z2">Centre for Studies of Educational Practice</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GXY3EJVE">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5M8AFHRE">January</a></li>
     </ul>
   </article>
 </div>

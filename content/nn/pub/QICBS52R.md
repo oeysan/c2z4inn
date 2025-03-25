@@ -31,38 +31,18 @@ encoding: UTF-8
   <article id="taxonomy-article-QICBS52R" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6YFFCMG5">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KKA8YQIS">Mai</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6YFFCMG5">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KKA8YQIS">Mai</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KTD9NXA8">Institutt for psykologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=EQ5YLBRL">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=AIZ4P8EV">Mai</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KTD9NXA8">Institutt for psykologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=EQ5YLBRL">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=AIZ4P8EV">Mai</a></li>
     </ul>
   </article>
 </div>

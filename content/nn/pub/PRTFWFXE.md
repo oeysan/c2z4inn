@@ -40,19 +40,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -60,21 +60,11 @@ encoding: UTF-8
   <article id="taxonomy-article-PRTFWFXE" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QB7HPZ24">Senter for livslang læring – LUP</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7PIE3H63">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=D24EGY48">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QB7HPZ24">Senter for livslang læring – LUP</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7PIE3H63">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=D24EGY48">Januar</a></li>
     </ul>
   </article>
 </div>

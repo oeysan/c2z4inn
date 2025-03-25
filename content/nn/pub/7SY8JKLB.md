@@ -40,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -54,38 +54,18 @@ encoding: UTF-8
   <article id="taxonomy-article-7SY8JKLB" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2ZAN5K7T">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6HCJH8II">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=MMCSRBTR">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2ZAN5K7T">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6HCJH8II">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=MMCSRBTR">Juni</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G3SEU2Z2">Senter for praksisrettet utdanningsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3KJKJQ9B">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FYFKH2MW">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G3SEU2Z2">Senter for praksisrettet utdanningsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3KJKJQ9B">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FYFKH2MW">Juni</a></li>
     </ul>
   </article>
 </div>

@@ -37,7 +37,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -45,21 +45,11 @@ encoding: UTF-8
   <article id="taxonomy-article-KHN4UBVV" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LRBGYVJB">2021</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7RLFHKRD">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LRBGYVJB">2021</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7RLFHKRD">Mars</a></li>
     </ul>
   </article>
 </div>

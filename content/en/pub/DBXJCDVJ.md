@@ -53,7 +53,7 @@ With equal levels of immersion and interaction, 360° videos and computer-genera
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -61,38 +61,18 @@ With equal levels of immersion and interaction, 360° videos and computer-genera
   <article id="taxonomy-article-DBXJCDVJ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BG42VG37">Department of Game Development - The Game School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RDJM7INQ">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=SMMYPEHR">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BG42VG37">Department of Game Development - The Game School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RDJM7INQ">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=SMMYPEHR">August</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5HKEZMYN">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ARBG3ZVY">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5HKEZMYN">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ARBG3ZVY">August</a></li>
     </ul>
   </article>
 </div>

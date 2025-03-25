@@ -31,21 +31,11 @@ encoding: UTF-8
   <article id="taxonomy-article-6PNDHCCZ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2ZAN5K7T">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ELNSPDWG">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RPYX4DI3">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2ZAN5K7T">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ELNSPDWG">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RPYX4DI3">January</a></li>
     </ul>
   </article>
 </div>

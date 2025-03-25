@@ -29,35 +29,17 @@ encoding: UTF-8
   <article id="taxonomy-article-RN8JULIU" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=85HRZ8WX">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6ZVPTWE5">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CU4VFGCV">Institutt for sosialvitenskap og veiledning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=85HRZ8WX">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6ZVPTWE5">Mars</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QP7PBTSZ">Administrasjonen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=N79PQDNE">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2JXCWK8J">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QP7PBTSZ">Administrasjonen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=N79PQDNE">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2JXCWK8J">Mars</a></li>
     </ul>
   </article>
 </div>

@@ -43,13 +43,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -57,21 +57,11 @@ encoding: UTF-8
   <article id="taxonomy-article-2XHUBMFM" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2C96K84E">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=M33SQX6L">July</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2C96K84E">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=M33SQX6L">July</a></li>
     </ul>
   </article>
 </div>

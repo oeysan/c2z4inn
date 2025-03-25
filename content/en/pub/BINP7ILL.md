@@ -38,13 +38,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -52,21 +52,11 @@ encoding: UTF-8
   <article id="taxonomy-article-BINP7ILL" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=MXEW8QDW">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2T2YKNZ5">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=MXEW8QDW">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2T2YKNZ5">January</a></li>
     </ul>
   </article>
 </div>

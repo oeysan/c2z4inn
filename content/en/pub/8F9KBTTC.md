@@ -61,13 +61,13 @@ the NEET challenge.
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -75,69 +75,31 @@ the NEET challenge.
   <article id="taxonomy-article-8F9KBTTC" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=A9PHNY6J">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ZRKAFXQV">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=A9PHNY6J">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ZRKAFXQV">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=C6MPENQL">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=C6MPENQL">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=484AQA42">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VBJ62IT8">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=484AQA42">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VBJ62IT8">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QP7PBTSZ">Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=X9CXQWQP">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9DX3K5CU">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QP7PBTSZ">Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=X9CXQWQP">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9DX3K5CU">November</a></li>
     </ul>
   </article>
 </div>

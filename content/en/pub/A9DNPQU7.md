@@ -31,38 +31,18 @@ encoding: UTF-8
   <article id="taxonomy-article-A9DNPQU7" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THVQJFRI">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8CKR9ZVK">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THVQJFRI">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8CKR9ZVK">December</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3IQA89I8">Department of Business Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RD9NIUZB">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=F34LS9LH">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3IQA89I8">Department of Business Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RD9NIUZB">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=F34LS9LH">December</a></li>
     </ul>
   </article>
 </div>

@@ -25,21 +25,11 @@ encoding: UTF-8
   <article id="taxonomy-article-UA6NYMGR" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2ZAN5K7T">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6HCJH8II">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XDC22ELZ">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2ZAN5K7T">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6HCJH8II">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XDC22ELZ">Oktober</a></li>
     </ul>
   </article>
 </div>

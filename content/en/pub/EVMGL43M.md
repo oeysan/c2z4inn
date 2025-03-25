@@ -29,55 +29,25 @@ encoding: UTF-8
   <article id="taxonomy-article-EVMGL43M" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ESJ3S3Z">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IVNR329P">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9FT8NP7E">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ESJ3S3Z">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IVNR329P">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9FT8NP7E">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7GQPC2L9">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2WRZR9KE">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7GQPC2L9">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2WRZR9KE">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3IQA89I8">Department of Business Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9V5B7Z44">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VZHECY8M">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3IQA89I8">Department of Business Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9V5B7Z44">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VZHECY8M">January</a></li>
     </ul>
   </article>
 </div>

@@ -43,7 +43,7 @@ Er det en god forståelse? Vi setter forståelsen på prøve. Og utfallet går i
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -51,21 +51,11 @@ Er det en god forståelse? Vi setter forståelsen på prøve. Og utfallet går i
   <article id="taxonomy-article-2IFTM5FQ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=X2Y974UN">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WDHAJ6HF">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=X2Y974UN">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WDHAJ6HF">Januar</a></li>
     </ul>
   </article>
 </div>

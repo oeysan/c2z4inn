@@ -29,21 +29,11 @@ encoding: UTF-8
   <article id="taxonomy-article-YWZI64YR" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=83ZSF7H3">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RF6QRYUG">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=83ZSF7H3">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RF6QRYUG">August</a></li>
     </ul>
   </article>
 </div>

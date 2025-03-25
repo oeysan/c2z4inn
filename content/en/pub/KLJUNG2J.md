@@ -41,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -49,38 +49,18 @@ encoding: UTF-8
   <article id="taxonomy-article-KLJUNG2J" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DLUBDP8T">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6GJP82GR">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DLUBDP8T">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6GJP82GR">December</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LLA4BC9U">Department of Mathematics, Natural Sciences, and Physical Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HSQ2I35R">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FUV676TD">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LLA4BC9U">Department of Mathematics, Natural Sciences, and Physical Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HSQ2I35R">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FUV676TD">December</a></li>
     </ul>
   </article>
 </div>

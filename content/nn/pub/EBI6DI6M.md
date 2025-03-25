@@ -32,18 +32,10 @@ encoding: UTF-8
   <article id="taxonomy-article-EBI6DI6M" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=AT7IFDV3">Den norske filmskolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4G2H2RWZ">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RHJQS48A">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=AT7IFDV3">Den norske filmskolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4G2H2RWZ">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RHJQS48A">Juni</a></li>
     </ul>
   </article>
 </div>

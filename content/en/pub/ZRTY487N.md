@@ -56,13 +56,13 @@ Developmental Leadership Questionnaire (DLQ)
     <div class="sdg-container"><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -70,21 +70,11 @@ Developmental Leadership Questionnaire (DLQ)
   <article id="taxonomy-article-ZRTY487N" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LNJIKLR2">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=R767SBHX">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LNJIKLR2">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=R767SBHX">November</a></li>
     </ul>
   </article>
 </div>

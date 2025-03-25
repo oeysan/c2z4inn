@@ -40,19 +40,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_nn.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -60,38 +60,18 @@ encoding: UTF-8
   <article id="taxonomy-article-U7UYE7AS" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7GQPC2L9">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SDDYFJAM">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=4LUWR3ZM">Institutt for organisasjon, ledelse, styring</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7GQPC2L9">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SDDYFJAM">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IRYXBU4S">Østlandsforskning</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FEF7Z2NY">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=TNQPU2ZZ">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IRYXBU4S">Østlandsforskning</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FEF7Z2NY">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=TNQPU2ZZ">Februar</a></li>
     </ul>
   </article>
 </div>

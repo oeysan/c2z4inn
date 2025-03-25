@@ -45,19 +45,19 @@ individualized pupil support towards helping teachers support pupils through the
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -65,55 +65,25 @@ individualized pupil support towards helping teachers support pupils through the
   <article id="taxonomy-article-8CYCUAH6" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=E7THIEEM">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=K9MPWJCB">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=E7THIEEM">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=K9MPWJCB">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=MXF6ZEHK">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VGLHCWAR">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=MXF6ZEHK">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VGLHCWAR">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=G3SEU2Z2">Centre for Studies of Educational Practice</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Y8K9DIAA">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FMJMAKKE">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=G3SEU2Z2">Centre for Studies of Educational Practice</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Y8K9DIAA">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FMJMAKKE">February</a></li>
     </ul>
   </article>
 </div>

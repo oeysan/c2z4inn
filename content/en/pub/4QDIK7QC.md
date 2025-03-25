@@ -26,21 +26,11 @@ encoding: UTF-8
   <article id="taxonomy-article-4QDIK7QC" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ESJ3S3Z">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XA55QGH5">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=SCK7WITN">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ESJ3S3Z">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XA55QGH5">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=SCK7WITN">December</a></li>
     </ul>
   </article>
 </div>

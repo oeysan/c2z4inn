@@ -45,7 +45,7 @@ A major contribution to the theory of the civil sphere and to our understanding 
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -53,21 +53,11 @@ A major contribution to the theory of the civil sphere and to our understanding 
   <article id="taxonomy-article-GXQL5T5B" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=MXF6ZEHK">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FUEQ3SGE">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=MXF6ZEHK">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FUEQ3SGE">Desember</a></li>
     </ul>
   </article>
 </div>

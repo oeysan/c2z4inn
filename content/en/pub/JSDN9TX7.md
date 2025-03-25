@@ -30,21 +30,11 @@ encoding: UTF-8
   <article id="taxonomy-article-JSDN9TX7" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3IQA89I8">Department of Business Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TI88EFV9">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IYFN9JA3">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3IQA89I8">Department of Business Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TI88EFV9">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IYFN9JA3">June</a></li>
     </ul>
   </article>
 </div>

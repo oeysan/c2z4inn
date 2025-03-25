@@ -29,55 +29,25 @@ encoding: UTF-8
   <article id="taxonomy-article-JFU4QWZD" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BG42VG37">Department of Game Development - The Game School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=JSAUM7WQ">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ITB88AUM">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BG42VG37">Department of Game Development - The Game School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=JSAUM7WQ">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ITB88AUM">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=K2W6R8TG">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7KEIMTAM">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=K2W6R8TG">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7KEIMTAM">January</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5FNI6CN6">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XBWPQCDK">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5FNI6CN6">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XBWPQCDK">January</a></li>
     </ul>
   </article>
 </div>

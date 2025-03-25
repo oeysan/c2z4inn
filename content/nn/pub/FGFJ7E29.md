@@ -57,19 +57,19 @@ tools for creating inclusive school practices.
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -77,38 +77,18 @@ tools for creating inclusive school practices.
   <article id="taxonomy-article-FGFJ7E29" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=AJM9DTRJ">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=R9A6PMNI">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=AJM9DTRJ">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=R9A6PMNI">September</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=UKHIYNRX">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RE89K5SC">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UKHIYNRX">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RE89K5SC">September</a></li>
     </ul>
   </article>
 </div>

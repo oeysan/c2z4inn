@@ -31,21 +31,11 @@ encoding: UTF-8
   <article id="taxonomy-article-5A7QGVXW" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VL6KDQ85">Department of Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ZLN3ADWB">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=JZDA6YP6">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VL6KDQ85">Department of Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ZLN3ADWB">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=JZDA6YP6">August</a></li>
     </ul>
   </article>
 </div>

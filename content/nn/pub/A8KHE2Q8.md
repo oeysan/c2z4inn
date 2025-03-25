@@ -31,38 +31,18 @@ encoding: UTF-8
   <article id="taxonomy-article-A8KHE2Q8" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=TKXB7BTS">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYYQ7MBK">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=TKXB7BTS">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYYQ7MBK">September</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=THSB4HN9">Institutt for engelsk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=Z4WFKMZ4">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HC5IQ2V6">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=THSB4HN9">Institutt for engelsk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=Z4WFKMZ4">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HC5IQ2V6">September</a></li>
     </ul>
   </article>
 </div>

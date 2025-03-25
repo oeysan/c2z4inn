@@ -42,19 +42,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_nn.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_nn.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -62,38 +62,18 @@ encoding: UTF-8
   <article id="taxonomy-article-RPWPYQKS" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=H5L4MZHE">2025</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=5HN27UBT">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=H5L4MZHE">2025</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=5HN27UBT">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9ESJ3S3Z">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3VIEY7UF">2025</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ESCB3S9T">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9ESJ3S3Z">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3VIEY7UF">2025</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ESCB3S9T">Februar</a></li>
     </ul>
   </article>
 </div>

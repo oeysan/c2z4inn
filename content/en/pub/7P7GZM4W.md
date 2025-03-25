@@ -29,38 +29,18 @@ encoding: UTF-8
   <article id="taxonomy-article-7P7GZM4W" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FLJPCLYW">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KNL9Q9AR">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FLJPCLYW">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KNL9Q9AR">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KTD9NXA8">Department of Psychology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IN9AQYFK">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=33SK7TGP">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KTD9NXA8">Department of Psychology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IN9AQYFK">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=33SK7TGP">November</a></li>
     </ul>
   </article>
 </div>

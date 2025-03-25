@@ -31,21 +31,11 @@ encoding: UTF-8
   <article id="taxonomy-article-KBH7XLS3" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KTD9NXA8">Institutt for psykologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IN9AQYFK">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T67L3JL3">Juli</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KTD9NXA8">Institutt for psykologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IN9AQYFK">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T67L3JL3">Juli</a></li>
     </ul>
   </article>
 </div>

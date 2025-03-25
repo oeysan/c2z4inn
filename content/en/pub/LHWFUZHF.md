@@ -30,21 +30,11 @@ encoding: UTF-8
   <article id="taxonomy-article-LHWFUZHF" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=A558FPGR">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6QKMWPUW">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=A558FPGR">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6QKMWPUW">September</a></li>
     </ul>
   </article>
 </div>

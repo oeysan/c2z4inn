@@ -35,21 +35,11 @@ encoding: UTF-8
   <article id="taxonomy-article-FYGEZ9TI" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=SIJIUZDU">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6N94TLUN">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=SIJIUZDU">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6N94TLUN">December</a></li>
     </ul>
   </article>
 </div>

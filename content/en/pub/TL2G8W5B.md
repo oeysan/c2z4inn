@@ -28,38 +28,18 @@ encoding: UTF-8
   <article id="taxonomy-article-TL2G8W5B" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7UTH2T35">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ZRSJBPUF">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7UTH2T35">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ZRSJBPUF">March</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KTD9NXA8">Department of Psychology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=AEVGZCNC">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=EZTYMR2Q">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KTD9NXA8">Department of Psychology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=AEVGZCNC">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=EZTYMR2Q">March</a></li>
     </ul>
   </article>
 </div>

@@ -26,21 +26,11 @@ encoding: UTF-8
   <article id="taxonomy-article-XKY7LLMG" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=YEV4VALG">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=JPM4ALFW">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7TRARPE3">Institutt for skog- og utmarksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=YEV4VALG">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=JPM4ALFW">Desember</a></li>
     </ul>
   </article>
 </div>

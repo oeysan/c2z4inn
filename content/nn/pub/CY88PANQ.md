@@ -29,72 +29,32 @@ encoding: UTF-8
   <article id="taxonomy-article-CY88PANQ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=2ZAN5K7T">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8Q8492ZL">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ME6GZ8FD">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=2ZAN5K7T">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8Q8492ZL">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ME6GZ8FD">Oktober</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FKHNMZNC">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XDWHG3ZU">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BKPR6TE7">Institutt for pedagogikk ved lærerutdanningene</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FKHNMZNC">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XDWHG3ZU">Oktober</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CAQL5F23">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9ANKFGY4">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CAQL5F23">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9ANKFGY4">Oktober</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8WZUMF5F">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=5XY93SIB">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XY7UYWKQ">Institutt for samfunnsfag, religion og etikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8WZUMF5F">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=5XY93SIB">Oktober</a></li>
     </ul>
   </article>
 </div>

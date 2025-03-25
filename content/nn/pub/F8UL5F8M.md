@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -51,18 +51,10 @@ encoding: UTF-8
   <article id="taxonomy-article-F8UL5F8M" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=II9RDAME">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=D943LLP2">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LNIWUSZA">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=II9RDAME">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=D943LLP2">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LNIWUSZA">Mars</a></li>
     </ul>
   </article>
 </div>

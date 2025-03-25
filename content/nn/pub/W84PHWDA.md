@@ -44,21 +44,11 @@ i Idln må tenkes på nytt. Med en bokhistorisk og empirisk tilnærming til forf
   <article id="taxonomy-article-W84PHWDA" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8BZA2YRV">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DDVC4KQ3">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8BZA2YRV">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DDVC4KQ3">Mars</a></li>
     </ul>
   </article>
 </div>

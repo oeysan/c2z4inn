@@ -38,19 +38,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -58,21 +58,11 @@ encoding: UTF-8
   <article id="taxonomy-article-HKM22KGP" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ESJ3S3Z">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ESAQ22H7">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=X7FARZ4F">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ESJ3S3Z">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ESAQ22H7">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=X7FARZ4F">April</a></li>
     </ul>
   </article>
 </div>

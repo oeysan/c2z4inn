@@ -47,7 +47,7 @@ use of modal particles is influenced by several factors, such as general interla
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -55,21 +55,11 @@ use of modal particles is influenced by several factors, such as general interla
   <article id="taxonomy-article-QUZNR94Y" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=AS5QFSER">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FHRJJ6AX">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T9U6ILTU">Institutt for nordisk språk og litteratur</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=AS5QFSER">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FHRJJ6AX">November</a></li>
     </ul>
   </article>
 </div>

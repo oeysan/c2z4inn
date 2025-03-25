@@ -45,13 +45,13 @@ and place when interpreting young people’s participation and meaning making at
     <div class="sdg-container"><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -59,38 +59,18 @@ and place when interpreting young people’s participation and meaning making at
   <article id="taxonomy-article-LXXQ6J7P" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IWMPJHCA">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=P3L3G25I">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IWMPJHCA">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=P3L3G25I">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HLEHSSKP">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RMUJJ7IL">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HLEHSSKP">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RMUJJ7IL">November</a></li>
     </ul>
   </article>
 </div>

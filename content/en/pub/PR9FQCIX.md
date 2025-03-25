@@ -35,21 +35,11 @@ Kva veit ein om felespelet til Arne Garborg? Korleis og av kven lærte Garborg s
   <article id="taxonomy-article-PR9FQCIX" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=N3YI5B9V">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=U4M6L2F7">July</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=N3YI5B9V">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=U4M6L2F7">July</a></li>
     </ul>
   </article>
 </div>

@@ -50,13 +50,13 @@ Conclusions: Although our theoretical concepts allowed us to problematize differ
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_nn.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -64,21 +64,11 @@ Conclusions: Although our theoretical concepts allowed us to problematize differ
   <article id="taxonomy-article-V56UA8CF" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=P2L6JC54">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=X742Q3P9">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=P2L6JC54">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=X742Q3P9">Oktober</a></li>
     </ul>
   </article>
 </div>

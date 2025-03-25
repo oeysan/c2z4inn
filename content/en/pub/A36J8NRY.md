@@ -43,13 +43,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -57,38 +57,18 @@ encoding: UTF-8
   <article id="taxonomy-article-A36J8NRY" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TY5PNNUR">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=PGHBCBUN">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TY5PNNUR">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=PGHBCBUN">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WY52T3Q9">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=M6HXHZU4">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WY52T3Q9">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=M6HXHZU4">February</a></li>
     </ul>
   </article>
 </div>

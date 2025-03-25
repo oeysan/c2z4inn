@@ -30,55 +30,25 @@ oppfølging av personer med psykoselidelser
   <article id="taxonomy-article-I5EAMV4B" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VD6VZ36D">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=PH3896JG">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3R4LUB6Q">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VD6VZ36D">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=PH3896JG">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3R4LUB6Q">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=QV2QKSDS">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=5A9AKSDK">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GTV4ECMZ">Institutt for helse- og sykepleievitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=QV2QKSDS">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=5A9AKSDK">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=Y3QE4BPW">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BF34NF4K">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=Y3QE4BPW">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BF34NF4K">Februar</a></li>
     </ul>
   </article>
 </div>

@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -51,38 +51,18 @@ encoding: UTF-8
   <article id="taxonomy-article-KIZ6GH8V" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HTIZLGPZ">Department of Tourism, Creative Industries and Marketing</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6V8B4IYP">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TY93EGLA">July</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HTIZLGPZ">Department of Tourism, Creative Industries and Marketing</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6V8B4IYP">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TY93EGLA">July</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L4LD5JU9">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=A4JVN8CW">July</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=4LUWR3ZM">Department of Organisation, Leadership and Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L4LD5JU9">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=A4JVN8CW">July</a></li>
     </ul>
   </article>
 </div>

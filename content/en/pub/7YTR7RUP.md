@@ -29,21 +29,11 @@ encoding: UTF-8
   <article id="taxonomy-article-7YTR7RUP" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=64DNHFWC">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=HLG4Y3Z8">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IRYXBU4S">Eastern Norway Research Institute</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=64DNHFWC">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HLG4Y3Z8">December</a></li>
     </ul>
   </article>
 </div>

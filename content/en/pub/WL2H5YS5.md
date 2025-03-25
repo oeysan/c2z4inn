@@ -56,13 +56,13 @@ Red fox . Scavenging . Small rodents . Habitat . Climate . Camera traps
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -70,21 +70,11 @@ Red fox . Scavenging . Small rodents . Habitat . Climate . Camera traps
   <article id="taxonomy-article-WL2H5YS5" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5LT6Q2XL">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8DK4JEF9">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5LT6Q2XL">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8DK4JEF9">March</a></li>
     </ul>
   </article>
 </div>

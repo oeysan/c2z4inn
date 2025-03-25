@@ -30,38 +30,18 @@ encoding: UTF-8
   <article id="taxonomy-article-WURMDH8H" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VD6VZ36D">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=99UUJVSX">2025</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=CLJWBD5G">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VD6VZ36D">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=99UUJVSX">2025</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=CLJWBD5G">Februar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9ESJ3S3Z">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=3VIEY7UF">2025</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ESCB3S9T">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9ESJ3S3Z">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3VIEY7UF">2025</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ESCB3S9T">Februar</a></li>
     </ul>
   </article>
 </div>

@@ -28,52 +28,24 @@ encoding: UTF-8
   <article id="taxonomy-article-FZI7ZX4E" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=II9RDAME">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SH3N39AL">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=G3VYDQYD">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=II9RDAME">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SH3N39AL">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=G3VYDQYD">Januar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=RU9ZUC2M">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VFJAT8YW">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SSN4QLEC">Institutt for jordbruksfag</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=RU9ZUC2M">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VFJAT8YW">Januar</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=J4BIHT5W">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=5FCV2YYC">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=T77LXH6D">Fakultet for anvendt økologi, landbruksfag og bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VL6KDQ85">Institutt for bioteknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=J4BIHT5W">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=5FCV2YYC">Januar</a></li>
     </ul>
   </article>
 </div>

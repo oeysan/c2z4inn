@@ -26,21 +26,11 @@ encoding: UTF-8
   <article id="taxonomy-article-73MPRNRR" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=B792VYXJ">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GQL83TUP">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RZJS4YTX">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=B792VYXJ">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GQL83TUP">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RZJS4YTX">October</a></li>
     </ul>
   </article>
 </div>

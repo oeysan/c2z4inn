@@ -38,19 +38,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_nn.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -58,21 +58,11 @@ encoding: UTF-8
   <article id="taxonomy-article-JZB7B2NZ" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9ESJ3S3Z">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ESAQ22H7">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=X7FARZ4F">April</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9ESJ3S3Z">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ESAQ22H7">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=X7FARZ4F">April</a></li>
     </ul>
   </article>
 </div>

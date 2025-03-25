@@ -24,21 +24,11 @@ encoding: UTF-8
   <article id="taxonomy-article-AS8R3LBE" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=83ZSF7H3">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Z5VHRKHM">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=83ZSF7H3">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Z5VHRKHM">September</a></li>
     </ul>
   </article>
 </div>

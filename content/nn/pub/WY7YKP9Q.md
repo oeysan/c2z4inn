@@ -43,13 +43,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg6" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg06_nn.png" class="image" alt="SDG 6">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=6#archive" class="sdg-publication-count"><span>19</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/rent-vann-og-gode-sanitaerforhold?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_nn.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-i-havet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -57,21 +57,11 @@ encoding: UTF-8
   <article id="taxonomy-article-WY7YKP9Q" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LLI7ED9F">2022</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GYHR7DI8">Februar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LLI7ED9F">2022</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GYHR7DI8">Februar</a></li>
     </ul>
   </article>
 </div>

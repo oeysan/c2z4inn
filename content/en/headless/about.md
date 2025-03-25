@@ -14,7 +14,7 @@ University of Inland Norway (registered in Cristin since the institution was
 established on January 1, 2017). 
 It is updated monthly.
 
-The archive was last updated **03-25-2025 (at 14:20)** and contains **5493** publications.
+The archive was last updated **03-25-2025 (at 16:22)** and contains **5493** publications.
 
 Use [the archive](#archive) to find publications for faculties and departments 
 at the university for a specific year or month. You can also use the search 

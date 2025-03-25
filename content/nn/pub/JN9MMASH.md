@@ -25,21 +25,11 @@ encoding: UTF-8
   <article id="taxonomy-article-JN9MMASH" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KTD9NXA8">Institutt for psykologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=E9KSSDJQ">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=NGAXK4N5">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KTD9NXA8">Institutt for psykologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=E9KSSDJQ">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=NGAXK4N5">September</a></li>
     </ul>
   </article>
 </div>

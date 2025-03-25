@@ -37,38 +37,18 @@ encoding: UTF-8
   <article id="taxonomy-article-HQESGNFQ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FE6DCPZB">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T49DQDQJ">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FE6DCPZB">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T49DQDQJ">August</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GP9PM6PG">Expert group in film and television science</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=UKII4FET">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FR66DBMF">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GP9PM6PG">Expert group in film and television science</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=UKII4FET">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FR66DBMF">August</a></li>
     </ul>
   </article>
 </div>

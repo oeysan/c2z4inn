@@ -30,38 +30,18 @@ encoding: UTF-8
   <article id="taxonomy-article-WURMDH8H" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VD6VZ36D">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=99UUJVSX">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CLJWBD5G">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VD6VZ36D">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=99UUJVSX">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CLJWBD5G">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9ESJ3S3Z">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3VIEY7UF">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ESCB3S9T">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9ESJ3S3Z">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3VIEY7UF">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ESCB3S9T">February</a></li>
     </ul>
   </article>
 </div>

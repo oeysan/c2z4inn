@@ -308,7 +308,7 @@
     },
     "c2z4uni": {
       "Package": "c2z4uni",
-      "Version": "0.2.0.9020",
+      "Version": "0.2.0.9022",
       "Source": "GitHub",
       "Type": "Package",
       "Title": "A Reference Manager for (Norwegian) Universities",
@@ -358,7 +358,7 @@
       "RemoteUsername": "oeysan",
       "RemoteRepo": "c2z4uni",
       "RemoteRef": "main",
-      "RemoteSha": "97609dae56c1a70a40b1cca658db28356f99cfe8"
+      "RemoteSha": "ee8d2a757829ac3574ae089113f16d3595febf14"
     },
     "cachem": {
       "Package": "cachem",

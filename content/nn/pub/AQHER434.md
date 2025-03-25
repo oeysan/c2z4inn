@@ -31,35 +31,17 @@ encoding: UTF-8
   <article id="taxonomy-article-AQHER434" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=II9RDAME">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9GGDUWPT">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=S3HWIM5K">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=II9RDAME">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9GGDUWPT">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=S3HWIM5K">Desember</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KTD9NXA8">Institutt for psykologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=37B43Z6Y">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GIRAIZ6M">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KTD9NXA8">Institutt for psykologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=37B43Z6Y">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GIRAIZ6M">Desember</a></li>
     </ul>
   </article>
 </div>

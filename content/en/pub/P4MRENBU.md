@@ -40,7 +40,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -48,21 +48,11 @@ encoding: UTF-8
   <article id="taxonomy-article-P4MRENBU" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LLA4BC9U">Department of Mathematics, Natural Sciences, and Physical Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TEIZSJNQ">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XPR4SY8U">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LLA4BC9U">Department of Mathematics, Natural Sciences, and Physical Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TEIZSJNQ">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XPR4SY8U">October</a></li>
     </ul>
   </article>
 </div>

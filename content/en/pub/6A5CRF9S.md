@@ -32,21 +32,11 @@ encoding: UTF-8
   <article id="taxonomy-article-6A5CRF9S" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5U9DWLC7">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=N9ZBACZY">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5U9DWLC7">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=N9ZBACZY">October</a></li>
     </ul>
   </article>
 </div>

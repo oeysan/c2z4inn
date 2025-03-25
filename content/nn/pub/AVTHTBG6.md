@@ -40,21 +40,11 @@ encoding: UTF-8
   <article id="taxonomy-article-AVTHTBG6" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7YIRMLZH">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6RZN2H8X">Juli</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=BG42VG37">Institutt for Spillutdanninger – Spillskolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7YIRMLZH">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6RZN2H8X">Juli</a></li>
     </ul>
   </article>
 </div>

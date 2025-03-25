@@ -43,25 +43,25 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg6" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg06_en.png" class="image" alt="SDG 6">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=6#archive" class="sdg-publication-count"><span>19</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=6#archive" class="sdg-publication-count"><span>19</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal6" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=12#archive" class="sdg-publication-count"><span>108</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -69,38 +69,18 @@ encoding: UTF-8
   <article id="taxonomy-article-M6CYKVCE" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BG42VG37">Department of Game Development - The Game School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=G97E9PA5">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=TC4Z7I9S">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BG42VG37">Department of Game Development - The Game School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=G97E9PA5">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=TC4Z7I9S">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=83ZSF7H3">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8V5WE55I">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=83ZSF7H3">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8V5WE55I">February</a></li>
     </ul>
   </article>
 </div>

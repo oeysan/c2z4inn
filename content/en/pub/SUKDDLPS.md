@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-SUKDDLPS" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6ZJPMG9D">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XWGN6MDY">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6ZJPMG9D">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XWGN6MDY">March</a></li>
     </ul>
   </article>
 </div>

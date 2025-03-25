@@ -40,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -54,21 +54,11 @@ encoding: UTF-8
   <article id="taxonomy-article-WQWBRMCW" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=5HKEZMYN">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=NBP5CHP9">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=IDKFS3MX">Fakultet for helse- og sosialvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FJXE3Z8X">Institutt for folkehelse- og idrettsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=5HKEZMYN">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=NBP5CHP9">Oktober</a></li>
     </ul>
   </article>
 </div>

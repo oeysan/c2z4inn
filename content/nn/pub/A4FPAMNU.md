@@ -58,7 +58,7 @@ the uneasy relationship between individual and society
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -66,21 +66,11 @@ the uneasy relationship between individual and society
   <article id="taxonomy-article-A4FPAMNU" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=X2Y974UN">2018</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=FMB8YQ4N">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=L8MA547R">Institutt for pedagogikk – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=X2Y974UN">2018</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=FMB8YQ4N">September</a></li>
     </ul>
   </article>
 </div>

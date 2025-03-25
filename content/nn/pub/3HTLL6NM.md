@@ -34,21 +34,11 @@ encoding: UTF-8
   <article id="taxonomy-article-3HTLL6NM" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=M7QWYS8Z">2023</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=TISULY93">Januar</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=M7QWYS8Z">2023</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=TISULY93">Januar</a></li>
     </ul>
   </article>
 </div>

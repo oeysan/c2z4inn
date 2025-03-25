@@ -47,13 +47,13 @@ Boka henvender seg til lærere, studenter og forskere, bibliotekarer og andre so
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -61,21 +61,11 @@ Boka henvender seg til lærere, studenter og forskere, bibliotekarer og andre so
   <article id="taxonomy-article-DJXUCIUF" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T9U6ILTU">Department of Scandinavian Languages and Literature</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=AS5QFSER">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5R9YFKEZ">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T9U6ILTU">Department of Scandinavian Languages and Literature</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=AS5QFSER">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5R9YFKEZ">January</a></li>
     </ul>
   </article>
 </div>

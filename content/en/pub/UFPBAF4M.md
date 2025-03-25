@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-UFPBAF4M" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=JFQQYXSH">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BNL8BJI9">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VBB2T4VJ">Department of Art and Cultural Studies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=JFQQYXSH">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BNL8BJI9">January</a></li>
     </ul>
   </article>
 </div>

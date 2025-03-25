@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-2KRZCYHF" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ITYAG68H">Institutt for rettsvitenskap, filosofi og internasjonale studier</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=XDLKZVSJ">2017</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=SG3A2UP5">Mars</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ITYAG68H">Institutt for rettsvitenskap, filosofi og internasjonale studier</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=XDLKZVSJ">2017</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=SG3A2UP5">Mars</a></li>
     </ul>
   </article>
 </div>

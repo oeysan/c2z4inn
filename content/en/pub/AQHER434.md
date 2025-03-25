@@ -31,35 +31,17 @@ encoding: UTF-8
   <article id="taxonomy-article-AQHER434" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=II9RDAME">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9GGDUWPT">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=S3HWIM5K">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=II9RDAME">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9GGDUWPT">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=S3HWIM5K">December</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KTD9NXA8">Department of Psychology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=37B43Z6Y">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GIRAIZ6M">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KTD9NXA8">Department of Psychology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=37B43Z6Y">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GIRAIZ6M">December</a></li>
     </ul>
   </article>
 </div>

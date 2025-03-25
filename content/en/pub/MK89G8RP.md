@@ -23,21 +23,11 @@ encoding: UTF-8
   <article id="taxonomy-article-MK89G8RP" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T9U6ILTU">Department of Scandinavian Languages and Literature</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8BZA2YRV">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=NG3SMAXR">October</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T9U6ILTU">Department of Scandinavian Languages and Literature</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8BZA2YRV">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=NG3SMAXR">October</a></li>
     </ul>
   </article>
 </div>

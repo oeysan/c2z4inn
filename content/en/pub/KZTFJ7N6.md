@@ -45,7 +45,7 @@ The overall goal is to shed light on how metaphorical production changes as pupi
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -53,21 +53,11 @@ The overall goal is to shed light on how metaphorical production changes as pupi
   <article id="taxonomy-article-KZTFJ7N6" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=THSB4HN9">Department of English</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Z4WFKMZ4">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=55GLASCH">January</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=THSB4HN9">Department of English</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Z4WFKMZ4">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=55GLASCH">January</a></li>
     </ul>
   </article>
 </div>

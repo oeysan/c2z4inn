@@ -53,7 +53,7 @@ We raise potential issues of concern and important considerations for the future
     <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -61,21 +61,11 @@ We raise potential issues of concern and important considerations for the future
   <article id="taxonomy-article-FSYNXQTS" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=P2L6JC54">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GIUHPUM4">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=P2L6JC54">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GIUHPUM4">August</a></li>
     </ul>
   </article>
 </div>

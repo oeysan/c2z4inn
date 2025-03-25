@@ -43,13 +43,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg6" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg06_en.png" class="image" alt="SDG 6">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=6#archive" class="sdg-publication-count"><span>19</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=6#archive" class="sdg-publication-count"><span>19</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal6" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -57,21 +57,11 @@ encoding: UTF-8
   <article id="taxonomy-article-72WUXP6S" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8WZUMF5F">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9XEZGZ2V">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=XY7UYWKQ">Department of Social Sciences, Religion and Ethics</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8WZUMF5F">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9XEZGZ2V">December</a></li>
     </ul>
   </article>
 </div>

@@ -40,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=7#archive" class="sdg-publication-count"><span>77</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -54,21 +54,11 @@ encoding: UTF-8
   <article id="taxonomy-article-ZMG8DD8D" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ITYAG68H">Department of Law, Philosophy and International studies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=KVIAK4ZQ">2024</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5D7RTJ7Q">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ITYAG68H">Department of Law, Philosophy and International studies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=KVIAK4ZQ">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5D7RTJ7Q">November</a></li>
     </ul>
   </article>
 </div>

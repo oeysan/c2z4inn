@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-HZGMD63W" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=AJM9DTRJ">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=9SF2TTRP">March</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=AJM9DTRJ">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=9SF2TTRP">March</a></li>
     </ul>
   </article>
 </div>

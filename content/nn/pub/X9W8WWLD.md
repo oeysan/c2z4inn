@@ -44,7 +44,7 @@ childcare is (descriptive norm) and should be (prescriptive norm) equally divide
     <div class="sdg-container"><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -52,21 +52,11 @@ childcare is (descriptive norm) and should be (prescriptive norm) equally divide
   <article id="taxonomy-article-X9W8WWLD" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=KTD9NXA8">Institutt for psykologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LS3MUAPD">2024</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=LDN7YQ2S">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=KTD9NXA8">Institutt for psykologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LS3MUAPD">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=LDN7YQ2S">November</a></li>
     </ul>
   </article>
 </div>

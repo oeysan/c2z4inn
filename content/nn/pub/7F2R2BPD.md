@@ -38,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_nn.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="/nn/archive/?key=?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -46,21 +46,11 @@ encoding: UTF-8
   <article id="taxonomy-article-7F2R2BPD" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=7C5UHWZA">2021</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=GU3ZCFHN">Juni</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=7C5UHWZA">2021</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=GU3ZCFHN">Juni</a></li>
     </ul>
   </article>
 </div>

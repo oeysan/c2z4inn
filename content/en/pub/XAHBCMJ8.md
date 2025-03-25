@@ -42,7 +42,7 @@ Forfatterne av denne boka tar utgangspunkt i at arbeidet med å gjøre undervisn
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -50,35 +50,17 @@ Forfatterne av denne boka tar utgangspunkt i at arbeidet med å gjøre undervisn
   <article id="taxonomy-article-XAHBCMJ8" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Z2K3X9AT">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LEKKY5S9">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Z2K3X9AT">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LEKKY5S9">May</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QP7PBTSZ">Administration</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=D7RQQI73">2020</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=H5K7K5BH">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QP7PBTSZ">Administration</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=D7RQQI73">2020</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=H5K7K5BH">May</a></li>
     </ul>
   </article>
 </div>

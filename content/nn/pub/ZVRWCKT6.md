@@ -34,21 +34,11 @@ encoding: UTF-8
   <article id="taxonomy-article-ZVRWCKT6" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=N3YI5B9V">2019</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ZPCMI88S">Oktober</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=WYNZA47F">Fakultet for lærerutdanning og pedagogikk</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=VBB2T4VJ">Institutt for kunstfag og kulturstudier</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=N3YI5B9V">2019</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ZPCMI88S">Oktober</a></li>
     </ul>
   </article>
 </div>

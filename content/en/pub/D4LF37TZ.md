@@ -42,13 +42,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -56,38 +56,18 @@ encoding: UTF-8
   <article id="taxonomy-article-D4LF37TZ" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=2ZAN5K7T">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IKH28CUV">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=K4V2WA9B">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=2ZAN5K7T">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IKH28CUV">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=K4V2WA9B">August</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=F8UKZ6L4">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Q527V2XJ">August</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BKPR6TE7">Department of Educational Studies in Teacher Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=F8UKZ6L4">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Q527V2XJ">August</a></li>
     </ul>
   </article>
 </div>

@@ -58,19 +58,19 @@ genetic structure
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=14#archive" class="sdg-publication-count"><span>50</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -78,38 +78,18 @@ genetic structure
   <article id="taxonomy-article-XFVM5ZI8" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VL6KDQ85">Department of Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJH75VJD">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BXJ4X3YX">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VL6KDQ85">Department of Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJH75VJD">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BXJ4X3YX">September</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5LT6Q2XL">2021</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=J5FXM384">September</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=T77LXH6D">Faculty of Applied Ecology, Agricultural Sciences and Biotechnology</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7TRARPE3">Department of Forestry and Wildlife Management</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5LT6Q2XL">2021</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=J5FXM384">September</a></li>
     </ul>
   </article>
 </div>

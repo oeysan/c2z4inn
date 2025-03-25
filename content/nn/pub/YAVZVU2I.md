@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-YAVZVU2I" class="taxonomy-article">
     <h1>Arkiv</h1>
     <ul>
-      <li>
-        <a href="/nn/archive/?key=3DCRN523">Universitetet i Innlandet</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=9ESJ3S3Z">Affiliert</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=ESAQ22H7">2020</a>
-      </li>
-      <li>
-        <a href="/nn/archive/?key=HQSGGFAM">Desember</a>
-      </li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=DU8Q9LN9">Handelshøgskolen Innlandet - Fakultet for økonomi og samfunnsvitenskap</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=9ESJ3S3Z">Affiliert</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=ESAQ22H7">2020</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HQSGGFAM">Desember</a></li>
     </ul>
   </article>
 </div>

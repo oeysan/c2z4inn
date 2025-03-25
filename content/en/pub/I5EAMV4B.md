@@ -30,55 +30,25 @@ oppfølging av personer med psykoselidelser
   <article id="taxonomy-article-I5EAMV4B" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VD6VZ36D">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=PH3896JG">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3R4LUB6Q">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VD6VZ36D">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=PH3896JG">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3R4LUB6Q">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=QV2QKSDS">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=5A9AKSDK">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GTV4ECMZ">Department of Health and Nursing Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=QV2QKSDS">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=5A9AKSDK">February</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=Y3QE4BPW">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BF34NF4K">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FJXE3Z8X">Department of Public Health and Sport Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=Y3QE4BPW">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BF34NF4K">February</a></li>
     </ul>
   </article>
 </div>

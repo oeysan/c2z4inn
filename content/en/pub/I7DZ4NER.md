@@ -25,21 +25,11 @@ encoding: UTF-8
   <article id="taxonomy-article-I7DZ4NER" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GP9PM6PG">Expert group in film and television science</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WKVLRWS5">2018</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=56MWXME4">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GP9PM6PG">Expert group in film and television science</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WKVLRWS5">2018</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=56MWXME4">June</a></li>
     </ul>
   </article>
 </div>

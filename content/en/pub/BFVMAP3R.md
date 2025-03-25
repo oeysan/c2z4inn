@@ -68,7 +68,7 @@ BPAs særpreg.
     <div class="sdg-container"><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -76,38 +76,18 @@ BPAs særpreg.
   <article id="taxonomy-article-BFVMAP3R" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=VD6VZ36D">Affiliated</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=PH3896JG">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=LJTQPG8G">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=VD6VZ36D">Affiliated</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=PH3896JG">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=LJTQPG8G">May</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=7JQ4YUQB">2017</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=75HUSARY">May</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=7JQ4YUQB">2017</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=75HUSARY">May</a></li>
     </ul>
   </article>
 </div>

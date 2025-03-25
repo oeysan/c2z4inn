@@ -31,21 +31,11 @@ encoding: UTF-8
   <article id="taxonomy-article-BFAVTHMC" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=K2W6R8TG">2025</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=SCHAJAI9">February</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=IDKFS3MX">Faculty of Social and Health Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CU4VFGCV">Department of Social Work and Guidance</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=K2W6R8TG">2025</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=SCHAJAI9">February</a></li>
     </ul>
   </article>
 </div>

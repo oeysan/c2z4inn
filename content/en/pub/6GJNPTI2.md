@@ -48,31 +48,31 @@ students describe their overall view of the course and the method.
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_en.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=10#archive" class="sdg-publication-count"><span>404</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal10" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -80,38 +80,18 @@ students describe their overall view of the course and the method.
   <article id="taxonomy-article-6GJNPTI2" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=BG42VG37">Department of Game Development - The Game School</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=RDJM7INQ">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=FXGS4W8B">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=BG42VG37">Department of Game Development - The Game School</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=RDJM7INQ">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=FXGS4W8B">November</a></li>
     </ul>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=M7QWYS8Z">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=CFLY4QGA">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=M7QWYS8Z">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=CFLY4QGA">November</a></li>
     </ul>
   </article>
 </div>

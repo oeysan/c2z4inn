@@ -28,21 +28,11 @@ encoding: UTF-8
   <article id="taxonomy-article-M7DJVUHE" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=WYNZA47F">Faculty of Education</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=X7DWC6UD">2023</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=L4PTMCBV">December</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=WYNZA47F">Faculty of Education</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L8MA547R">Department of Pedagogy – Lillehammer</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=X7DWC6UD">2023</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=L4PTMCBV">December</a></li>
     </ul>
   </article>
 </div>

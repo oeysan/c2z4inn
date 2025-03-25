@@ -25,21 +25,11 @@ encoding: UTF-8
   <article id="taxonomy-article-NBUX2X48" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=ITYAG68H">Department of Law, Philosophy and International studies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=R9ZTQLVS">2019</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=MT6ZATBP">June</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=DU8Q9LN9">Inland School of Business and Social Sciences</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=ITYAG68H">Department of Law, Philosophy and International studies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=R9ZTQLVS">2019</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=MT6ZATBP">June</a></li>
     </ul>
   </article>
 </div>

@@ -42,7 +42,7 @@ Denne reviderte utgaven har en ny del om mening og meningsdannelse, med et nyskr
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="/en/archive/?key=?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -50,21 +50,11 @@ Denne reviderte utgaven har en ny del om mening og meningsdannelse, med et nyskr
   <article id="taxonomy-article-MZ4XJNCB" class="taxonomy-article">
     <h1>Archive</h1>
     <ul>
-      <li>
-        <a href="/en/archive/?key=3DCRN523">University of Inland Norway</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=GP9PM6PG">Expert group in film and television science</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=A4X5SRD6">2022</a>
-      </li>
-      <li>
-        <a href="/en/archive/?key=3LP29NYC">November</a>
-      </li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=GP9PM6PG">Expert group in film and television science</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=A4X5SRD6">2022</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3LP29NYC">November</a></li>
     </ul>
   </article>
 </div>
