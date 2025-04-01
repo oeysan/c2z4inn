@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=FJXE3Z8X">Go to archive</a>
 <h1>Overview for Department of Public Health and Sport Sciences</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">551</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">664</span></p>
+<p>Publications: <span class="stats-n">560</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">671</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -32,14 +32,14 @@ encoding: UTF-8
                 "label": "publications",
                 "data": [
                     2,
-                    387,
+                    393,
                     130,
                     26,
                     1,
                     10,
                     4,
                     45,
-                    24,
+                    25,
                     2,
                     1,
                     27,
@@ -120,7 +120,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>387</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>393</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
@@ -150,7 +150,7 @@ encoding: UTF-8
       </div><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>24</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>25</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg8" class="sdg">

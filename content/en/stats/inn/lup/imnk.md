@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=LLA4BC9U">Go to archive</a>
 <h1>Overview for Department of Mathematics, Natural Sciences, and Physical Education</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">77</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">86</span></p>
+<p>Publications: <span class="stats-n">79</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">87</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -29,7 +29,7 @@ encoding: UTF-8
                 "data": [
                     1,
                     17,
-                    56,
+                    57,
                     1,
                     4,
                     2,
@@ -108,7 +108,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=LLA4BC9U#archive" class="sdg-publication-count"><span>56</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=LLA4BC9U#archive" class="sdg-publication-count"><span>57</span> publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg3" class="sdg">

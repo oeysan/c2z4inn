@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=T9U6ILTU">Gå til arkivet</a>
 <h1>Oversikt for Institutt for nordisk språk og litteratur</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">282</span></p>
+<p>Publikasjonar: <span class="stats-n">288</span></p>
 <p>Berekraftsmål: <span class="stats-n">250</span></p>
 </div>
 <div class="stats-graphs">

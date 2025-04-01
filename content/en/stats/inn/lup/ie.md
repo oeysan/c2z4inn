@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=THSB4HN9">Go to archive</a>
 <h1>Overview for Department of English</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">71</span></p>
+<p>Publications: <span class="stats-n">72</span></p>
 <p>Sustainable Development Goals: <span class="stats-n">67</span></p>
 </div>
 <div class="stats-graphs">

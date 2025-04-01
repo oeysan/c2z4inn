@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=CU4VFGCV">Gå til arkivet</a>
 <h1>Oversikt for Institutt for sosialvitenskap og veiledning</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">291</span></p>
+<p>Publikasjonar: <span class="stats-n">294</span></p>
 <p>Berekraftsmål: <span class="stats-n">354</span></p>
 </div>
 <div class="stats-graphs">

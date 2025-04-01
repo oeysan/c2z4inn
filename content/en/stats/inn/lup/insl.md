@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=T9U6ILTU">Go to archive</a>
 <h1>Overview for Department of Scandinavian Languages and Literature</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">282</span></p>
+<p>Publications: <span class="stats-n">288</span></p>
 <p>Sustainable Development Goals: <span class="stats-n">250</span></p>
 </div>
 <div class="stats-graphs">

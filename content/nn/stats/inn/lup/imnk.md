@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=LLA4BC9U">Gå til arkivet</a>
 <h1>Oversikt for Institutt for matematikk, naturfag og kroppsøving</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">77</span></p>
-<p>Berekraftsmål: <span class="stats-n">86</span></p>
+<p>Publikasjonar: <span class="stats-n">79</span></p>
+<p>Berekraftsmål: <span class="stats-n">87</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -29,7 +29,7 @@ encoding: UTF-8
                 "data": [
                     1,
                     17,
-                    56,
+                    57,
                     1,
                     4,
                     2,
@@ -108,7 +108,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=LLA4BC9U#archive" class="sdg-publication-count"><span>56</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=LLA4BC9U#archive" class="sdg-publication-count"><span>57</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg3" class="sdg">

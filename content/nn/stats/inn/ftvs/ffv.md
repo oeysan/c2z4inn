@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=GP9PM6PG">Gå til arkivet</a>
 <h1>Oversikt for Faggruppe for Film og fjernsynsvitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">50</span></p>
-<p>Berekraftsmål: <span class="stats-n">19</span></p>
+<p>Publikasjonar: <span class="stats-n">47</span></p>
+<p>Berekraftsmål: <span class="stats-n">16</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -27,11 +27,11 @@ encoding: UTF-8
                 "data": [
                     3,
                     1,
-                    2,
-                    6,
+                    1,
+                    5,
                     1,
                     3,
-                    3
+                    2
                 ],
                 "backgroundColor": [
                     "rgba(197, 25, 45, 1)",
@@ -102,7 +102,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_nn.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=9&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>6</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=9&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>5</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
@@ -120,20 +120,20 @@ encoding: UTF-8
       </div><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>3</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>2</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
-        </div>
-      </div><div id="sdg8" class="sdg">
-        <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
-        <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>2</span> publikasjonar</a>
-          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
           <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>1</span> publikasjon</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div><div id="sdg8" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8&collection=GP9PM6PG#archive" class="sdg-publication-count"><span>1</span> publikasjon</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">

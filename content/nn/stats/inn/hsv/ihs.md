@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=GTV4ECMZ">Gå til arkivet</a>
 <h1>Oversikt for Institutt for helse- og sykepleievitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">590</span></p>
-<p>Berekraftsmål: <span class="stats-n">761</span></p>
+<p>Publikasjonar: <span class="stats-n">599</span></p>
+<p>Berekraftsmål: <span class="stats-n">772</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -33,8 +33,8 @@ encoding: UTF-8
                 "label": "publikasjonar",
                 "data": [
                     3,
-                    504,
-                    94,
+                    511,
+                    97,
                     28,
                     5,
                     30,
@@ -44,7 +44,7 @@ encoding: UTF-8
                     1,
                     2,
                     1,
-                    44,
+                    45,
                     4
                 ],
                 "backgroundColor": [
@@ -123,19 +123,19 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>504</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>511</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>94</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>97</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>44</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>45</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">

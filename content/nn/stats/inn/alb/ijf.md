@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=SSN4QLEC">Gå til arkivet</a>
 <h1>Oversikt for Institutt for jordbruksfag</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">132</span></p>
-<p>Berekraftsmål: <span class="stats-n">162</span></p>
+<p>Publikasjonar: <span class="stats-n">134</span></p>
+<p>Berekraftsmål: <span class="stats-n">163</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -27,7 +27,7 @@ encoding: UTF-8
             {
                 "label": "publikasjonar",
                 "data": [
-                    68,
+                    69,
                     2,
                     4,
                     1,
@@ -108,7 +108,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2&collection=SSN4QLEC#archive" class="sdg-publication-count"><span>68</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2&collection=SSN4QLEC#archive" class="sdg-publication-count"><span>69</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg15" class="sdg">

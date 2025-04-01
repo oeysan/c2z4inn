@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=FJXE3Z8X">Gå til arkivet</a>
 <h1>Oversikt for Institutt for folkehelse- og idrettsvitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">551</span></p>
-<p>Berekraftsmål: <span class="stats-n">664</span></p>
+<p>Publikasjonar: <span class="stats-n">560</span></p>
+<p>Berekraftsmål: <span class="stats-n">671</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -32,14 +32,14 @@ encoding: UTF-8
                 "label": "publikasjonar",
                 "data": [
                     2,
-                    387,
+                    393,
                     130,
                     26,
                     1,
                     10,
                     4,
                     45,
-                    24,
+                    25,
                     2,
                     1,
                     27,
@@ -120,7 +120,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>387</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>393</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
@@ -150,7 +150,7 @@ encoding: UTF-8
       </div><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=11&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>24</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>25</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg8" class="sdg">

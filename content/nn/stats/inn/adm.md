@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=QP7PBTSZ">Gå til arkivet</a>
 <h1>Oversikt for Administrasjonen</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">77</span></p>
+<p>Publikasjonar: <span class="stats-n">78</span></p>
 <p>Berekraftsmål: <span class="stats-n">73</span></p>
 </div>
 <div class="stats-graphs">
@@ -35,7 +35,7 @@ encoding: UTF-8
                     1.2,
                     1.1667,
                     3,
-                    3
+                    2
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     1.2,
                     0.8333,
                     3.4286,
-                    1
+                    0.5
                 ],
                 "borderRadius": 0
             }
