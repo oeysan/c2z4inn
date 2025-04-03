@@ -25,11 +25,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-8IZMMUQS" class="csl-bib-meta">
   <article id="about-article-8IZMMUQS" class="about_pub-article">
     <h1>Om</h1>
-    Coulson et al. gjennomførte ein studie for å oppdatere og revidere lista over virvellause artar funne på Svalbard, eit område i høgarktis. Dei identifiserte 1,091 artar og gav ei omfattande oversikt som er ein viktig ressurs for forskarar som studerer arktiske økosystem. Denne oppdaterte lista er viktig fordi ho hjelper til med å spore endringar i biodiversitet over tid, noko som kan indikere miljøskifte. Forfattarane merka også at halvparten av desse artane manglar genetisk strekkodedata, som er essensielt for nøyaktig identifikasjon og overvaking. Ved å adressere desse gapene kan forskarar betre forstå dei økologiske dynamikkane på Svalbard, bidra til bevaringsarbeid og auke kunnskapen om arktiske miljø. Inventaret er tilgjengeleg i ein open tilgang-database for vidare vitskapleg bruk.
+    Coulson et al. gjennomførte ein studie for å oppdatere og revidere lista over virvellause dyreartar funne på Svalbard, eit område i det høge Arktis. Dei identifiserte 1,091 artar og gav ei omfattande inventarliste som fungerer som ein verdifull ressurs for forskarar som studerer arktiske økosystem. Denne oppdaterte lista er avgjerande for å overvake endringar i biodiversitet over tid, noko som kan hjelpe med å forstå verknadene av klimaendringar. Forfattarane merka også at halvparten av desse artane manglar genetisk strekkodedata, som er viktig for nøyaktig identifikasjon og sporing. Ved å ta tak i desse gapene kan forskarar forbetre forståinga av arktisk biodiversitet. Studiet framhevar Svalbard sitt unike miljø som ein fordelaktig stad for vitskapleg forsking på terrestriske og ferskvassøkosystem.
   </article>
   <article id="keywords-article-8IZMMUQS" class="keywords-article">
     <h1>Emneord</h1>
-    Terrestrisk virvellause biodiversitet, Ferskvassvirvellause biodiversitet, Artsinventar, Svalbard, Arktisk fauna, Barcode of Life Data Systems
+    Biodiversitet av arktiske virvellause dyr, Artsinventar, Fauna på Svalbard, Taksonomisk kunnskap, Barcode of Life Data Systems
   </article>
   <article id="abstract-article-8IZMMUQS" class="abstract-article">
     <h1>Samandrag</h1>
@@ -41,10 +41,16 @@ encoding: UTF-8
   </article>
   <article id="sdg-article-8IZMMUQS" class="sdg-article">
     <h1>Berekraftsmål</h1>
-    <div class="sdg-container"><div id="sdg15" class="sdg">
+    <div class="sdg-container"><div id="sdg13" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

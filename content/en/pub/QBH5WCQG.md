@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-QBH5WCQG" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-QBH5WCQG" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-QBH5WCQG" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/SGPE-12-2021-0083/full/pdf?title=transnational-cooperation-in-enhancing-researchers-wider-employability-the-transpeer-project" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/SGPE-12-2021-0083/full/pdf?title=transnational-cooperation-in-enhancing-researchers-wider-employability-the-transpeer-project" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QBH5WCQG"></div>
 </article>
@@ -41,19 +43,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>112</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17#archive" class="sdg-publication-count"><span>115</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#keywords-article-JZB7B2NZ" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-JZB7B2NZ" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-JZB7B2NZ" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://journals.openedition.org/monderusse/pdf/10131" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://journals.openedition.org/monderusse/pdf/10131" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JZB7B2NZ"></div>
 </article>
@@ -38,13 +36,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">

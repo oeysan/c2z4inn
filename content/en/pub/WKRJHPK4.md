@@ -6,7 +6,7 @@ encoding: UTF-8
 ---
 <h1>Publication</h1>
 <article id="csl-bib-container-WKRJHPK4" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Amro, L., &#38; Iversen, J. Y. (2025). Translanguaging in transnational digital Arabic heritage language education. <i>European Educational Research Journal</i>, <i>2025, 1, 15</i>. <a href="https://doi.org/10.1177/14749041241311958">https://doi.org/10.1177/14749041241311958</a></div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Amro, L., &#38; Iversen, J. Y. (2025). Translanguaging in transnational digital Arabic heritage language education. <i>European Educational Research Journal</i>, <i>2025, 1, 15</i>, 1. <a href="https://doi.org/10.1177/14749041241311958">https://doi.org/10.1177/14749041241311958</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WKRJHPK4" alt="archive" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2337696" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -23,7 +23,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-WKRJHPK4" class="csl-bib-meta">
   <article id="about-article-WKRJHPK4" class="about_pub-article">
     <h1>About</h1>
-    Amro and Iversen conducted a study to understand how Arabic heritage language education is evolving in digital settings due to globalization and migration. They observed online classes for seven months, interviewed a teacher and five students, and analyzed documents. They found that the teacher used translanguaging, which means blending different languages, to help students feel comfortable and improve their literacy in Modern Standard Arabic. This approach challenged traditional language hierarchies and made learning more inclusive. The study highlights the importance of digital classrooms in shaping how languages are taught and learned, showing that online education can effectively support heritage language maintenance and development.
+    Amro and Iversen conducted a study to understand how Arabic heritage language teachers use translanguaging (mixing languages) in online classes. With more Arabic speakers in Europe due to migration, maintaining the language is important, and digital education is becoming popular. Over seven months, they observed online classes, interviewed one teacher and five students, and collected documents. They found that the teacher used students' ability to switch between languages to create a supportive environment, challenge language hierarchies, and improve literacy in Modern Standard Arabic. This study highlights how online settings can shape language learning practices, making it easier for students to feel comfortable and learn effectively.
   </article>
   <article id="keywords-article-WKRJHPK4" class="keywords-article">
     <h1>Keywords</h1>
@@ -31,7 +31,7 @@ encoding: UTF-8
   </article>
   <article id="abstract-article-WKRJHPK4" class="abstract-article">
     <h1>Scientific abstract</h1>
-    Due to globalisation and migration, the Arabic-speaking population in Europe has rapidly increased over the past few decades. To maintain the Arabic language, children across Europe attend community-based heritage language education. With the development of new communication technologies, digital Arabic heritage language education is gaining popularity. Although previous research from community-based Arabic heritage language education in physical educational settings indicate that some translanguaging is taking place, little is known about how the digital setting of online Arabic heritage language teaching influences language practices and pedagogies. Hence, this article investigates the following research question: How does a heritage language teacher of Arabic use translanguaging as a pedagogy in digital heritage language education? To answer this question, a digital linguistic ethnography over 7 months was conducted, involving digital classroom observations, interviews with one teacher and five students and the collection of documents. Adopting a translinguistic perspective, the analysis shows how the teacher capitalised on students’ translingual resources to create a safe space, challenging language hierarchies and supporting the development of literacy skills in Modern Standard Arabic. Based on these findings, we discuss how the online teaching setting contributes to shaping the language practices of the digital classroom.
+    Due to globalisation and migration, the Arabic-speaking population in Europe has rapidly increased over the past few decades. To maintain the Arabic language, children across Europe attend community-based heritage language education. With the development of new communication technologies, digital Arabic heritage language education is gaining popularity. Although previous research from community-based Arabic heritage language education in physical educational settings indicate that some translanguaging is taking place, little is known about how the digital setting of online Arabic heritage language teaching influences language practices and pedagogies. Hence, this article investigates the following research question: How does a heritage language teacher of Arabic use translanguaging as a pedagogy in digital heritage language education? To answer this question, a digital linguistic ethnography over 7 months was conducted, involving digital classroom observations, interviews with one teacher and five students and the collection of documents. Adopting a translinguistic perspective, the analysis shows how the teacher capitalised on students’ translingual resources to create a safe space, challenging language hierarchies and supporting the development of literacy skills in Modern Standard Arabic. Based on these findings, we discuss how the online teaching setting contributes to shaping the language practices of the digital classroom.
   </article>
   <article id="contributors-article-WKRJHPK4" class="contributors-article">
     <h1>Contributors</h1>
@@ -42,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

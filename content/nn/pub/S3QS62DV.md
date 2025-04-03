@@ -13,6 +13,8 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1610701" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/S3QS62DV" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-S3QS62DV" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2647418/4/Bruun%20and%20Lmariouh%20Auto-driven%20photo-elicitation%20interview%20%28...%29.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2647418/4/Bruun%20and%20Lmariouh%20Auto-driven%20photo-elicitation%20interview%20%28...%29.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S3QS62DV"></div>
 </article>

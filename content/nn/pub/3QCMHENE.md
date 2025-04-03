@@ -15,15 +15,13 @@ encoding: UTF-8
     <a href="#keywords-article-3QCMHENE" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-3QCMHENE" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-3QCMHENE" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://doi.org/10.23865/ntpk.v11.6440" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.23865/ntpk.v11.6440" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-3QCMHENE"></div>
 </article>
 <div id="csl-bib-meta-3QCMHENE" class="csl-bib-meta">
   <article id="about-article-3QCMHENE" class="about_pub-article">
     <h1>Om</h1>
-    Benediktsson gjennomførte ein studie som undersøkte korleis norske lærarstudentar handterer fleirkulturell utdanning i grunnskulen. Ved å intervjue tolv lærarstudentar, utforska studien korleis dei tilpassar undervisningsmetodane sine for å inkludere elevane sine ulike kulturelle og språklege bakgrunnar. Forskinga fann at sjølv om desse lærarane forstår viktigheita av å omfamne mangfald, strevar dei ofte med å setje ideane sine ut i livet på grunn av manglande støtte og rettleiing. Dette gapet mellom teori og praksis framhevar utfordringar med å ta tak i komplekse spørsmål som makt, ulikskap og sosial rettferd i utdanninga. Studien understrekar behovet for betre ressursar og opplæring for å hjelpe lærarar med å effektivt integrere fleirkulturell utdanning i klasseromma sine, noko som er avgjerande for å fremje inkluderande og rettferdige læringsmiljø.
+    Benediktsson gjennomførte ein studie som analyserte intervju med tolv norske lærarstudentar for å forstå deira erfaringar med fleirkulturell utdanning i grunnskulen. Studien fann at sjølv om desse lærarstudentane erkjenner viktigheita av å inkludere barnas ulike kulturelle og språklege bakgrunnar i undervisninga, har dei ofte vanskar med å setje desse ideane ut i praksis. Denne utfordringa kjem hovudsakleg av mangel på støtte og rettleiing om korleis ein kan handtere komplekse tema som makt, ulikskap og sosial rettferd. Funnene peikar på gapet mellom lærarane sin teoretiske forståing av fleirkulturell utdanning og dei praktiske utfordringane dei møter i klasserommet. Denne forskinga understrekar behovet for betre støttesystem som kan hjelpe lærarar med å effektivt handtere og omfamne kulturelt mangfald i skulen.
   </article>
   <article id="keywords-article-3QCMHENE" class="keywords-article">
     <h1>Emneord</h1>
@@ -38,7 +36,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-4KFAJT8D" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-4KFAJT8D" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-4KFAJT8D" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/3131195/1/G4H-2023-0229-Provan_4P%2b%25281%2529.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/3131195/1/G4H-2023-0229-Provan_4P%2b%25281%2529.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4KFAJT8D"></div>
 </article>
@@ -44,7 +46,7 @@ Conclusion: This case exemplifies the importance of including end-user participa
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

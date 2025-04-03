@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-U36CXFUX" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-U36CXFUX" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-U36CXFUX" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14767430.2022.2095110?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14767430.2022.2095110?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-U36CXFUX"></div>
 </article>

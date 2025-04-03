@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-EUKGZBME" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-EUKGZBME" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-EUKGZBME" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/16184742.2021.1897640?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/16184742.2021.1897640?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-EUKGZBME"></div>
 </article>
@@ -44,7 +46,7 @@ IMPLICATIONS These findings have implications for research and practice. Regardi
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

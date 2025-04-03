@@ -32,13 +32,13 @@ encoding: UTF-8
   </article>
   <article id="abstract-article-KQZHVEUM" class="abstract-article">
     <h1>Scientific abstract</h1>
-    During recent decades, there has been a steady increase in the number of second homes in rural municipalities of Norway. While second-home owners, as part-time residents, significantly contribute economically and socially to their host communities, the development has sparked concerns about the appropriation of natural areas in forests and mountain landscapes, the creation of urbanised enclaves within these areas and the potential challenges to municipal planning capacities and policies due to pressure from landowners, private investors and developers. We highlight three interrelated issues, focusing on opinions and discourses manifest in controversies over second-home development in a popular mountain destination in the southeastern region of Norway. First, we explore to what extent conflicts of interest between various private and public stakeholders arise from irreconcilable ways of engaging with land properties of the landscapes. Second, we analyse the disagreements regarding the allocation of responsibilities between the private and public sectors, which often serve as the foundation for controversies. Third, we examine how these controversies shape stakeholders’ perceptions and expressions of sustainability issues, especially among those with conflicting interests. It is concluded that the development process, increasingly driven by neoliberal public planning and land-use regulations for second- home developments, clashes with the common perceptions of residents and long-time second-home owners, who view the landscape as a collection of indistinct land properties. Landowners, developers and municipalities fail to sufficiently consider this, exacerbating the existing deficiencies in planning and regulatory processes and intensifying the controversies.
-Second-home development
-rural communities
-Municipal planning
-Landscapes
-Property
-Outdoor recreation
+    During recent decades, there has been a steady increase in the number of second homes in rural municipalities of Norway. While second-home owners, as part-time residents, significantly contribute economically and socially to their host communities, the development has sparked concerns about the appropriation of natural areas in forests and mountain landscapes, the creation of urbanised enclaves within these areas and the potential challenges to municipal planning capacities and policies due to pressure from landowners, private investors and developers. We highlight three interrelated issues, focusing on opinions and discourses manifest in controversies over second-home development in a popular mountain destination in the southeastern region of Norway. First, we explore to what extent conflicts of interest between various private and public stakeholders arise from irreconcilable ways of engaging with land properties of the landscapes. Second, we analyse the disagreements regarding the allocation of responsibilities between the private and public sectors, which often serve as the foundation for controversies. Third, we examine how these controversies shape stakeholders’ perceptions and expressions of sustainability issues, especially among those with conflicting interests. It is concluded that the development process, increasingly driven by neoliberal public planning and land-use regulations for second- home developments, clashes with the common perceptions of residents and long-time second-home owners, who view the landscape as a collection of indistinct land properties. Landowners, developers and municipalities fail to sufficiently consider this, exacerbating the existing deficiencies in planning and regulatory processes and intensifying the controversies. 
+Second-home development 
+rural communities 
+Municipal planning 
+Landscapes 
+Property 
+Outdoor recreation 
 Norway
   </article>
   <article id="contributors-article-KQZHVEUM" class="contributors-article">
@@ -50,13 +50,13 @@ Norway
     <div class="sdg-container"><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>233</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

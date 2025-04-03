@@ -14,6 +14,8 @@ encoding: UTF-8
     <a href="#keywords-article-MCKPIEAG" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-MCKPIEAG" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-MCKPIEAG" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://munin.uit.no/bitstream/10037/13129/2/article.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://munin.uit.no/bitstream/10037/13129/2/article.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MCKPIEAG"></div>
 </article>
@@ -35,7 +37,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

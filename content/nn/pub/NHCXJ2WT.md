@@ -20,11 +20,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-NHCXJ2WT" class="csl-bib-meta">
   <article id="about-article-NHCXJ2WT" class="about_pub-article">
     <h1>Om</h1>
-    Puijks bok, "På innsiden: Perspektiver på de norske film-, TV- og spill-bransjene," er ei samling av elleve artiklar som grundig analyserer Noregs film-, TV- og spelindustriar. Delte inn i tre seksjonar, dekker boka produksjonsteknikkar, distribusjonsstrategiar, nye forteljingsformer og økonomiske utfordringar. Boka kombinerer teoretiske rammeverk med reelle studiar for å vise korleis desse industriane tilpassar seg teknologiske endringar og skiftande forbrukaratferd. Ho framhevar den kreative utviklinga og den aukande kulturelle betydninga av desse sektorane både i Noreg og internasjonalt. Dette tverrfaglege verket er ein verdifull ressurs for forskarar, studentar og profesjonelle innan media og kommunikasjon, og tilbyr innsikt i dei økonomiske, politiske, sosiale og miljømessige utfordringane som små og mellomstore bedrifter i den audiovisuelle feltet står overfor.
+    Puijk si bok gir eit detaljert innblikk i Noregs film-, TV- og spelindustri gjennom elleve artiklar. Ho utforskar korleis desse sektorane tilpassar seg teknologiske endringar og skiftande forbrukarvanar. Boka er delt inn i tre seksjonar, med fokus på produksjonsteknikkar, distribusjonsstrategiar, nye forteljingsmetodar og økonomiske utfordringar. Ho kombinerer teoretiske innsikter med reelle studiar for å vise korleis desse industriene utviklar seg og deira aukande kulturelle påverknad både i Noreg og internasjonalt. Boka framhevar rolla til små og mellomstore bedrifter i å drive innovasjon og kreativitet. Ho er eit verdifullt ressurs for forskarar, studentar og medieprofesjonelle som er interesserte i å forstå dynamikken og framtida til norsk audiovisuell medieproduksjon.
   </article>
   <article id="keywords-article-NHCXJ2WT" class="keywords-article">
     <h1>Emneord</h1>
-    Norsk audiovisuell industri, Filmproduksjon, TV-produksjon, Spelindustri, Teknologisk innovasjon, Forbrukaratferd, Kreativ utvikling
+    Norsk audiovisuell industri, Filmproduksjon, TV-produksjon, Spelindustri, Teknologisk innovasjon, Forbrukaråtferd, Kreativ utvikling
   </article>
   <article id="abstract-article-NHCXJ2WT" class="abstract-article">
     <h1>Samandrag</h1>
@@ -41,7 +41,7 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
@@ -54,6 +54,13 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
   </article>
   <article id="taxonomy-article-NHCXJ2WT" class="taxonomy-article">
     <h1>Arkiv</h1>
+    <ul>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HBGTLL6V">November</a></li>
+    </ul>
     <ul>
       <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
       <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>

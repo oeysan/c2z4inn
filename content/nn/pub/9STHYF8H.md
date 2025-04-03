@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/9STHYF8H" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-9STHYF8H" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-9STHYF8H" alt="about_pub" class="csl-bib-button">Om</a>
-    <a href="https://www.mdpi.com/2073-4336/8/3/29/pdf?version=1500042478" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.mdpi.com/2073-4336/8/3/29/pdf?version=1500042478" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9STHYF8H"></div>
 </article>

@@ -13,6 +13,8 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=2187349" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/7PGHV8SL" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-7PGHV8SL" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="https://doi.org/10.1080/01490400.2023.2265366" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1080/01490400.2023.2265366" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7PGHV8SL"></div>
 </article>

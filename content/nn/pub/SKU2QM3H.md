@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#keywords-article-SKU2QM3H" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-SKU2QM3H" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-SKU2QM3H" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://www.jlimnol.it/index.php/jlimnol/article/download/jlimnol.2017.1685/1365" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.jlimnol.it/index.php/jlimnol/article/download/jlimnol.2017.1685/1365" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SKU2QM3H"></div>
 </article>
@@ -38,7 +36,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
@@ -50,7 +48,7 @@ encoding: UTF-8
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

@@ -7,7 +7,7 @@ encoding: UTF-8
 ---
 <h1>Publication</h1>
 <article id="csl-bib-container-SA5QI78A" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Gottenborg, S. A., Hoff, T., Johnsen, S. Å. K., Rydstedt, L. W., &#38; Øvergård, K. I. (2025). A Longitudinal Path-Analysis of the Reciprocal and Cyclical Relationships between Sickness Absence, Job Demands, Job Resources, and Burnout. <i>Frontiers in Psychology</i>.</div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Gottenborg, S. A., Hoff, T., Johnsen, S. Å. K., Rydstedt, L. W., &#38; Øvergård, K. I. (2025). A Longitudinal Path-Analysis of the Reciprocal and Cyclical Relationships between Sickness Absence, Job Demands, Job Resources, and Burnout. <i>Frontiers in Psychology</i>. <a href="https://doi.org/10.3389/fpsyg.2025.1557898">https://doi.org/10.3389/fpsyg.2025.1557898</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SA5QI78A" alt="archive" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2349891" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -22,7 +22,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-SA5QI78A" class="csl-bib-meta">
   <article id="about-article-SA5QI78A" class="about_pub-article">
     <h1>About</h1>
-    Gottenborg et al. conducted a study with 272 employees from various Norwegian organizations to understand how taking time off due to sickness affects job demands, job resources, and burnout over time. They found that when employees are absent due to sickness, they often feel they have fewer job resources (like support and tools to do their job), which can increase feelings of burnout. This burnout can then lead to more sickness absence in the future, creating a cycle. The study highlights the importance of managing job resources to prevent burnout and reduce sickness absence, which can help improve overall workplace health and productivity. This research adds valuable insights into how workplace conditions and employee health are interconnected over time.
+    Gottenborg et al. conducted a study to explore how taking time off work due to sickness affects job demands, resources, and burnout over time. They surveyed 272 employees from various Norwegian organizations at different points to gather data. The study found that when employees are absent due to sickness, they often feel they have fewer resources at work, which can increase burnout and lead to more sickness absence later. This cycle suggests that sickness absence can create a negative loop, impacting job satisfaction and health. Understanding this relationship is important because it highlights the need for workplaces to support employees better, potentially reducing burnout and improving overall well-being. This research adds valuable insights into how job characteristics and health are interconnected.
   </article>
   <article id="keywords-article-SA5QI78A" class="keywords-article">
     <h1>Keywords</h1>
@@ -41,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

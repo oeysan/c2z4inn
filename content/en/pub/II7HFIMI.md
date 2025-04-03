@@ -24,11 +24,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-II7HFIMI" class="csl-bib-meta">
   <article id="about-article-II7HFIMI" class="about_pub-article">
     <h1>About</h1>
-    Tannoubi et al. conducted a study to explore how different types of engagement—emotional, cognitive, and behavioral—impact academic success among physical education and sports university students. They surveyed 488 students, aged 19 to 25, about their engagement levels, study methods, and grades. The study found that students who were more engaged emotionally, cognitively, and behaviorally tended to have higher grades. Emotional engagement, in particular, positively influenced grades through its effect on study approaches. This research suggests that by fostering these types of engagement, educators can help students improve their academic performance. Understanding these connections can guide educators in supporting students to adopt effective study habits, ultimately enhancing their success in physical education and sports programs.
+    Tannoubi et al. conducted a study to understand how different types of engagement—emotional, cognitive, and behavioral—affect academic success among physical education and sports university students. They surveyed 488 students, analyzing their engagement levels, study methods, and grade point averages (GPA). The findings showed that higher GPA was linked to better behavioral and cognitive engagement, as well as effective study approaches. Emotional engagement also positively influenced GPA, mainly through its impact on study methods. This research highlights the importance of fostering all types of engagement to improve academic performance. Educators can use these insights to better support students in achieving higher grades by encouraging active and emotional involvement in their studies.
   </article>
   <article id="keywords-article-II7HFIMI" class="keywords-article">
     <h1>Keywords</h1>
-    Academic Engagement, Study Approaches, Academic Success, Physical Education, Sports Students
+    Academic Engagement, Study Approaches, Academic Success, Physical Education, Sport Students
   </article>
   <article id="abstract-article-II7HFIMI" class="abstract-article">
     <h1>Scientific abstract</h1>
@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

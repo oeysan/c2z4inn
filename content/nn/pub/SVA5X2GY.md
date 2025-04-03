@@ -24,7 +24,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-SVA5X2GY" class="csl-bib-meta">
   <article id="about-article-SVA5X2GY" class="about_pub-article">
     <h1>Om</h1>
-    Chernykh og Sattorova undersøkte mangelen på openheit i etter-avgjerdsoppgjer innan investor-stat tvisteløysing (ISDS). ISDS er eit system der investorar kan saksøke land for påståtte diskriminerande praksisar. Forfattarane fann at etter ei avgjerd er gitt, blir detaljane om oppgjer mellom investorar og statar ofte haldne hemmelege. Denne hemmeleghaldinga utfordrar ideen om at ISDS-avgjerder er endelege og reiser spørsmål om legitimiteten og ansvarlegheita i prosessen. Deira studie foreslår at meir openheit er nødvendig for å forstå den fulle påverknaden av desse oppgjera på offentleg politikk. Denne forskinga er viktig fordi ho framhevar behovet for større openheit for å sikre rettferdige og ansvarlege praksisar i internasjonale tvistar.
+    Chernykh og Sattorova undersøkte mangelen på openheit i etter-avgjerdsoppgjer innan investor-stat tvisteløysing (ISDS). Dei fann at etter ei ISDS-avgjerd er gitt, vert detaljane i eventuelle påfølgjande avtalar mellom investorar og vertsstatar ofte haldne hemmelege. Denne hemmeleghaldinga utfordrar ideen om at ISDS-avgjerder er endelege og reiser spørsmål om legitimiteten og rekneskapen i ISDS-prosessen. Forfattarane argumenterer for at større openheit i desse etter-avgjerdsoppgjera er avgjerande fordi desse avtalane kan ha betydelige innverknader på offentleg politikk. Deira studie framhevar behovet for å tenkje nytt om openheitsmål for å sikre openheit og rekneskap i ISDS, som er viktig for å oppretthalde tillit til internasjonale tvisteløysingssystem.
   </article>
   <article id="keywords-article-SVA5X2GY" class="keywords-article">
     <h1>Emneord</h1>
@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

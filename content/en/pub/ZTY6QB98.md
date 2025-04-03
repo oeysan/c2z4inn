@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/ZTY6QB98" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-ZTY6QB98" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-ZTY6QB98" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="http://scholarspace.manoa.hawaii.edu/bitstream/10125/63937/1/0160.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="http://scholarspace.manoa.hawaii.edu/bitstream/10125/63937/1/0160.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ZTY6QB98"></div>
 </article>

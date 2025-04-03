@@ -23,11 +23,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-IS28PNPY" class="csl-bib-meta">
   <article id="about-article-IS28PNPY" class="about_pub-article">
     <h1>About</h1>
-    De Napoli et al. studied hibernating brown bears to understand how their muscles avoid significant wasting despite a drastic reduction in metabolic rate. They found that during hibernation, the bears' muscle fibers showed a slight decrease in force production but a significant drop in ATPase activity, which is crucial for energy use in muscles. This reduction helps conserve energy. The researchers also discovered major changes in the muscle's mitochondrial proteins and a decrease in phosphorylated myosin light chain, which normally boosts ATPase activity. These findings suggest that by lowering ATPase activity, the bears' muscles save energy, offering insights into how muscle wasting might be managed in other conditions.
+    De Napoli et al. studied hibernating brown bears to understand how their muscles avoid significant wasting despite a drastic reduction in metabolic rate. They found that during hibernation, the bears' muscle fibers showed a slight decrease in force production and a significant drop in ATPase activity, which is crucial for energy use in muscles. The researchers discovered major changes in the muscle's mitochondrial proteins and a decrease in phosphorylated myosin light chain, which usually boosts ATPase activity. This reduction in ATPase activity helps the bears conserve energy during hibernation. These findings suggest that controlling ATPase activity could be important in managing muscle wasting in various conditions.
   </article>
   <article id="keywords-article-IS28PNPY" class="keywords-article">
     <h1>Keywords</h1>
-    Hibernation, Skeletal Muscle, ATPase Activity, Muscle Wasting, Myosin, Mitochondrial Proteome
+    Hibernation, Skeletal Muscle, ATPase Activity, Muscle Wasting, Mitochondrial Remodeling
   </article>
   <article id="abstract-article-IS28PNPY" class="abstract-article">
     <h1>Scientific abstract</h1>
@@ -42,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

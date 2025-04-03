@@ -15,19 +15,17 @@ encoding: UTF-8
     <a href="#about-article-MQE7BRXR" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-MQE7BRXR" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-MQE7BRXR" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://academic.oup.com/jiel/advance-article-pdf/doi/10.1093/jiel/jgae004/56675250/jgae004.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://academic.oup.com/jiel/advance-article-pdf/doi/10.1093/jiel/jgae004/56675250/jgae004.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MQE7BRXR"></div>
 </article>
 <div id="csl-bib-meta-MQE7BRXR" class="csl-bib-meta">
   <article id="about-article-MQE7BRXR" class="about_pub-article">
     <h1>Om</h1>
-    Strain et al. har oppretta eit nytt datasett for å studere korleis land etterlever avgjerder i internasjonale investeringskonfliktar. Dette datasettet er det første i sitt slag som fokuserer på kva som skjer etter at desse avgjerdene er fatta, og det gir verdifull informasjon for framtidig forsking. Forfattarane forklarer korleis dei samla inn data, utfordringane dei møtte, og vala dei tok i utveljinga av kva informasjon som skulle inkluderast. Dei skildrar også datasettet og diskuterer korleis det kan brukast for å betre forstå etterleving. Ved å undersøke ulike saker, framhevar dei vanskane med å samle og kode data om kva som skjer etter at avgjerder er gitt. Denne forskinga er viktig fordi ho hjelper oss å forstå om og korleis land følgjer opp internasjonale investeringsavgjerder.
+    Strain et al. har laga eit nytt datasett for å studere korleis land etterlever investor-statlege voldgiftsavgjerder, som er avgjerder fatta i tvistar mellom investorar og statar. Dette datasettet er det første av sitt slag som fokuserer på kva som skjer etter at desse avgjerdene er gitt, og gir verdifull informasjon for framtidig forsking. Forfattarane forklarar korleis dei samla inn data, dei utfordringane dei møtte, og vala dei tok i utveljinga av informasjon. Dei skildrar også datasettet og drøftar korleis det kan brukast for å forstå etterleving betre. Denne forskinga er viktig fordi ho hjelper oss å sjå om og korleis land følgjer opp desse avgjerdene, noko som kan påverke internasjonale investeringar og økonomiske relasjonar.
   </article>
   <article id="keywords-article-MQE7BRXR" class="keywords-article">
     <h1>Emneord</h1>
-    Etterlevingspolitikk, Internasjonale investeringskonfliktar, Investor-stat voldgiftsavgjerder, Datainnsamling, Etter-prisprosessar
+    Etterleving, investor-statlege voldgiftsavgjerder, internasjonalt investeringsregime, datainnsamling, prosessar etter avgjerd
   </article>
   <article id="abstract-article-MQE7BRXR" class="abstract-article">
     <h1>Samandrag</h1>
@@ -51,13 +49,13 @@ and coding data on post-award processes and we explore what missing data can tel
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

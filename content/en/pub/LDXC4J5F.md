@@ -14,6 +14,8 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/LDXC4J5F" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-LDXC4J5F" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-LDXC4J5F" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.foreco.2019.01.014" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1016/j.foreco.2019.01.014" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LDXC4J5F"></div>
 </article>

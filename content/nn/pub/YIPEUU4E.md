@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-YIPEUU4E" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-YIPEUU4E" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-YIPEUU4E" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1080/14790718.2019.1612903" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1080/14790718.2019.1612903" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-YIPEUU4E"></div>
 </article>
@@ -41,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

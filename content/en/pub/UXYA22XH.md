@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1707781" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/UXYA22XH" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-UXYA22XH" alt="keywords" class="csl-bib-button">Keywords</a>
-    <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/1364/3318" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://pedagogikkogkritikk.no/index.php/ntpk/article/download/1364/3318" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UXYA22XH"></div>
 </article>

@@ -22,7 +22,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-SUB5RI5T" class="csl-bib-meta">
   <article id="about-article-SUB5RI5T" class="about_pub-article">
     <h1>About</h1>
-    Iversen reviews Klaus Tuori's book, "The European Central Bank and the European Macroeconomic Constitution." The book explores how the European Central Bank (ECB) has evolved from focusing solely on economic stability to actively addressing financial crises. This shift is significant because it shows how the ECB's role has expanded to include crisis management, which impacts the overall economic health of Europe. Understanding this transformation helps people grasp how central banks can influence economic policies and stability, especially during challenging times. The review highlights the importance of the ECB's adaptability in maintaining economic balance and supporting recovery efforts during financial downturns.
+    Iversen reviews Klaus Tuori's book, which examines the role of the European Central Bank (ECB) in maintaining economic stability and addressing financial crises within Europe. The book discusses how the ECB's policies and actions have evolved over time, particularly in response to various economic challenges. This analysis is important because it helps us understand how central banks can influence economic health and stability, which affects everyday life through factors like inflation, employment, and financial security. By exploring the ECB's strategies, the book provides insights into the broader economic framework that governs European countries, highlighting the importance of effective financial governance in ensuring a stable economy.
   </article>
   <article id="keywords-article-SUB5RI5T" class="keywords-article">
     <h1>Keywords</h1>
@@ -37,13 +37,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

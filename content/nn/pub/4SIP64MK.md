@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/4SIP64MK" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-4SIP64MK" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-4SIP64MK" alt="contributors" class="csl-bib-button">Medverkande</a>
-    <a href="https://doi.org/10.1080/13573322.2024.2391477" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1080/13573322.2024.2391477" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4SIP64MK"></div>
 </article>

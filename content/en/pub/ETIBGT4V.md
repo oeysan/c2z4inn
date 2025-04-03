@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/ETIBGT4V" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-ETIBGT4V" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-ETIBGT4V" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://nmbu.brage.unit.no/nmbu-xmlui/bitstream/11250/2604052/2/Tremoen.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://nmbu.brage.unit.no/nmbu-xmlui/bitstream/11250/2604052/2/Tremoen.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ETIBGT4V"></div>
 </article>

@@ -1,18 +1,20 @@
 ---
-title: Undesirable events in the correctional service
+title: Undesirable Events in the Correctional Service
 type: pub
 encoding: UTF-8
 
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-8ZKPWLJY" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Boe, O., Bech, A., Thømt, M. J., Karlsen, B. S., Rawat, S., &#38; Piotrowski, A. (2023). Undesirable events in the correctional service. <i>ICERI Proceedings</i>, 891–900.</div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Boe, O., Bech, A., Johansen Thømt, M., Karlsen, B. S., Rawat, S., &#38; Piotrowski, A. (2023). <i>Undesirable Events in the Correctional Service</i>. <i>1</i>, 891–900. <a href="https://doi.org/10.21125/iceri.2023.0303">https://doi.org/10.21125/iceri.2023.0303</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8ZKPWLJY" alt="archive" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2178877" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/8ZKPWLJY" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-8ZKPWLJY" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-8ZKPWLJY" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.21125/iceri.2023.0303" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.21125/iceri.2023.0303" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8ZKPWLJY"></div>
 </article>

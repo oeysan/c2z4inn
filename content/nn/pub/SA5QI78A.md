@@ -7,7 +7,7 @@ encoding: UTF-8
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-SA5QI78A" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Gottenborg, S. A., Hoff, T., Johnsen, S. Å. K., Rydstedt, L. W., &#38; Øvergård, K. I. (2025). A Longitudinal Path-Analysis of the Reciprocal and Cyclical Relationships between Sickness Absence, Job Demands, Job Resources, and Burnout. <i>Frontiers in Psychology</i>.</div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Gottenborg, S. A., Hoff, T., Johnsen, S. Å. K., Rydstedt, L. W., &#38; Øvergård, K. I. (2025). A Longitudinal Path-Analysis of the Reciprocal and Cyclical Relationships between Sickness Absence, Job Demands, Job Resources, and Burnout. <i>Frontiers in Psychology</i>. <a href="https://doi.org/10.3389/fpsyg.2025.1557898">https://doi.org/10.3389/fpsyg.2025.1557898</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-SA5QI78A" alt="archive" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2349891" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -22,11 +22,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-SA5QI78A" class="csl-bib-meta">
   <article id="about-article-SA5QI78A" class="about_pub-article">
     <h1>Om</h1>
-    Gottenborg et al. gjennomførte ein studie med 272 tilsette frå ulike norske organisasjonar for å forstå korleis sjukefråvær påverkar arbeidskrav, arbeidsressursar og utbrentheit over tid. Dei fann at når tilsette er fråverande på grunn av sjukdom, føler dei ofte at dei har færre arbeidsressursar (som støtte og verktøy til å utføre jobben), noko som kan auke kjensla av utbrentheit. Denne utbrentheita kan deretter føre til meir sjukefråvær i framtida, og skape ein syklus. Studiet understrekar viktigheita av å handtere arbeidsressursar for å førebyggje utbrentheit og redusere sjukefråvær, som kan bidra til å forbetre den totale helsa og produktiviteten på arbeidsplassen. Denne forskinga gir verdifulle innsikter i korleis arbeidsforhold og tilsette si helse er samanvevd over tid.
+    Gottenborg et al. gjennomførte ein studie for å utforske korleis sjukefråvær påverkar arbeidskrav, ressursar og utbrentheit over tid. Dei undersøkte 272 tilsette frå ulike norske organisasjonar på ulike tidspunkt for å samle data. Studien fann at når tilsette er fråverande på grunn av sjukdom, føler dei ofte at dei har færre ressursar på arbeidsplassen, noko som kan auke utbrentheit og føre til meir sjukefråvær seinare. Denne syklusen antyder at sjukefråvær kan skape ein negativ sirkel som påverkar arbeidstilfredsheit og helse. Å forstå denne samanhengen er viktig fordi det understrekar behovet for at arbeidsplassar støttar tilsette betre, potensielt reduserer utbrentheit og forbetrar den generelle velværa. Denne forskinga gir verdifulle innsikter i korleis arbeidskarakteristikkar og helse er samanvevd.
   </article>
   <article id="keywords-article-SA5QI78A" class="keywords-article">
     <h1>Emneord</h1>
-    Sjukefråvær, Arbeidskrav, Arbeidsressursar, Utbrentheit, Longitudinell studie, Gjensidige relasjonar
+    Sjukefråvær, Arbeidskrav, Arbeidsressursar, Utbrentheit, Longitudinell studie, Norske organisasjonar
   </article>
   <article id="abstract-article-SA5QI78A" class="abstract-article">
     <h1>Samandrag</h1>
@@ -41,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

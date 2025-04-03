@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#keywords-article-C9PAYAKP" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-C9PAYAKP" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-C9PAYAKP" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://natureconservation.pensoft.net/article/28289/download/pdf/" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://natureconservation.pensoft.net/article/28289/download/pdf/" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-C9PAYAKP"></div>
 </article>
@@ -38,7 +36,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

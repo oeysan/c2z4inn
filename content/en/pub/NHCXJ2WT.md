@@ -20,7 +20,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-NHCXJ2WT" class="csl-bib-meta">
   <article id="about-article-NHCXJ2WT" class="about_pub-article">
     <h1>About</h1>
-    Puijk's book, "På innsiden: Perspektiver på de norske film-, TV- og spill-bransjene," is a collection of eleven articles that thoroughly analyze Norway's film, TV, and gaming industries. Divided into three sections, it covers production techniques, distribution strategies, new storytelling forms, and economic challenges. The book combines theoretical frameworks with real-world studies to show how these industries adapt to technological changes and shifting consumer behaviors. It highlights the creative development and growing cultural significance of these sectors both in Norway and internationally. This interdisciplinary work is a valuable resource for researchers, students, and professionals in media and communication, offering insights into the economic, political, social, and environmental challenges faced by small and medium-sized enterprises in the audiovisual field.
+    Puijk's book offers a detailed look at Norway's film, TV, and gaming industries through eleven articles. It explores how these sectors adapt to technological changes and shifting consumer habits. The book is divided into three sections, focusing on production techniques, distribution strategies, new storytelling methods, and economic challenges. It combines theoretical insights with real-world studies to show how these industries are evolving and their growing cultural impact both in Norway and internationally. The book highlights the role of small and medium-sized companies in driving innovation and creativity. It serves as a valuable resource for researchers, students, and media professionals interested in understanding the dynamics and future of Norwegian audiovisual media production.
   </article>
   <article id="keywords-article-NHCXJ2WT" class="keywords-article">
     <h1>Keywords</h1>
@@ -41,19 +41,26 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
   </article>
   <article id="taxonomy-article-NHCXJ2WT" class="taxonomy-article">
     <h1>Archive</h1>
+    <ul>
+      <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HBGTLL6V">November</a></li>
+    </ul>
     <ul>
       <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
       <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>

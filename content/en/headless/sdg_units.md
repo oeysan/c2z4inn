@@ -148,7 +148,7 @@ encoding: UTF-8
             {
                 "label": "Mål 13: Stoppe klimaendringane",
                 "data": [
-                    107,
+                    108,
                     21,
                     5,
                     121

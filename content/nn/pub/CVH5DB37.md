@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-CVH5DB37" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-CVH5DB37" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-CVH5DB37" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/09640568.2023.2269312?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/09640568.2023.2269312?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-CVH5DB37"></div>
 </article>
@@ -36,13 +38,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

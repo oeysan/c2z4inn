@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#about-article-C5B8AN7E" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-C5B8AN7E" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-C5B8AN7E" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://doi.org/10.1016/j.jtherbio.2022.103334" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1016/j.jtherbio.2022.103334" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-C5B8AN7E"></div>
 </article>
@@ -44,7 +42,7 @@ We studied the Tb pattern of 30 free-ranging adult female moose (≥1.5 years ol
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

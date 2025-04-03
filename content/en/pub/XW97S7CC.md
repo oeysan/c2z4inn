@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-XW97S7CC" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-XW97S7CC" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-XW97S7CC" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.752004/pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.752004/pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XW97S7CC"></div>
 </article>
@@ -49,7 +51,7 @@ Conclusions: Motives for using, and time spent using, social media were associat
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/9PDX5MW2" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-9PDX5MW2" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-9PDX5MW2" alt="contributors" class="csl-bib-button">Medverkande</a>
-    <a href="https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-1481356" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-1481356" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9PDX5MW2"></div>
 </article>

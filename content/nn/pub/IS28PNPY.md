@@ -23,7 +23,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-IS28PNPY" class="csl-bib-meta">
   <article id="about-article-IS28PNPY" class="about_pub-article">
     <h1>Om</h1>
-    De Napoli et al. studerte dvalande brunbjørnar for å forstå korleis musklane deira unngår betydelig atrofi trass i ein drastisk reduksjon i stoffskifte. Dei fann at under dvale viste bjørnane sine muskelfibrar ein liten nedgang i kraftproduksjon, men ein betydelig reduksjon i ATPase-aktivitet, som er avgjerande for energibruk i musklar. Denne reduksjonen hjelper med å spare energi. Forskarane oppdaga også store endringar i musklane sine mitokondrielle protein og ein nedgang i fosforylert myosin lett kjede, som normalt aukar ATPase-aktivitet. Desse funna tyder på at ved å senke ATPase-aktiviteten, sparer bjørnane sine musklar energi, og gir innsikt i korleis muskelatrofi kan handterast under andre tilstandar.
+    De Napoli et al. studerte dvalande brunbjørnar for å forstå korleis musklane deira unngår betydelig atrofi trass i ein drastisk reduksjon i stoffskifte. Dei fann at under dvale viste bjørnane sine muskelfibrar ein liten nedgang i kraftproduksjon og ein betydelig reduksjon i ATPase-aktivitet, som er avgjerande for energibruk i musklar. Forskarane oppdaga store endringar i musklane sine mitokondrielle protein og ein nedgang i fosforylert myosin lettkjede, som vanlegvis aukar ATPase-aktivitet. Denne reduksjonen i ATPase-aktivitet hjelper bjørnane med å spare energi under dvale. Desse funna tyder på at kontroll av ATPase-aktivitet kan vere viktig i handtering av muskelatrofi under ulike tilstandar.
   </article>
   <article id="keywords-article-IS28PNPY" class="keywords-article">
     <h1>Emneord</h1>
@@ -42,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

@@ -12,6 +12,8 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=2262287" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/PKUADGQ4" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-PKUADGQ4" alt="keywords" class="csl-bib-button">Keywords</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/13511610.2024.2340718?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/13511610.2024.2340718?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PKUADGQ4"></div>
 </article>

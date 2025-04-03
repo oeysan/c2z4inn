@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-HPGUN4IT" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-HPGUN4IT" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-HPGUN4IT" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://su.diva-portal.org/smash/get/diva2:1454097/FULLTEXT02" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://su.diva-portal.org/smash/get/diva2:1454097/FULLTEXT02" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HPGUN4IT"></div>
 </article>
@@ -49,7 +51,7 @@ Practical considerations should be given to ethical and moral reflection within 
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

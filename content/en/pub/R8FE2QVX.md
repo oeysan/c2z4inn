@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="#keywords-article-R8FE2QVX" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-R8FE2QVX" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-R8FE2QVX" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://pub.epsilon.slu.se/28642/1/mattisson-j-et-al-20220830.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://pub.epsilon.slu.se/28642/1/mattisson-j-et-al-20220830.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-R8FE2QVX"></div>
 </article>
@@ -37,13 +35,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

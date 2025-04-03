@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#keywords-article-JZB7B2NZ" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-JZB7B2NZ" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-JZB7B2NZ" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://journals.openedition.org/monderusse/pdf/10131" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://journals.openedition.org/monderusse/pdf/10131" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JZB7B2NZ"></div>
 </article>
@@ -38,19 +36,19 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg14_en.png" class="image" alt="SDG 14">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=14#archive" class="sdg-publication-count"><span>50</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal14" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

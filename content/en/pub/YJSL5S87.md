@@ -6,7 +6,7 @@ encoding: UTF-8
 ---
 <h1>Publication</h1>
 <article id="csl-bib-container-YJSL5S87" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Drozdzowicz, A. D., &#38; Phillips, K. P. (2025). Linguistic understanding: perception and inference. <i>Inquiry (Oslo)</i>. <a href="https://doi.org/10.1080/0020174X.2024.2442692">https://doi.org/10.1080/0020174X.2024.2442692</a></div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Drożdżowicz, A., &#38; Phillips, K. P. (2025). Linguistic understanding: perception and inference. <i>Inquiry (Oslo)</i>. <a href="https://doi.org/10.1080/0020174X.2024.2442692">https://doi.org/10.1080/0020174X.2024.2442692</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-YJSL5S87" alt="archive" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2350416" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -22,7 +22,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-YJSL5S87" class="csl-bib-meta">
   <article id="about-article-YJSL5S87" class="about_pub-article">
     <h1>About</h1>
-    Drozdzowicz and Phillips explore how we understand language in everyday situations, like reading news or chatting with friends. They examine two main ideas: the perceptual approach, which suggests we understand language by perceiving its meaning directly, and the inferential approach, which proposes we infer meaning from context and clues. This paper clarifies these concepts and discusses philosophical debates about how we process language, including the psychological and experiential aspects. It also touches on epistemology, which is the study of knowledge, and how understanding language fits into this field. By examining these approaches, the authors aim to shed light on the complex nature of linguistic understanding, which is crucial for effective communication in daily life.
+    Drożdżowicz and Phillips explore how we understand what others communicate to us in various situations, like reading news or chatting with friends. They examine two main ideas: the perceptual approach, which suggests we understand language by perceiving its meaning directly, and the inferential approach, which suggests we understand by making logical guesses about what is being said. Their paper clarifies these concepts and discusses philosophical debates about how we experience and process language. They also look at how understanding language affects our knowledge and beliefs. This study helps us better grasp the complex ways we interpret and make sense of communication in everyday life.
   </article>
   <article id="keywords-article-YJSL5S87" class="keywords-article">
     <h1>Keywords</h1>
@@ -37,7 +37,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

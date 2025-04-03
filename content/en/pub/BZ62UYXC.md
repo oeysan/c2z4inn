@@ -20,7 +20,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-BZ62UYXC" class="csl-bib-meta">
   <article id="about-article-BZ62UYXC" class="about_pub-article">
     <h1>About</h1>
-    Helseth explores how the transition from silent films to sound films in the late 1920s affected the use of music in early documentary films. Initially, live musical accompaniment was common, but as sound technology improved, the human voice became more prominent. By the early 1930s, film music conventions began to take shape. Unlike classical narrative cinema, which aims for a seamless storytelling style, documentaries of the 1930s often featured noticeable, intentional music designed to be heard. Helseth examines why this happened, using examples from composers Hanns Eisler, Benjamin Britten, and Virgil Thomson. This study helps us understand the evolution of film music and its impact on how documentaries were experienced by audiences.
+    Helseth explores how the transition from silent films to sound films in the late 1920s affected the use of music in early documentary films. Initially, live musical accompaniment was common, but as sound technology improved, the human voice became more prominent in film soundtracks. By the early 1930s, film music conventions began to take shape, aiming to be less noticeable in narrative cinema. However, documentaries from this era often featured music that was meant to be heard and noticed. Helseth examines why this happened, using examples from composers Hanns Eisler, Benjamin Britten, and Virgil Thomson. Understanding these changes helps us appreciate the evolution of film music and its impact on how stories are told in movies.
   </article>
   <article id="keywords-article-BZ62UYXC" class="keywords-article">
     <h1>Keywords</h1>
@@ -39,9 +39,9 @@ encoding: UTF-8
     <ul>
       <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
       <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=GP9PM6PG">Expert group in film and television science</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=8LKK3UQ6">2024</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=DENU8UDX">June</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6VN4KCRU">June</a></li>
     </ul>
   </article>
 </div>

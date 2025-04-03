@@ -16,8 +16,6 @@ encoding: UTF-8
     <a href="#about-article-FHP5HHP3" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-FHP5HHP3" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FHP5HHP3" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.692605/pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.692605/pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-FHP5HHP3"></div>
 </article>
@@ -51,7 +49,7 @@ Conclusions: Reaching four out of ten with risky drinking habits for prevention 
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

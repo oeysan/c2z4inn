@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-NUGZY7T3" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-NUGZY7T3" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-NUGZY7T3" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="https://www.mdpi.com/1420-3049/25/16/3559/pdf?version=1596617177" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.mdpi.com/1420-3049/25/16/3559/pdf?version=1596617177" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-NUGZY7T3"></div>
 </article>

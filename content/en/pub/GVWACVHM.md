@@ -21,7 +21,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-GVWACVHM" class="csl-bib-meta">
   <article id="about-article-GVWACVHM" class="about_pub-article">
     <h1>About</h1>
-    Engelstad's book offers a detailed look at Norway's film, TV, and gaming industries through eleven selected articles. It explores how these sectors adapt to technological changes and shifting consumer habits. The book is divided into three sections, focusing on production techniques, distribution strategies, new storytelling methods, and economic challenges. By combining theoretical frameworks with real-world studies, it reveals how these industries are evolving creatively and strategically. The insights are crucial for understanding their growing influence in both Norwegian and global cultural landscapes. This anthology is a valuable resource for researchers, students, and media professionals, highlighting the role of small and medium-sized companies in driving innovation and creativity amidst various challenges.
+    Engelstad's book, "På innsiden: Perspektiver på de norske film-, TV- og spill-bransjene," provides a detailed analysis of Norway's audiovisual industries through eleven selected articles. Divided into three sections, it explores the film, TV, and gaming sectors, focusing on production techniques, distribution strategies, new storytelling forms, and economic challenges. The book combines theoretical frameworks with real-world studies to show how these industries adapt to technological changes and shifting consumer behaviors. It highlights the creative development and growing importance of these sectors in both Norwegian and international cultural landscapes. This comprehensive resource is valuable for researchers, students, and professionals in media and communication, offering insights into the economic, political, social, and environmental challenges faced by small and medium-sized enterprises in the industry.
   </article>
   <article id="keywords-article-GVWACVHM" class="keywords-article">
     <h1>Keywords</h1>
@@ -46,13 +46,13 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -62,9 +62,9 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
     <ul>
       <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
       <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=GP9PM6PG">Expert group in film and television science</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=8LKK3UQ6">2024</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=QKHA8KJT">November</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=HBGTLL6V">November</a></li>
     </ul>
   </article>
 </div>

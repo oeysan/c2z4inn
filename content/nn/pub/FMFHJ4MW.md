@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-FMFHJ4MW" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-FMFHJ4MW" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-FMFHJ4MW" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1016/j.spc.2023.07.008" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1016/j.spc.2023.07.008" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-FMFHJ4MW"></div>
 </article>

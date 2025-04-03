@@ -21,7 +21,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-WXI9PCSZ" class="csl-bib-meta">
   <article id="about-article-WXI9PCSZ" class="about_pub-article">
     <h1>About</h1>
-    Engelstad's book explores how war criminals from World War II are portrayed in modern cultural expressions like literature, film, theater, TV, and exhibitions. The study highlights the ongoing interest in these figures, who are often seen as both ordinary people and brutal perpetrators. This duality challenges how they are represented, moving away from simplistic caricatures to more complex portrayals. The book suggests that these artistic interpretations aim to understand the past without necessarily forgiving it, linking historical experiences to current values and political issues. This work is relevant for researchers, students, and anyone interested in the lasting impact of World War II on collective memory and cultural discussions.
+    Engelstad's book explores how war criminals from World War II are portrayed in various artistic forms like literature, film, theater, TV, and exhibitions. They highlight that the term "war criminal" is both legally defined and used more informally, often alongside words like "traitor" and "perpetrator." The book examines the complex nature of these individuals, who are seen as both ordinary people and brutal offenders. Artistic representations aim to understand these figures without excusing their actions, connecting past experiences to current values and political issues. This study is relevant for researchers, students, and anyone interested in the ongoing impact of World War II on collective memory and cultural discussions.
   </article>
   <article id="keywords-article-WXI9PCSZ" class="keywords-article">
     <h1>Keywords</h1>
@@ -40,7 +40,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
@@ -50,9 +50,9 @@ encoding: UTF-8
     <ul>
       <li><a href="{{< params subfolder >}}en/archive/?key=3DCRN523">University of Inland Norway</a></li>
       <li><a href="{{< params subfolder >}}en/archive/?key=8XUDF4FD">Faculty of Audiovisual Media and Creative Technologies</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=GP9PM6PG">Expert group in film and television science</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=8LKK3UQ6">2024</a></li>
-      <li><a href="{{< params subfolder >}}en/archive/?key=X884U8WL">December</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=6SLLPJYF">Department of Television production and studies - The TV school</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}en/archive/?key=USUR3B3T">December</a></li>
     </ul>
   </article>
 </div>

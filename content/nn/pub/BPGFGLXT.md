@@ -31,7 +31,7 @@ encoding: UTF-8
   </article>
   <article id="abstract-article-BPGFGLXT" class="abstract-article">
     <h1>Samandrag</h1>
-    Trophic interactions regulate populations, but anthropogenic processes influence primary productivity and consumption by both herbivore and carnivore species. Trophic ecology studies often focus on natural systems such as protected areas, even though livestock globally comprise the majority of terrestrial vertebrate biomass. Here we explore spatial and temporal patterns in the distribution of biomass between plants, and large herbivores and carnivores (> 10 kg) in Norwegian rangelands, including both wildlife and livestock. We find high spatial variation in the relationship between plant and herbivore biomass, with both positive and negative divergence in observed biomass from expectations based on primary productivity. Meanwhile, despite recent partial recoveries in carnivore densities across Norway, carnivore biomass is still lower than expected based on herbivore biomass, even if livestock are excluded from the estimation. Our study highlights how temporal trends in both herbivores and carnivores reflect policy development. The role of livestock husbandry and wildlife management is thus key in determining realised biomass distributions in anthropogenically influenced ecosystems.
+    Trophic interactions regulate populations, but anthropogenic processes influence primary productivity and consumption by both herbivore and carnivore species. Trophic ecology studies often focus on natural systems such as protected areas, even though livestock globally comprise the majority of terrestrial vertebrate biomass. Here we explore spatial and temporal patterns in the distribution of biomass between plants, and large herbivores and carnivores (> 10 kg) in Norwegian rangelands, including both wildlife and livestock. We find high spatial variation in the relationship between plant and herbivore biomass, with both positive and negative divergence in observed biomass from expectations based on primary productivity. Meanwhile, despite recent partial recoveries in carnivore densities across Norway, carnivore biomass is still lower than expected based on herbivore biomass, even if livestock are excluded from the estimation. Our study highlights how temporal trends in both herbivores and carnivores reflect policy development. The role of livestock husbandry and wildlife management is thus key in determining realised biomass distributions in anthropogenically influenced ecosystems. 
 Carnivore, Herbivore, Management, Net primary productivity, Predation
   </article>
   <article id="sdg-article-BPGFGLXT" class="sdg-article">
@@ -39,7 +39,7 @@ Carnivore, Herbivore, Management, Net primary productivity, Predation
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

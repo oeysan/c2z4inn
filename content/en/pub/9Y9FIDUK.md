@@ -12,8 +12,6 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1602110" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/9Y9FIDUK" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-9Y9FIDUK" alt="keywords" class="csl-bib-button">Keywords</a>
-    <a href="https://philpapers.org/archive/DELSSR-3.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://philpapers.org/archive/DELSSR-3.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-9Y9FIDUK"></div>
 </article>

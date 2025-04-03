@@ -13,7 +13,7 @@ Denne nettsida fungerer som eit arkiv for vitskaplege publikasjonar ved
 Universitetet i Innlandet (registrert i Cristin frå institusjonen vart oppretta 1. 
 januar, 2017). Den vert oppdatert månadleg.
 
-Arkivet vart sist oppdatert **01.04.2025 (klokka 13:12)** og inneheld **5582** publikasjonar.
+Arkivet vart sist oppdatert **03.04.2025 (klokka 14:13)** og inneheld **5582** publikasjonar.
 
 Bruk [arkivet](#archive) for å finne publikasjonar for fakultet og institutt ved 
 høgskulen for år eller månad. Du kan òg bruke søkefunksjonen til å finne 

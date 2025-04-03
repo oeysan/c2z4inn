@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#about-article-UIUBG5NQ" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-UIUBG5NQ" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-UIUBG5NQ" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2689669/4/Gustafsson%2c%20Alawi%20%26%20Andersen.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2689669/4/Gustafsson%2c%20Alawi%20%26%20Andersen.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UIUBG5NQ"></div>
 </article>
@@ -42,7 +40,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-RYYQC855" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-RYYQC855" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-RYYQC855" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1177/1103308816673496" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1177/1103308816673496" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RYYQC855"></div>
 </article>
@@ -36,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=5#archive" class="sdg-publication-count"><span>149</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

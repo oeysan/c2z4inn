@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-4H8ACKWI" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-4H8ACKWI" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-4H8ACKWI" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="https://doi.org/10.1109/wcnc57260.2024.10570851" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1109/wcnc57260.2024.10570851" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-4H8ACKWI"></div>
 </article>

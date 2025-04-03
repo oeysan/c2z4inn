@@ -6,7 +6,7 @@ encoding: UTF-8
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-8BPH8CPM" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Millei, Z., Gawlicz, K., Hopkins, L., Andersen, C. E., &#38; Ladru, D. E. (2025). Nation, nature and childhood in five curricula: towards Earthly education. <i>Critical Studies in Education</i>, <i>66</i>(2). <a href="https://doi.org/10.1080/17508487.2025.2467939">https://doi.org/10.1080/17508487.2025.2467939</a></div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Millei, Z., Gawlicz, K., Hopkins, L., Andersen, C. E., &#38; Ladru, D. E. (2025). Nation, nature and childhood in five curricula: towards Earthly education. <i>Critical Studies in Education</i>, <i>66</i>(2), 1. <a href="https://doi.org/10.1080/17508487.2025.2467939">https://doi.org/10.1080/17508487.2025.2467939</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8BPH8CPM" alt="archive" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2311368" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -15,19 +15,17 @@ encoding: UTF-8
     <a href="#about-article-8BPH8CPM" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-8BPH8CPM" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-8BPH8CPM" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://doi.org/10.1080/17508487.2025.2467939" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1080/17508487.2025.2467939" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8BPH8CPM"></div>
 </article>
 <div id="csl-bib-meta-8BPH8CPM" class="csl-bib-meta">
   <article id="about-article-8BPH8CPM" class="about_pub-article">
     <h1>Om</h1>
-    Millei et al. undersøkte korleis læreplanar for tidleg barndomsutdanning i nordiske, post-sosialistiske og settler-koloniale statar tek opp forholdet mellom nasjon, natur og barndom, særleg i lys av klimakrisa. Dei identifiserte tre hovudtema: læring om nasjonal natur, å knyte natur til heim eller fødeland, og å fremje forvalting av nasjonal natur. Forfattarane hevdar at desse tradisjonelle synspunkta er utdaterte og foreslår at utdanning bør fokusere på å forstå jorda som eit levande økosystem som opprettheld liv. Denne endringa er avgjerande for å fremje eit meir berekraftig og respektfullt forhold mellom barn og miljøet, noko som er essensielt for å takle noverande og framtidige økologiske utfordringar.
+    Millei et al. undersøkte korleis læreplanar for tidleg barndomsutdanning i nordiske, post-sosialistiske og settler-koloniale land tek opp forholdet mellom nasjon, natur og barndom, særleg med tanke på klimakrisa. Dei fann tre hovudtema: læring om nasjonal natur, å knyte natur til heim eller fødeland, og å fremje forvalting av nasjonal natur. Forfattarane hevdar at desse tradisjonelle synspunkta er utdaterte og foreslår at utdanning bør fokusere på å forstå jorda som eit levande økosystem som støttar alt liv. Denne endringa er viktig fordi ho oppmuntrar barn til å utvikle ein djupare, meir berekraftig tilknyting til miljøet, noko som er avgjerande for å takle noverande og framtidige økologiske utfordringar.
   </article>
   <article id="keywords-article-8BPH8CPM" class="keywords-article">
     <h1>Emneord</h1>
-    Nasjon, Natur, Barndom, Tidleg barndomsutdanning, Klimakrise, Antropocen
+    Nasjon, Natur, Barndom, Tidleg barndomsutdanning, Klimakrise, Antropocen, Pedagogikkar
   </article>
   <article id="abstract-article-8BPH8CPM" class="abstract-article">
     <h1>Samandrag</h1>
@@ -42,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

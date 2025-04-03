@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="#keywords-article-XRJIQBCR" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-XRJIQBCR" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-XRJIQBCR" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://journals.oslomet.no/index.php/information/article/download/3439/3238" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://journals.oslomet.no/index.php/information/article/download/3439/3238" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XRJIQBCR"></div>
 </article>
@@ -37,7 +35,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#keywords-article-N2YFQTNP" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-N2YFQTNP" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-N2YFQTNP" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://www.mdpi.com/2079-7737/12/9/1224/pdf?version=1694411283" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.mdpi.com/2079-7737/12/9/1224/pdf?version=1694411283" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-N2YFQTNP"></div>
 </article>
@@ -56,7 +54,7 @@ complete cardiovascular collapse (e.g., during hypovolemic shock) and/or during 
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg5" class="sdg">

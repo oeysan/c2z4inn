@@ -25,11 +25,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-8IZMMUQS" class="csl-bib-meta">
   <article id="about-article-8IZMMUQS" class="about_pub-article">
     <h1>About</h1>
-    Coulson et al. conducted a study to update and revise the list of invertebrate species found in the Svalbard archipelago, a region in the High Arctic. They identified 1,091 species, providing a comprehensive inventory that serves as a crucial resource for scientists studying Arctic ecosystems. This updated list is important because it helps track changes in biodiversity over time, which can indicate environmental shifts. The authors also noted that half of these species lack genetic barcode data, which is essential for accurate identification and monitoring. By addressing these gaps, researchers can better understand the ecological dynamics in Svalbard, aiding in conservation efforts and enhancing knowledge of Arctic environments. The inventory is available in an open-access database for further scientific use.
+    Coulson et al. conducted a study to update and revise the list of invertebrate species found in the Svalbard archipelago, a region in the High Arctic. They identified 1,091 species, providing a comprehensive inventory that serves as a valuable resource for scientists studying Arctic ecosystems. This updated list is crucial for monitoring changes in biodiversity over time, which can help understand the impacts of climate change. The authors also noted that half of these species lack genetic barcode data, which is important for accurate identification and tracking. By addressing these gaps, researchers can improve their understanding of Arctic biodiversity. The study highlights Svalbard's unique environment as an advantageous location for scientific research on terrestrial and freshwater ecosystems.
   </article>
   <article id="keywords-article-8IZMMUQS" class="keywords-article">
     <h1>Keywords</h1>
-    Terrestrial Invertebrate Biodiversity, Freshwater Invertebrate Biodiversity, Species Inventory, Svalbard, Arctic Fauna, Barcode of Life Data Systems
+    Terrestrial Invertebrates, Freshwater Invertebrates, Arctic Biodiversity, Species Inventory, Svalbard
   </article>
   <article id="abstract-article-8IZMMUQS" class="abstract-article">
     <h1>Scientific abstract</h1>
@@ -41,10 +41,16 @@ encoding: UTF-8
   </article>
   <article id="sdg-article-8IZMMUQS" class="sdg-article">
     <h1>Sustainable Development Goals</h1>
-    <div class="sdg-container"><div id="sdg15" class="sdg">
+    <div class="sdg-container"><div id="sdg13" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> Publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
+        </div>
+      </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

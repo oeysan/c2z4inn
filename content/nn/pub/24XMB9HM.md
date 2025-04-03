@@ -36,20 +36,20 @@ encoding: UTF-8
   </article>
   <article id="contributors-article-24XMB9HM" class="contributors-article">
     <h1>Medverkande</h1>
-    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Marius Kjønsberg</h1> <h2>Høgskolelektor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:marius.kjonsberg@inn.no">marius.kjonsberg@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762541619"> +47 62 54 16 19 </a></dd> <dt>Mobilnummer</dt> <dd><a href="tel:+4790919903"> +47 90 91 99 03 </a></dd> </dl> <p> Fakultet for anvendt økologi, landbruksfag og bioteknologi<br> Institutt for skog- og utmarksfag<br> Studiested Evenstad </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/finn-en-ansatt/marius-kjonsberg.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/marius-kjonsberg.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=546504" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Marius Kjønsberg</h1> <h2>Universitetslektor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:marius.kjonsberg@inn.no">marius.kjonsberg@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762541619"> +47 62 54 16 19 </a></dd> <dt>Mobilnummer</dt> <dd><a href="tel:+4790919903"> +47 90 91 99 03 </a></dd> </dl> <p> Fakultet for anvendt økologi, landbruksfag og bioteknologi<br> Institutt for skog- og utmarksfag<br> Studiested Evenstad </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.inn.no/finn-en-ansatt/marius-kjonsberg.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/marius-kjonsberg.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=546504" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
   </article>
   <article id="sdg-article-24XMB9HM" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

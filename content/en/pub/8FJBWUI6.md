@@ -12,8 +12,6 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1755769" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/8FJBWUI6" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-8FJBWUI6" alt="keywords" class="csl-bib-button">Keywords</a>
-    <a href="http://philsci-archive.pitt.edu/16679/1/Generation%20Bias%20and%20Evaluation%20Bias%20PhilStud%20Accepted.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="http://philsci-archive.pitt.edu/16679/1/Generation%20Bias%20and%20Evaluation%20Bias%20PhilStud%20Accepted.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8FJBWUI6"></div>
 </article>

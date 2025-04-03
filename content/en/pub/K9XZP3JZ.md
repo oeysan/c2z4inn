@@ -17,6 +17,8 @@ encoding: UTF-8
     <a href="#about-article-K9XZP3JZ" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-K9XZP3JZ" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-K9XZP3JZ" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/3060905/4/Accepted%20version%20Paper%20to%20IJQSS_Organizational%20attractiveness.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/3060905/4/Accepted%20version%20Paper%20to%20IJQSS_Organizational%20attractiveness.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-K9XZP3JZ"></div>
 </article>
@@ -57,13 +59,13 @@ management support and service quality of care influence and shape the perceptio
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

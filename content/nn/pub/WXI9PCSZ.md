@@ -21,7 +21,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-WXI9PCSZ" class="csl-bib-meta">
   <article id="about-article-WXI9PCSZ" class="about_pub-article">
     <h1>Om</h1>
-    Engelstad si bok utforskar korleis krigsforbrytarar frå andre verdskrigen vert framstilt i moderne kulturelle uttrykk som litteratur, film, teater, TV og utstillingar. Studiet framhevar den vedvarande interessa for desse figurane, som ofte vert sett på som både vanlege menneske og brutale gjerningspersonar. Denne dualiteten utfordrar korleis dei vert representerte, og går bort frå forenkla karikaturar til meir komplekse framstillingar. Boka antydar at desse kunstnarlege tolkingane har som mål å forstå fortida utan nødvendigvis å tilgi den, og knyt historiske erfaringar til dagens verdiar og politiske spørsmål. Dette verket er relevant for forskarar, studentar og alle som er interesserte i den varige påverknaden av andre verdskrigen på kollektivt minne og kulturelle diskusjonar.
+    Engelstad si bok utforskar korleis krigsforbrytarar frå andre verdskrigen vert framstilt i ulike kunstnarlege former som litteratur, film, teater, TV og utstillingar. Dei peikar på at omgrepet "krigsforbrytar" både er juridisk definert og brukt meir uformelt, ofte saman med ord som "forrædar" og "gjerningsperson". Boka undersøker den komplekse naturen til desse individa, som vert sett på som både vanlege menneske og brutale overgriparar. Kunstnarlege representasjonar har som mål å forstå desse figurane utan å unnskylde handlingane deira, og knyter tidlegare erfaringar til dagens verdiar og politiske spørsmål. Denne studien er relevant for forskarar, studentar og alle som er interesserte i den vedvarande påverknaden av andre verdskrigen på kollektivt minne og kulturelle diskusjonar.
   </article>
   <article id="keywords-article-WXI9PCSZ" class="keywords-article">
     <h1>Emneord</h1>
@@ -40,7 +40,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
@@ -50,9 +50,9 @@ encoding: UTF-8
     <ul>
       <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
       <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=8LKK3UQ6">2024</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=X884U8WL">Desember</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=USUR3B3T">Desember</a></li>
     </ul>
   </article>
 </div>

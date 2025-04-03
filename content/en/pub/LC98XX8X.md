@@ -14,6 +14,8 @@ encoding: UTF-8
     <a href="#keywords-article-LC98XX8X" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-LC98XX8X" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-LC98XX8X" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://doi.org/10.1016/j.jtemb.2019.06.017" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1016/j.jtemb.2019.06.017" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LC98XX8X"></div>
 </article>
@@ -53,7 +55,7 @@ There is a significant relationship between lowered serum Zn concentrations and 
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

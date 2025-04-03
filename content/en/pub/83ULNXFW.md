@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-83ULNXFW" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-83ULNXFW" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-83ULNXFW" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1017/s1478572219000276" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1017/s1478572219000276" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-83ULNXFW"></div>
 </article>

@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-SL6I4YJH" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-SL6I4YJH" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-SL6I4YJH" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2828405/1/Beta-1-2020-02-Haukaasen%2b%2528002%2529.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2828405/1/Beta-1-2020-02-Haukaasen%2b%2528002%2529.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SL6I4YJH"></div>
 </article>
@@ -36,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">

@@ -6,7 +6,7 @@ encoding: UTF-8
 ---
 <h1>Publikasjon</h1>
 <article id="csl-bib-container-WKRJHPK4" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Amro, L., &#38; Iversen, J. Y. (2025). Translanguaging in transnational digital Arabic heritage language education. <i>European Educational Research Journal</i>, <i>2025, 1, 15</i>. <a href="https://doi.org/10.1177/14749041241311958">https://doi.org/10.1177/14749041241311958</a></div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Amro, L., &#38; Iversen, J. Y. (2025). Translanguaging in transnational digital Arabic heritage language education. <i>European Educational Research Journal</i>, <i>2025, 1, 15</i>, 1. <a href="https://doi.org/10.1177/14749041241311958">https://doi.org/10.1177/14749041241311958</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-WKRJHPK4" alt="archive" class="csl-bib-button">Arkiv</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2337696" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -23,15 +23,15 @@ encoding: UTF-8
 <div id="csl-bib-meta-WKRJHPK4" class="csl-bib-meta">
   <article id="about-article-WKRJHPK4" class="about_pub-article">
     <h1>Om</h1>
-    Amro og Iversen gjennomførte ein studie for å forstå korleis utdanning i arva arabisk språk utviklar seg i digitale omgjevnader på grunn av globalisering og migrasjon. Dei observerte nettbaserte klassar i sju månader, intervjua ein lærar og fem studentar, og analyserte dokument. Dei fann at læraren brukte translanguaging, som inneber å blande ulike språk, for å hjelpe studentane med å føle seg komfortable og forbetre lesekunnskapane sine i moderne standardarabisk. Denne tilnærminga utfordra tradisjonelle språkhierarki og gjorde læringa meir inkluderande. Studien framhevar viktigheita av digitale klasserom i utforminga av korleis språk blir undervist og lært, og viser at nettbasert utdanning effektivt kan støtte vedlikehald og utvikling av arva språk.
+    Amro og Iversen gjennomførte ein studie for å forstå korleis lærarar i arabiskspråkleg kulturarv nyttar translanguaging (blanding av språk) i nettbaserte klasser. Med fleire arabisktalande i Europa grunna migrasjon, er det viktig å oppretthalde språket, og digital utdanning blir stadig meir populær. Over sju månader observerte dei nettbaserte klasser, intervjua ein lærar og fem studentar, og samla inn dokument. Dei fann at læraren nytta studentane si evne til å skifte mellom språk for å skape eit støttande miljø, utfordre språklege hierarki, og forbetre lese- og skriveferdigheiter i moderne standardarabisk. Denne studien framhevar korleis nettbaserte settingar kan forme språklæringspraksisar, og gjere det lettare for studentar å føle seg komfortable og lære effektivt.
   </article>
   <article id="keywords-article-WKRJHPK4" class="keywords-article">
     <h1>Emneord</h1>
-    Translanguaging, Digital utdanning i arva språk, Arabisk språk, Språkpedagogikk, Lesekunnskapar
+    Translanguaging, Digital utdanning i arabiskspråkleg kulturarv, Arabisk språk, Språkpedagogikk, Translinguale ressursar
   </article>
   <article id="abstract-article-WKRJHPK4" class="abstract-article">
     <h1>Samandrag</h1>
-    Due to globalisation and migration, the Arabic-speaking population in Europe has rapidly increased over the past few decades. To maintain the Arabic language, children across Europe attend community-based heritage language education. With the development of new communication technologies, digital Arabic heritage language education is gaining popularity. Although previous research from community-based Arabic heritage language education in physical educational settings indicate that some translanguaging is taking place, little is known about how the digital setting of online Arabic heritage language teaching influences language practices and pedagogies. Hence, this article investigates the following research question: How does a heritage language teacher of Arabic use translanguaging as a pedagogy in digital heritage language education? To answer this question, a digital linguistic ethnography over 7 months was conducted, involving digital classroom observations, interviews with one teacher and five students and the collection of documents. Adopting a translinguistic perspective, the analysis shows how the teacher capitalised on students’ translingual resources to create a safe space, challenging language hierarchies and supporting the development of literacy skills in Modern Standard Arabic. Based on these findings, we discuss how the online teaching setting contributes to shaping the language practices of the digital classroom.
+    Due to globalisation and migration, the Arabic-speaking population in Europe has rapidly increased over the past few decades. To maintain the Arabic language, children across Europe attend community-based heritage language education. With the development of new communication technologies, digital Arabic heritage language education is gaining popularity. Although previous research from community-based Arabic heritage language education in physical educational settings indicate that some translanguaging is taking place, little is known about how the digital setting of online Arabic heritage language teaching influences language practices and pedagogies. Hence, this article investigates the following research question: How does a heritage language teacher of Arabic use translanguaging as a pedagogy in digital heritage language education? To answer this question, a digital linguistic ethnography over 7 months was conducted, involving digital classroom observations, interviews with one teacher and five students and the collection of documents. Adopting a translinguistic perspective, the analysis shows how the teacher capitalised on students’ translingual resources to create a safe space, challenging language hierarchies and supporting the development of literacy skills in Modern Standard Arabic. Based on these findings, we discuss how the online teaching setting contributes to shaping the language practices of the digital classroom.
   </article>
   <article id="contributors-article-WKRJHPK4" class="contributors-article">
     <h1>Medverkande</h1>
@@ -42,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

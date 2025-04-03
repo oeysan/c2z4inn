@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#keywords-article-7IYEUHM6" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-7IYEUHM6" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-7IYEUHM6" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://doi.org/10.1016/j.softx.2022.101221" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1016/j.softx.2022.101221" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7IYEUHM6"></div>
 </article>
@@ -38,7 +36,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

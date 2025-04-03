@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-DBK48E4C" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-DBK48E4C" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-DBK48E4C" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/02687038.2023.2200132?needAccess=true&amp;role=button" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/02687038.2023.2200132?needAccess=true&amp;role=button" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DBK48E4C"></div>
 </article>
@@ -61,13 +63,13 @@ The CAT-N is shown to have good reliability and validity, and it distinguishes w
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

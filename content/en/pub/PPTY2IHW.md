@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#about-article-PPTY2IHW" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-PPTY2IHW" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-PPTY2IHW" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://doi.org/10.18261/nost.8.5.2" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.18261/nost.8.5.2" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PPTY2IHW"></div>
 </article>
@@ -42,7 +40,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>233</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-RYYQC855" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-RYYQC855" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-RYYQC855" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://doi.org/10.1177/1103308816673496" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1177/1103308816673496" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RYYQC855"></div>
 </article>

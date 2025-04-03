@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#about-article-N2X3G6KR" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-N2X3G6KR" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-N2X3G6KR" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://www.mdpi.com/2076-3387/11/2/58/pdf?version=1623135769" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.mdpi.com/2076-3387/11/2/58/pdf?version=1623135769" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-N2X3G6KR"></div>
 </article>
@@ -42,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -21,11 +21,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-GVWACVHM" class="csl-bib-meta">
   <article id="about-article-GVWACVHM" class="about_pub-article">
     <h1>Om</h1>
-    Engelstad si bok gir eit detaljert innblikk i Noregs film-, TV- og spelindustri gjennom elleve utvalde artiklar. Ho utforskar korleis desse sektorane tilpassar seg teknologiske endringar og skiftande forbrukarvanar. Boka er delt inn i tre seksjonar, med fokus på produksjonsteknikkar, distribusjonsstrategiar, nye forteljingsmetodar og økonomiske utfordringar. Ved å kombinere teoretiske rammeverk med reelle studiar, avdekkjer ho korleis desse industriene utviklar seg kreativt og strategisk. Innsikta er avgjerande for å forstå deira aukande innverknad i både norske og globale kulturlandskap. Denne antologien er ein verdifull ressurs for forskarar, studentar og medieprofesjonelle, og framhevar rolla til små og mellomstore selskap i å drive innovasjon og kreativitet midt i ulike utfordringar.
+    Engelstad si bok, "På innsiden: Perspektiver på de norske film-, TV- og spill-bransjene," gir ei detaljert analyse av Noregs audiovisuelle industriar gjennom elleve utvalde artiklar. Delte inn i tre seksjonar, utforskar boka film-, TV- og spel-sektorane, med fokus på produksjonsteknikkar, distribusjonsstrategiar, nye forteljingsformer og økonomiske utfordringar. Boka kombinerer teoretiske rammeverk med reelle studiar for å vise korleis desse industriane tilpassar seg teknologiske endringar og skiftande forbrukaratferd. Ho framhevar den kreative utviklinga og den aukande betydninga av desse sektorane i både norske og internasjonale kulturlandskap. Denne omfattande ressursen er verdifull for forskarar, studentar og profesjonelle innan media og kommunikasjon, og gir innsikt i dei økonomiske, politiske, sosiale og miljømessige utfordringane som små og mellomstore bedrifter i industrien står overfor.
   </article>
   <article id="keywords-article-GVWACVHM" class="keywords-article">
     <h1>Emneord</h1>
-    Norsk audiovisuell industri, Film, TV, Spel, Produksjonsteknikkar, Distribusjonsstrategiar, Forteljingsformer, Økonomiske utfordringar
+    Norsk audiovisuell industri, Filmproduksjon, TV-produksjon, Videospelindustri, Teknologisk innovasjon, Forbrukaratferd, Kreativ utvikling
   </article>
   <article id="abstract-article-GVWACVHM" class="abstract-article">
     <h1>Samandrag</h1>
@@ -46,7 +46,7 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
@@ -62,9 +62,9 @@ Boken utforsker hvordan norske audiovisuelle bransjer håndterer de økonomiske,
     <ul>
       <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
       <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=8LKK3UQ6">2024</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=QKHA8KJT">November</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=HBGTLL6V">November</a></li>
     </ul>
   </article>
 </div>

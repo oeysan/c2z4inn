@@ -12,6 +12,8 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=2262844" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/ABEJMNHN" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-ABEJMNHN" alt="keywords" class="csl-bib-button">Emneord</a>
+    <a href="https://doi.org/10.1016/j.baae.2024.03.002" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1016/j.baae.2024.03.002" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ABEJMNHN"></div>
 </article>

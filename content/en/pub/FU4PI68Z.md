@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/FU4PI68Z" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-FU4PI68Z" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-FU4PI68Z" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2685975/4/Couturier%20et%20al..pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2685975/4/Couturier%20et%20al..pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-FU4PI68Z"></div>
 </article>

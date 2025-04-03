@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-7C7RIJB2" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-7C7RIJB2" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-7C7RIJB2" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s00265-020-2823-4.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s00265-020-2823-4.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7C7RIJB2"></div>
 </article>
@@ -43,13 +45,13 @@ wolverines selected for steep and rugged terrain in unproductive habitat types o
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

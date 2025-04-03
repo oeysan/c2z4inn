@@ -23,11 +23,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-IG83TIRA" class="csl-bib-meta">
   <article id="about-article-IG83TIRA" class="about_pub-article">
     <h1>Om</h1>
-    Smith et al. undersøkte korleis menneskeleg forstyrring påverkar dei daglege aktivitetsmønstra til ulvar og eurasisk gaupe i Europa. Dei nytta kameraovervaking for å følgje desse dyra frå 2014 til 2022 på ni stader med varierande nivå av menneskeleg aktivitet. Dei fann at ulvar har ein tendens til å vere meir aktive om dagen når menneskeleg forstyrring er låg, men skiftar til nattleg aktivitet når menneskeleg nærvær aukar. I motsetning til dette, held eurasisk gaupe seg konsekvent nattleg uavhengig av menneskeleg forstyrring, sannsynlegvis på grunn av jaktstrategien deira. Desse funna er viktige fordi dei viser korleis menneskeleg aktivitet kan endre åtferda til rovdyr, noko som potensielt kan påverke interaksjonane deira med byttedyr og den totale helsa til økosystemet. Å forstå desse mønstra kan hjelpe med å utvikle strategiar for betre samliv mellom menneske og store rovdyr.
+    Smith et al. studerte korleis menneskeleg forstyrring påverkar døgnrytmen til ulvar og eurasisk gaupe i Europa. Dei brukte kameraovervaking for å følgje desse dyra frå 2014 til 2022 på ni stader med varierande nivå av menneskeleg aktivitet. Dei fann at ulvar har ein tendens til å vere meir aktive om dagen når menneskeleg forstyrring er låg, men skiftar til nattleg aktivitet når menneskeleg nærvær aukar. Derimot held eurasisk gaupe seg konsekvent nattleg uavhengig av menneskeleg forstyrring. Denne forskjellen kjem sannsynlegvis av gaupa sin jaktstrategi, som er avhengig av å snike seg innpå og overrumple byttet. Å forstå desse åtferdsjusteringane er viktig fordi det kan påverke rovdyr-byttedyr-interaksjonar og hjelpe med å utvikle vernestrategiar som fremjar sameksistens mellom menneske og store rovdyr.
   </article>
   <article id="keywords-article-IG83TIRA" class="keywords-article">
     <h1>Emneord</h1>
-    Menneskeleg forstyrring, Store rovdyr, Ulvar, Eurasisk gaupe, Nattleg åtferd, Dagsaktivitet
+    Menneskeleg forstyrring, Store rovdyr, Ulvar, Eurasisk gaupe, Døgnaktivitet, Nattleg åtferd
   </article>
   <article id="abstract-article-IG83TIRA" class="abstract-article">
     <h1>Samandrag</h1>
@@ -38,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

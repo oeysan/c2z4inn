@@ -24,7 +24,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-SVA5X2GY" class="csl-bib-meta">
   <article id="about-article-SVA5X2GY" class="about_pub-article">
     <h1>About</h1>
-    Chernykh and Sattorova examined the lack of transparency in post-award settlements within investor-state dispute settlement (ISDS). ISDS is a system where investors can sue countries for alleged discriminatory practices. The authors found that after an award is given, the details of settlements between investors and states are often kept secret. This secrecy challenges the idea that ISDS awards are final and raises concerns about the legitimacy and accountability of the process. Their study suggests that more openness is needed to understand the full impact of these settlements on public policy. This research is important because it highlights the need for greater transparency to ensure fair and accountable practices in international disputes.
+    Chernykh and Sattorova examined the lack of transparency in post-award settlements within investor-state dispute settlement (ISDS). They found that after an ISDS award is given, the details of any subsequent agreements between investors and host states are often kept secret. This secrecy challenges the idea that ISDS awards are final and raises concerns about the legitimacy and accountability of the ISDS process. The authors argue that greater transparency in these post-award settlements is crucial because these agreements can have significant impacts on public policy. Their study highlights the need to rethink transparency goals to ensure openness and accountability in ISDS, which is important for maintaining trust in international dispute resolution systems.
   </article>
   <article id="keywords-article-SVA5X2GY" class="keywords-article">
     <h1>Keywords</h1>
@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

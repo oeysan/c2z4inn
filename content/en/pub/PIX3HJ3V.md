@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/PIX3HJ3V" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-PIX3HJ3V" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-PIX3HJ3V" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://doi.org/10.1016/j.jenvman.2023.119169" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1016/j.jenvman.2023.119169" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-PIX3HJ3V"></div>
 </article>

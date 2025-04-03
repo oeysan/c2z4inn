@@ -36,14 +36,14 @@ Antologien er skrevet for studenter, profesjonsutøvere, forskere og tenkere i b
   </article>
   <article id="contributors-article-2MCKSLJ5" class="contributors-article">
     <h1>Medverkande</h1>
-    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Kari Lerbak</h1> <h2>Høgskolelektor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:kari.lerbak@inn.no">kari.lerbak@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762597995"> +47 62 59 79 95 </a></dd> </dl> <p> Fakultet for lærerutdanning og pedagogikk<br> Institutt for pedagogikk ved lærerutdanningene<br> Studiested Hamar, Rom 2P225 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.796004,11.072099">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/kari-lerbak.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/kari-lerbak.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=1146334" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
+    <div class="personas"> <div class="vrtx-hinn-person-card"> <div class="photo"> <i class="lar la-user-circle missing-person"></i> </div> <div class="info"> <hgroup><h1>Kari Lerbak</h1> <h2>Universitetslektor</h2> </hgroup><dl> <dt>E-post</dt> <dd> <a href="mailto:kari.lerbak@inn.no">kari.lerbak@inn.no</a> </dd> <dt>Telefonnummer</dt> <dd><a href="tel:+4762597995"> +47 62 59 79 95 </a></dd> </dl> <p> Fakultet for lærerutdanning og pedagogikk<br> Institutt for pedagogikk ved lærerutdanningene<br> Studiested Hamar, Rom 2P225 </p> <ul class="vrtx-hinn-links"> <li><a href="https://www.google.com/maps?q=60.796004,11.072099">Vis i kart</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/kari-lerbak.html#vrtx-hinn-addresses">Se adresser</a></li> <li><a href="https://www.inn.no/finn-en-ansatt/kari-lerbak.html?vrtx=vcf">Last ned visittkort</a></li> </ul> </div> </div> <a href="https://app.cristin.no/persons/show.jsf?id=1146334" alt="Cristin URL" class="personas-cristin">Cristin</a> </div>
   </article>
   <article id="sdg-article-2MCKSLJ5" class="sdg-article">
     <h1>Berekraftsmål</h1>
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

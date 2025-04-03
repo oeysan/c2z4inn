@@ -6,7 +6,7 @@ encoding: UTF-8
 ---
 <h1>Publication</h1>
 <article id="csl-bib-container-8BPH8CPM" class="csl-bib-container">
-  <div class="csl-bib-body"> <div class="csl-entry">Millei, Z., Gawlicz, K., Hopkins, L., Andersen, C. E., &#38; Ladru, D. E. (2025). Nation, nature and childhood in five curricula: towards Earthly education. <i>Critical Studies in Education</i>, <i>66</i>(2). <a href="https://doi.org/10.1080/17508487.2025.2467939">https://doi.org/10.1080/17508487.2025.2467939</a></div> </div>
+  <div class="csl-bib-body"> <div class="csl-entry">Millei, Z., Gawlicz, K., Hopkins, L., Andersen, C. E., &#38; Ladru, D. E. (2025). Nation, nature and childhood in five curricula: towards Earthly education. <i>Critical Studies in Education</i>, <i>66</i>(2), 1. <a href="https://doi.org/10.1080/17508487.2025.2467939">https://doi.org/10.1080/17508487.2025.2467939</a></div> </div>
   <div class="csl-bib-buttons">
     <a href="#taxonomy-article-8BPH8CPM" alt="archive" class="csl-bib-button">Archive</a>
     <a href="https://app.cristin.no/results/show.jsf?id=2311368" alt="Cristin" class="csl-bib-button">Cristin</a>
@@ -15,15 +15,13 @@ encoding: UTF-8
     <a href="#about-article-8BPH8CPM" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-8BPH8CPM" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-8BPH8CPM" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://doi.org/10.1080/17508487.2025.2467939" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1080/17508487.2025.2467939" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-8BPH8CPM"></div>
 </article>
 <div id="csl-bib-meta-8BPH8CPM" class="csl-bib-meta">
   <article id="about-article-8BPH8CPM" class="about_pub-article">
     <h1>About</h1>
-    Millei et al. examined how early childhood education curricula in Nordic, post-socialist, and settler-colonial states address the relationship between nation, nature, and childhood, especially in the context of the climate crisis. They identified three main themes: learning about national nature, connecting nature with home or birth land, and promoting stewardship of national nature. The authors argue that these traditional views are outdated and suggest that education should focus on understanding the Earth as a living ecosystem that sustains life. This shift is crucial for fostering a more sustainable and respectful relationship between children and the environment, which is essential for addressing current and future ecological challenges.
+    Millei et al. examined how early childhood education curricula in Nordic, post-socialist, and settler-colonial countries address the relationship between nation, nature, and childhood, especially in light of the climate crisis. They found three main themes: learning about national nature, connecting nature with home or birth land, and promoting stewardship of national nature. The authors argue that these traditional views are outdated and suggest that education should focus on understanding the Earth as a living ecosystem that supports all life. This shift is important because it encourages children to develop a deeper, more sustainable connection with the environment, which is crucial for addressing current and future ecological challenges.
   </article>
   <article id="keywords-article-8BPH8CPM" class="keywords-article">
     <h1>Keywords</h1>
@@ -42,13 +40,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_en.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal13" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

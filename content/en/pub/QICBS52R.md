@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/QICBS52R" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-QICBS52R" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-QICBS52R" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://sihf.brage.unit.no/sihf-xmlui/bitstream/11250/2635294/1/H%25C3%25A5kanssonetal2018_%2bCHILD%2bABUSE%2bAND%2bNEGLECT.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://sihf.brage.unit.no/sihf-xmlui/bitstream/11250/2635294/1/H%25C3%25A5kanssonetal2018_%2bCHILD%2bABUSE%2bAND%2bNEGLECT.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-QICBS52R"></div>
 </article>

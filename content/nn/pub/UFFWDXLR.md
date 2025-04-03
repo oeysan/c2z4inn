@@ -16,8 +16,6 @@ encoding: UTF-8
     <a href="#about-article-UFFWDXLR" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-UFFWDXLR" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-UFFWDXLR" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://www.mdpi.com/2311-5637/8/2/79/pdf?version=1645178476" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.mdpi.com/2311-5637/8/2/79/pdf?version=1645178476" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UFFWDXLR"></div>
 </article>

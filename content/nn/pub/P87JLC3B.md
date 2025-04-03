@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#about-article-P87JLC3B" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-P87JLC3B" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-P87JLC3B" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://bells.uib.no/index.php/bells/article/download/1521/1304" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://bells.uib.no/index.php/bells/article/download/1521/1304" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-P87JLC3B"></div>
 </article>
@@ -40,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

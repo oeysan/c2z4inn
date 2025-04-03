@@ -12,6 +12,8 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1485733" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/JNW8T3LL" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-JNW8T3LL" alt="keywords" class="csl-bib-button">Keywords</a>
+    <a href="https://www.zora.uzh.ch/id/eprint/147996/1/MeinardEtAlEcolEcon_accMS.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.zora.uzh.ch/id/eprint/147996/1/MeinardEtAlEcolEcon_accMS.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JNW8T3LL"></div>
 </article>

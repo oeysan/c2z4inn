@@ -12,8 +12,6 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1645404" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/WI8LXZ6R" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-WI8LXZ6R" alt="keywords" class="csl-bib-button">Emneord</a>
-    <a href="https://www.idunn.no/file/pdf/67087448/hr-2017-2064-a_kjaerestejuss_eiendomsrett_og_hendelege_eig.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.idunn.no/file/pdf/67087448/hr-2017-2064-a_kjaerestejuss_eiendomsrett_og_hendelege_eig.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-WI8LXZ6R"></div>
 </article>

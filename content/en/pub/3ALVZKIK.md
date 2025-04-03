@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#about-article-3ALVZKIK" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-3ALVZKIK" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-3ALVZKIK" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://journals.sagepub.com/doi/pdf/10.1177/14687941211005947" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://journals.sagepub.com/doi/pdf/10.1177/14687941211005947" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-3ALVZKIK"></div>
 </article>
@@ -51,7 +49,7 @@ interfaces vary
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/EVLNNQPI" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-EVLNNQPI" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-EVLNNQPI" alt="contributors" class="csl-bib-button">Medverkande</a>
-    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17460263.2024.2355462?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17460263.2024.2355462?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-EVLNNQPI"></div>
 </article>

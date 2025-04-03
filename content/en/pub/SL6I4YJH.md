@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-SL6I4YJH" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-SL6I4YJH" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-SL6I4YJH" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2828405/1/Beta-1-2020-02-Haukaasen%2b%2528002%2529.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2828405/1/Beta-1-2020-02-Haukaasen%2b%2528002%2529.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SL6I4YJH"></div>
 </article>
@@ -36,13 +38,13 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg09_en.png" class="image" alt="SDG 9">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=9#archive" class="sdg-publication-count"><span>257</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal9" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

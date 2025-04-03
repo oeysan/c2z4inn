@@ -14,6 +14,8 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/LRFCP88V" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-LRFCP88V" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-LRFCP88V" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.gecco.2019.e00536" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1016/j.gecco.2019.e00536" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LRFCP88V"></div>
 </article>

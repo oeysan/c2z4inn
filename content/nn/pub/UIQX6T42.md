@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/UIQX6T42" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-UIQX6T42" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-UIQX6T42" alt="contributors" class="csl-bib-button">Medverkande</a>
-    <a href="https://doi.org/10.1080/00313831.2024.2419076" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1080/00313831.2024.2419076" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-UIQX6T42"></div>
 </article>

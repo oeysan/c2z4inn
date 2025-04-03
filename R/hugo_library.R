@@ -32,7 +32,7 @@ RenderSave(
   remove.blank = FALSE
 )
 
-commit.name <- "0.2.2-250401"
+commit.name <- "0.2.3-250401"
 branch.name <- "main"
 
 init <- system("git init")
@@ -42,10 +42,3 @@ add.files <- system("git add .")
 commit.files <- system(sprintf("git commit -m \"%s\"", commit.name))
 branch <- system(sprintf("git branch -M %s", branch.name))
 push <- system(sprintf("git push -u origin %s", branch.name))
-
-
-system('git config --local user.name "Øystein Olav Skaar"')
-system('git config --local user.email "oeysan@gmail.com"')
-system("git config --list --show-origin")
-system("git config user.name")
-system("git config user.email")

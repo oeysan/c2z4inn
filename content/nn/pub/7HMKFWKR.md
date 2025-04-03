@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-7HMKFWKR" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-7HMKFWKR" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-7HMKFWKR" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://dash.harvard.edu/bitstream/1/14531754/3/Jost%2c%20Chaikalis%2c%20Abrams%2c%20Sidanius%2c%20Van%20der%20Toorn%2c%20%26%20Bratt%20%282012%2c%20Harvard%20OSC%29.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://dash.harvard.edu/bitstream/1/14531754/3/Jost%2c%20Chaikalis%2c%20Abrams%2c%20Sidanius%2c%20Van%20der%20Toorn%2c%20%26%20Bratt%20%282012%2c%20Harvard%20OSC%29.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-7HMKFWKR"></div>
 </article>
@@ -41,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/S7U9VGPC" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-S7U9VGPC" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-S7U9VGPC" alt="contributors" class="csl-bib-button">Medverkande</a>
-    <a href="https://www.idunn.no/file/pdf/67029409/boken_som_mangler_ord_som_gaar_paa_tomgang_og_sykt_flinke_je.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.idunn.no/file/pdf/67029409/boken_som_mangler_ord_som_gaar_paa_tomgang_og_sykt_flinke_je.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S7U9VGPC"></div>
 </article>

@@ -16,8 +16,6 @@ encoding: UTF-8
     <a href="#about-article-V3FWHE98" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-V3FWHE98" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-V3FWHE98" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://doi.org/10.1016/j.dendro.2023.126099" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1016/j.dendro.2023.126099" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-V3FWHE98"></div>
 </article>
@@ -43,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -13,6 +13,8 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/XKZNTUF2" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-XKZNTUF2" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-XKZNTUF2" alt="contributors" class="csl-bib-button">Medverkande</a>
+    <a href="http://www.doiserbia.nb.rs/ft.aspx?id=0042-84502300055D" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="http://www.doiserbia.nb.rs/ft.aspx?id=0042-84502300055D" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-XKZNTUF2"></div>
 </article>

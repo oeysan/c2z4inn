@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/BQMKED8P" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-BQMKED8P" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-BQMKED8P" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://www.tandfonline.com/doi/pdf/10.1080/01434632.2024.2334745?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.tandfonline.com/doi/pdf/10.1080/01434632.2024.2334745?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BQMKED8P"></div>
 </article>

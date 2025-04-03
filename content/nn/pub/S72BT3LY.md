@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-S72BT3LY" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-S72BT3LY" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-S72BT3LY" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5B4B9D18F0F3F8162F059C2AA2C74EA3/S0924270821000119a.pdf/div-class-title-persistent-level-of-mental-distress-in-ptsd-patients-is-not-reflected-in-cytokine-levels-1-year-after-the-treatment-div.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5B4B9D18F0F3F8162F059C2AA2C74EA3/S0924270821000119a.pdf/div-class-title-persistent-level-of-mental-distress-in-ptsd-patients-is-not-reflected-in-cytokine-levels-1-year-after-the-treatment-div.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-S72BT3LY"></div>
 </article>
@@ -57,7 +59,7 @@ the PTSD and non-PTSD patients did not differ regarding levels of circulating in
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-IHDQCNI3" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-IHDQCNI3" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-IHDQCNI3" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/97118/1/Association%2bof%2bdaily%2bhassles%252C%2bdaily%2buplifts%252C%2bcoping%2bstyles%2band%2bstress-related%2bsymptoms%2bamong%2bwomen%2bexposed%2bto%2bsexual%2babuse%25E2%2580%2594A%2bcross-sectional%2bstudy.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.duo.uio.no/bitstream/10852/97118/1/Association%2bof%2bdaily%2bhassles%252C%2bdaily%2buplifts%252C%2bcoping%2bstyles%2band%2bstress-related%2bsymptoms%2bamong%2bwomen%2bexposed%2bto%2bsexual%2babuse%25E2%2580%2594A%2bcross-sectional%2bstudy.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-IHDQCNI3"></div>
 </article>
@@ -51,7 +53,7 @@ Keywords: coping styles; cross-sectional; daily hassles; daily uplifts; sexual a
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg5" class="sdg">

@@ -15,19 +15,17 @@ encoding: UTF-8
     <a href="#about-article-MQE7BRXR" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-MQE7BRXR" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-MQE7BRXR" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://academic.oup.com/jiel/advance-article-pdf/doi/10.1093/jiel/jgae004/56675250/jgae004.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://academic.oup.com/jiel/advance-article-pdf/doi/10.1093/jiel/jgae004/56675250/jgae004.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-MQE7BRXR"></div>
 </article>
 <div id="csl-bib-meta-MQE7BRXR" class="csl-bib-meta">
   <article id="about-article-MQE7BRXR" class="about_pub-article">
     <h1>About</h1>
-    Strain et al. have created a new dataset to study how countries comply with decisions made in international investment disputes. This dataset is the first of its kind to focus on what happens after these decisions are made, providing valuable information for future research. The authors explain how they collected the data, the challenges they faced, and the choices they made in selecting what information to include. They also describe the dataset and discuss how it can be used to understand compliance better. By examining various cases, they highlight the difficulties in gathering and coding data on what happens after awards are given. This research is important because it helps us understand if and how countries follow through on international investment decisions.
+    Strain et al. have created a new dataset to study how countries comply with investor-state arbitral awards, which are decisions made in disputes between investors and states. This dataset is the first of its kind to focus on what happens after these awards are issued, providing valuable information for future research. The authors explain how they collected the data, the difficulties they faced, and the choices they made in selecting what information to include. They also describe the dataset and discuss how it can be used to understand compliance better. This research is important because it helps us see if and how countries follow through on these decisions, which can impact international investment and economic relations.
   </article>
   <article id="keywords-article-MQE7BRXR" class="keywords-article">
     <h1>Keywords</h1>
-    Compliance, Investor-State Arbitral Awards, International Investment Regime, Compensation Awards, Data Collection
+    Compliance, Investor-State Arbitral Awards, International Investment Regime, Data Collection, Post-Award Processes
   </article>
   <article id="abstract-article-MQE7BRXR" class="abstract-article">
     <h1>Scientific abstract</h1>
@@ -51,13 +49,13 @@ and coding data on post-award processes and we explore what missing data can tel
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_en.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal8" class="sdg-read-more">Read More</a></p>
         </div>
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#about-article-L2RU7TAL" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-L2RU7TAL" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-L2RU7TAL" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2077-0472/10/8/340/pdf?version=1597911833" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.mdpi.com/2077-0472/10/8/340/pdf?version=1597911833" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-L2RU7TAL"></div>
 </article>
@@ -40,7 +42,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>131</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2#archive" class="sdg-publication-count"><span>132</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

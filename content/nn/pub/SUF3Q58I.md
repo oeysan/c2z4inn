@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-SUF3Q58I" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-SUF3Q58I" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-SUF3Q58I" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.mdpi.com/2076-0760/9/12/236/pdf?version=1608603938" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.mdpi.com/2076-0760/9/12/236/pdf?version=1608603938" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SUF3Q58I"></div>
 </article>

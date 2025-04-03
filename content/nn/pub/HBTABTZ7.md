@@ -12,8 +12,6 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=1914017" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/HBTABTZ7" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-HBTABTZ7" alt="keywords" class="csl-bib-button">Emneord</a>
-    <a href="https://www.future-science.com/doi/pdf/10.2144/btn-2019-0162" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.future-science.com/doi/pdf/10.2144/btn-2019-0162" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HBTABTZ7"></div>
 </article>

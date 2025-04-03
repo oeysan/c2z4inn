@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/ESG7B5NB" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-ESG7B5NB" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-ESG7B5NB" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://link.springer.com/content/pdf/10.1007/s11103-021-01152-w.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://link.springer.com/content/pdf/10.1007/s11103-021-01152-w.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-ESG7B5NB"></div>
 </article>

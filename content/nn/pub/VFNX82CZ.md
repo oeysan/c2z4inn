@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-VFNX82CZ" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-VFNX82CZ" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-VFNX82CZ" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13703" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.13703" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VFNX82CZ"></div>
 </article>
@@ -36,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>257</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13#archive" class="sdg-publication-count"><span>260</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg14" class="sdg">

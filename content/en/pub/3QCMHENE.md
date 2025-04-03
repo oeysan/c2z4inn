@@ -15,15 +15,13 @@ encoding: UTF-8
     <a href="#keywords-article-3QCMHENE" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-3QCMHENE" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-3QCMHENE" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://doi.org/10.23865/ntpk.v11.6440" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.23865/ntpk.v11.6440" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-3QCMHENE"></div>
 </article>
 <div id="csl-bib-meta-3QCMHENE" class="csl-bib-meta">
   <article id="about-article-3QCMHENE" class="about_pub-article">
     <h1>About</h1>
-    Benediktsson conducted a study examining how Norwegian student teachers handle multicultural education in compulsory schools. By interviewing twelve student teachers, the study explored how they adapt their teaching methods to include students' diverse cultural and linguistic backgrounds. The research found that while these teachers understand the importance of embracing diversity, they often struggle to put their ideas into practice due to insufficient support and guidance. This gap between theory and practice highlights challenges in addressing complex issues like power, inequality, and social justice in education. The study underscores the need for better resources and training to help teachers effectively integrate multicultural education into their classrooms, which is crucial for fostering inclusive and equitable learning environments.
+    Benediktsson conducted a study analyzing interviews with twelve Norwegian student teachers to understand their experiences with multicultural education in compulsory schools. The study found that while these student teachers recognize the importance of incorporating children's diverse cultural and linguistic backgrounds into their teaching, they often struggle to put these ideas into practice. This difficulty is mainly due to a lack of support and guidance on how to address complex issues like power, inequality, and social justice. The findings highlight the gap between the teachers' theoretical understanding of multicultural education and the practical challenges they face in real classroom settings. This research underscores the need for better support systems to help teachers effectively manage and embrace cultural diversity in schools.
   </article>
   <article id="keywords-article-3QCMHENE" class="keywords-article">
     <h1>Keywords</h1>
@@ -38,7 +36,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

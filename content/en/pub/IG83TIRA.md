@@ -23,11 +23,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-IG83TIRA" class="csl-bib-meta">
   <article id="about-article-IG83TIRA" class="about_pub-article">
     <h1>About</h1>
-    Smith et al. studied how human disturbance affects the daily activity patterns of wolves and Eurasian lynx in Europe. They used camera traps to monitor these animals from 2014 to 2022 across nine sites with varying levels of human activity. They found that wolves tend to be more active during the day when human disturbance is low but switch to nighttime activity as human presence increases. In contrast, Eurasian lynx consistently remained nocturnal regardless of human disturbance, likely due to their hunting strategy. These findings are important because they show how human activity can alter predator behaviors, potentially affecting their interactions with prey and overall ecosystem health. Understanding these patterns can help in developing strategies for better coexistence between humans and large carnivores.
+    Smith et al. studied how human disturbance affects the daily activity patterns of wolves and Eurasian lynx in Europe. They used camera traps to monitor these animals from 2014 to 2022 across nine sites with varying levels of human activity. They found that wolves tend to be more active during the day when human disturbance is low but switch to nighttime activity as human presence increases. In contrast, Eurasian lynx consistently remained nocturnal regardless of human disturbance. This difference is likely due to the lynx's hunting strategy, which relies on stalking and ambushing prey. Understanding these behavioral adjustments is important because it can affect predator-prey interactions and help in developing conservation strategies that promote coexistence between humans and large carnivores.
   </article>
   <article id="keywords-article-IG83TIRA" class="keywords-article">
     <h1>Keywords</h1>
-    Human Disturbance, Large Carnivores, Wolves, Eurasian Lynx, Nocturnal Behavior, Diurnal Activity
+    Human Disturbance, Large Carnivores, Wolves, Eurasian Lynx, Diurnal Activity, Nocturnal Behaviour
   </article>
   <article id="abstract-article-IG83TIRA" class="abstract-article">
     <h1>Scientific abstract</h1>
@@ -38,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

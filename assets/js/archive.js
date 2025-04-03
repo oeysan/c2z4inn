@@ -364,9 +364,12 @@ function initializeArchivePage() {
                 (!selectedMonth || item.month == selectedMonth) &&
                 (!selectedType || item.type === selectedType) &&
                 (!selectedCollection || item.collections?.includes(selectedCollection)) &&
-                (!selectedSDG || (Array.isArray(item.sdg) && item.sdg.some(val => val == selectedSDG))) &&
+                (!selectedSDG || (Array.isArray(item.sdg)
+                    ? item.sdg.some(val => val == selectedSDG)
+                    : item.sdg == selectedSDG)) &&
                 (!urlKeyFilter || item.key === urlKeyFilter || (item.collections && item.collections.includes(urlKeyFilter)))
             );
+            
         });
     
         currentPage = 1;

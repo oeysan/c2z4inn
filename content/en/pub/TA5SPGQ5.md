@@ -13,6 +13,8 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/TA5SPGQ5" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-TA5SPGQ5" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-TA5SPGQ5" alt="contributors" class="csl-bib-button">Contributors</a>
+    <a href="https://doi.org/10.1016/j.techfore.2022.121585" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://doi.org/10.1016/j.techfore.2022.121585" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-TA5SPGQ5"></div>
 </article>

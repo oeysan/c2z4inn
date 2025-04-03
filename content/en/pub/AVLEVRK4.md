@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="#keywords-article-AVLEVRK4" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-AVLEVRK4" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-AVLEVRK4" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://link.springer.com/content/pdf/10.1007/s11572-021-09585-6.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://link.springer.com/content/pdf/10.1007/s11572-021-09585-6.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-AVLEVRK4"></div>
 </article>

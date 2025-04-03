@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/KJUFKJHY" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-KJUFKJHY" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#contributors-article-KJUFKJHY" alt="contributors" class="csl-bib-button">Medverkande</a>
-    <a href="https://doi.org/10.1016/j.biocon.2020.108752" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1016/j.biocon.2020.108752" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-KJUFKJHY"></div>
 </article>

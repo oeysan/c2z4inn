@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-D4FYU3PC" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-D4FYU3PC" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-D4FYU3PC" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0179519&amp;type=printable" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0179519&amp;type=printable" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-D4FYU3PC"></div>
 </article>

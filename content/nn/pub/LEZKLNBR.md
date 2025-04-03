@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-LEZKLNBR" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-LEZKLNBR" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-LEZKLNBR" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ski2.294" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ski2.294" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-LEZKLNBR"></div>
 </article>
@@ -69,7 +71,7 @@ depression, anxiety, and alcohol use compared with the general population.
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

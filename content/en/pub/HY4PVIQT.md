@@ -16,8 +16,6 @@ encoding: UTF-8
     <a href="#about-article-HY4PVIQT" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-HY4PVIQT" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HY4PVIQT" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
-    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2591697/4/Testing%20framework%20for%20investigating%20learning%20outcome%20from%20quiz%20game.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://brage.inn.no/inn-xmlui/bitstream/11250/2591697/4/Testing%20framework%20for%20investigating%20learning%20outcome%20from%20quiz%20game.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HY4PVIQT"></div>
 </article>
@@ -43,7 +41,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -14,6 +14,8 @@ encoding: UTF-8
     <a href="#keywords-article-JLSXT2YJ" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-JLSXT2YJ" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-JLSXT2YJ" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14775085.2020.1715828?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14775085.2020.1715828?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JLSXT2YJ"></div>
 </article>
@@ -43,7 +45,7 @@ Vasaloppet
     <div class="sdg-container"><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11#archive" class="sdg-publication-count"><span>233</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

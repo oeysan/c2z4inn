@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/NZMNYZ5L" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-NZMNYZ5L" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-NZMNYZ5L" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="http://sjms.nu/articles/10.31374/sjms.119/galley/176/download/" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="http://sjms.nu/articles/10.31374/sjms.119/galley/176/download/" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-NZMNYZ5L"></div>
 </article>

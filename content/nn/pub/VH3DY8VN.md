@@ -16,8 +16,6 @@ encoding: UTF-8
     <a href="#about-article-VH3DY8VN" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-VH3DY8VN" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-VH3DY8VN" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://doi.org/10.1108/ijqss-02-2017-0012" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1108/ijqss-02-2017-0012" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-VH3DY8VN"></div>
 </article>
@@ -57,7 +55,7 @@ To the best of the authors’ knowledge, no previous study has focused on authen
     <div class="sdg-container"><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>461</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8#archive" class="sdg-publication-count"><span>463</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div> <div id="sdg9" class="sdg">

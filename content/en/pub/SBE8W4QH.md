@@ -15,6 +15,8 @@ encoding: UTF-8
     <a href="#keywords-article-SBE8W4QH" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#about-article-SBE8W4QH" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#sdg-article-SBE8W4QH" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0248089&amp;type=printable" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0248089&amp;type=printable" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-SBE8W4QH"></div>
 </article>
@@ -36,7 +38,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>538</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15#archive" class="sdg-publication-count"><span>544</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>

@@ -20,11 +20,11 @@ encoding: UTF-8
 <div id="csl-bib-meta-BZ62UYXC" class="csl-bib-meta">
   <article id="about-article-BZ62UYXC" class="about_pub-article">
     <h1>Om</h1>
-    Helseth utforskar korleis overgangen frå stumfilm til lydfilm på slutten av 1920-talet påverka bruken av musikk i tidlege dokumentarfilmar. I starten var levande musikalsk akkompagnement vanleg, men etter kvart som lydteknologien vart betre, vart den menneskelege røysta meir framståande. På byrjinga av 1930-talet byrja konvensjonar for filmmusikk å ta form. I motsetning til klassisk narrativ kino, som strevar etter ein saumlaus forteljarstil, hadde dokumentarfilmar frå 1930-talet ofte merkbar, intensjonell musikk som var meint å bli høyrd. Helseth undersøkjer kvifor dette skjedde, ved å bruke døme frå komponistane Hanns Eisler, Benjamin Britten og Virgil Thomson. Denne studien hjelper oss å forstå utviklinga av filmmusikk og dens innverknad på korleis dokumentarfilmar vart opplevde av publikum.
+    Helseth utforskar korleis overgangen frå stumfilm til lydfilm på slutten av 1920-talet påverka bruken av musikk i tidlege dokumentarfilmar. I starten var levande musikalsk akkompagnement vanleg, men etter kvart som lydteknologien vart betre, vart den menneskelege røysta meir framtredande i filmlydspor. På byrjinga av 1930-talet byrja filmmusikkonvensjonar å ta form, med mål om å vere mindre merkbare i narrativ kino. Dokumentarfilmar frå denne perioden hadde derimot ofte musikk som var meint å bli høyrd og lagt merke til. Helseth undersøkjer kvifor dette skjedde, ved å bruke døme frå komponistane Hanns Eisler, Benjamin Britten og Virgil Thomson. Å forstå desse endringane hjelper oss å verdsetje utviklinga av filmmusikk og dens påverknad på korleis historier blir fortalde i filmar.
   </article>
   <article id="keywords-article-BZ62UYXC" class="keywords-article">
     <h1>Emneord</h1>
-    Tidleg dokumentarfilm, filmmusikk, lydovergang, narrativ stil, Hanns Eisler, Benjamin Britten, Virgil Thomson
+    Tidleg dokumentarfilm, Filmmusikk, Lydovergang, Forteljingsstil, Hanns Eisler, Benjamin Britten, Virgil Thomson
   </article>
   <article id="abstract-article-BZ62UYXC" class="abstract-article">
     <h1>Samandrag</h1>
@@ -39,9 +39,9 @@ encoding: UTF-8
     <ul>
       <li><a href="{{< params subfolder >}}nn/archive/?key=3DCRN523">Universitetet i Innlandet</a></li>
       <li><a href="{{< params subfolder >}}nn/archive/?key=8XUDF4FD">Fakultet for audiovisuelle medier og kreativ teknologi</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=GP9PM6PG">Faggruppe for Film og fjernsynsvitenskap</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=8LKK3UQ6">2024</a></li>
-      <li><a href="{{< params subfolder >}}nn/archive/?key=DENU8UDX">Juni</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6SLLPJYF">Institutt for TV-utdanninger – TV-skolen</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=UPPG4C39">2024</a></li>
+      <li><a href="{{< params subfolder >}}nn/archive/?key=6VN4KCRU">Juni</a></li>
     </ul>
   </article>
 </div>

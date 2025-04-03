@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/H5FV74UG" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-H5FV74UG" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-H5FV74UG" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://www.cell.com/article/S240584401935683X/pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.cell.com/article/S240584401935683X/pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-H5FV74UG"></div>
 </article>

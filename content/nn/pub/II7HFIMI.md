@@ -24,7 +24,7 @@ encoding: UTF-8
 <div id="csl-bib-meta-II7HFIMI" class="csl-bib-meta">
   <article id="about-article-II7HFIMI" class="about_pub-article">
     <h1>Om</h1>
-    Tannoubi et al. gjennomførte ein studie for å utforske korleis ulike typar engasjement—emosjonelt, kognitivt og åtferdsmessig—påverkar akademisk suksess blant kroppsøvings- og idrettsstudentar ved universitetet. Dei undersøkte 488 studentar, i alderen 19 til 25 år, om deira engasjementsnivå, studiemetodar og karakterar. Studien fann at studentar som var meir engasjerte emosjonelt, kognitivt og åtferdsmessig hadde tendens til å ha høgare karakterar. Emosjonelt engasjement, spesielt, påverka karakterane positivt gjennom sin effekt på studietilnærmingar. Denne forskinga antyder at ved å fremje desse typane engasjement, kan lærarar hjelpe studentar med å forbetre deira akademiske prestasjonar. Å forstå desse samanhengane kan veilede lærarar i å støtte studentar til å ta i bruk effektive studiemetodar, som til slutt vil auke deira suksess i kroppsøvings- og idrettsprogram.
+    Tannoubi et al. gjennomførte ein studie for å forstå korleis ulike typar engasjement—emosjonelt, kognitivt og åtferdsmessig—påverkar akademisk suksess blant kroppsøvings- og idrettsstudentar ved universitetet. Dei undersøkte 488 studentar og analyserte nivået av engasjement, studiemetodar og karaktergjennomsnitt (GPA). Funna viste at høgare GPA var knytt til betre åtferdsmessig og kognitivt engasjement, samt effektive studietilnærmingar. Emosjonelt engasjement påverka også GPA positivt, hovudsakleg gjennom sin innverknad på studiemetodar. Denne forskinga framhevar kor viktig det er å fremje alle typar engasjement for å forbetre akademisk prestasjon. Lærarar kan bruke desse innsiktene til å betre støtte studentar i å oppnå høgare karakterar ved å oppmuntre til aktiv og emosjonell involvering i studiane.
   </article>
   <article id="keywords-article-II7HFIMI" class="keywords-article">
     <h1>Emneord</h1>
@@ -43,7 +43,7 @@ encoding: UTF-8
     <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1352</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4#archive" class="sdg-publication-count"><span>1363</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

@@ -12,8 +12,6 @@ encoding: UTF-8
     <a href="https://app.cristin.no/results/show.jsf?id=2289447" alt="Cristin" class="csl-bib-button">Cristin</a>
     <a href="http://zotero.org/groups/5881554/items/DRB4SS73" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-DRB4SS73" alt="keywords" class="csl-bib-button">Emneord</a>
-    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17430437.2024.2380452?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.tandfonline.com/doi/pdf/10.1080/17430437.2024.2380452?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-DRB4SS73"></div>
 </article>

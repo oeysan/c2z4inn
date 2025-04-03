@@ -14,6 +14,8 @@ encoding: UTF-8
     <a href="#keywords-article-JLSXT2YJ" alt="keywords" class="csl-bib-button">Emneord</a>
     <a href="#about-article-JLSXT2YJ" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#sdg-article-JLSXT2YJ" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14775085.2020.1715828?needAccess=true" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://www.tandfonline.com/doi/pdf/10.1080/14775085.2020.1715828?needAccess=true" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-JLSXT2YJ"></div>
 </article>
@@ -43,7 +45,7 @@ Vasaloppet
     <div class="sdg-container"><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>232</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11#archive" class="sdg-publication-count"><span>233</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

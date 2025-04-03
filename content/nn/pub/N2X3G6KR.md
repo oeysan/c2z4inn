@@ -15,8 +15,6 @@ encoding: UTF-8
     <a href="#about-article-N2X3G6KR" alt="about_pub" class="csl-bib-button">Om</a>
     <a href="#contributors-article-N2X3G6KR" alt="contributors" class="csl-bib-button">Medverkande</a>
     <a href="#sdg-article-N2X3G6KR" alt="sdg" class="csl-bib-button">Berekraftsmål</a>
-    <a href="https://www.mdpi.com/2076-3387/11/2/58/pdf?version=1623135769" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://www.mdpi.com/2076-3387/11/2/58/pdf?version=1623135769" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-N2X3G6KR"></div>
 </article>
@@ -48,7 +46,7 @@ encoding: UTF-8
       </div> <div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>479</span> publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16#archive" class="sdg-publication-count"><span>483</span> publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>

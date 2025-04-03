@@ -14,8 +14,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/BFNX3ZZT" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-BFNX3ZZT" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-BFNX3ZZT" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://doi.org/10.1016/j.exis.2019.04.004" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.1016/j.exis.2019.04.004" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-BFNX3ZZT"></div>
 </article>

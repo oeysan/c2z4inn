@@ -13,8 +13,6 @@ encoding: UTF-8
     <a href="http://zotero.org/groups/5881554/items/RU5HI5VS" alt="Zotero" class="csl-bib-button">Zotero</a>
     <a href="#keywords-article-RU5HI5VS" alt="keywords" class="csl-bib-button">Keywords</a>
     <a href="#contributors-article-RU5HI5VS" alt="contributors" class="csl-bib-button">Contributors</a>
-    <a href="https://doi.org/10.18261/issn.1504-3061-2021-01-06" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
-    <a href="https://doi.org/10.18261/issn.1504-3061-2021-01-06" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-RU5HI5VS"></div>
 </article>

@@ -16,6 +16,8 @@ encoding: UTF-8
     <a href="#about-article-HVTRQBR5" alt="about_pub" class="csl-bib-button">About</a>
     <a href="#contributors-article-HVTRQBR5" alt="contributors" class="csl-bib-button">Contributors</a>
     <a href="#sdg-article-HVTRQBR5" alt="sdg" class="csl-bib-button">Sustainable Development Goals</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s00421-020-04381-x.pdf" alt="Unpaywall" class="csl-bib-button">Unpaywall</a>
+    <a href="https://link.springer.com/content/pdf/10.1007/s00421-020-04381-x.pdf" alt="EZproxy" class="csl-bib-button">EZproxy</a>
   </div>
   <div id="csl-bib-meta-container-HVTRQBR5"></div>
 </article>
@@ -51,7 +53,7 @@ In this study, concurrent training did not impair the adaptations in the ability
     <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1358</span> publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3#archive" class="sdg-publication-count"><span>1377</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div></div>
