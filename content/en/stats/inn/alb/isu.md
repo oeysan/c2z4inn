@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=7TRARPE3">Go to archive</a>
 <h1>Overview for Department of Forestry and Wildlife Management</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">572</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">624</span></p>
+<p>Publications: <span class="stats-n">582</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">628</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -47,7 +47,7 @@ encoding: UTF-8
                     7,
                     78,
                     27,
-                    420,
+                    424,
                     5,
                     1
                 ],
@@ -129,7 +129,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_en.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=15&collection=7TRARPE3#archive" class="sdg-publication-count"><span>420</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=15&collection=7TRARPE3#archive" class="sdg-publication-count"><span>424</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal15" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg13" class="sdg">

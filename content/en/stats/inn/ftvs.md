@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=8XUDF4FD">Go to archive</a>
 <h1>Overview for Faculty of Audiovisual Media and Creative Technologies</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">131</span></p>
+<p>Publications: <span class="stats-n">132</span></p>
 <p>Sustainable Development Goals: <span class="stats-n">99</span></p>
 </div>
 <div class="stats-graphs">
@@ -35,7 +35,7 @@ encoding: UTF-8
                     1.25,
                     2,
                     1.9,
-                    3.3333
+                    2.75
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     0.875,
                     3.1111,
                     2.6,
-                    1.6667
+                    1.25
                 ],
                 "borderRadius": 0
             }
@@ -128,14 +128,14 @@ encoding: UTF-8
                 "data": [
                     1,
                     14,
-                    9,
+                    10,
                     3,
                     5,
                     4,
                     7,
                     17,
                     3,
-                    7,
+                    6,
                     10,
                     5,
                     2,
@@ -230,17 +230,17 @@ encoding: UTF-8
           <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>14</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
+      </div><div id="sdg4" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>10</span> Publications</a>
+          <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
+        </div>
       </div><div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_en.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
           <a href="{{< params subfolder >}}en/archive/?sdg=12&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>10</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal12" class="sdg-read-more">Read More</a></p>
-        </div>
-      </div><div id="sdg4" class="sdg">
-        <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
-        <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>9</span> Publications</a>
-          <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
@@ -257,7 +257,7 @@ encoding: UTF-8
       </div><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_en.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>7</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=11&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>6</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal11" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg6" class="sdg">

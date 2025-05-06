@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=3IQA89I8">Gå til arkivet</a>
 <h1>Oversikt for Institutt for økonomifag</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">484</span></p>
+<p>Publikasjonar: <span class="stats-n">486</span></p>
 <p>Berekraftsmål: <span class="stats-n">567</span></p>
 </div>
 <div class="stats-graphs">

@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=XY7UYWKQ">Go to archive</a>
 <h1>Overview for Department of Social Sciences, Religion and Ethics</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">145</span></p>
+<p>Publications: <span class="stats-n">146</span></p>
 <p>Sustainable Development Goals: <span class="stats-n">169</span></p>
 </div>
 <div class="stats-graphs">

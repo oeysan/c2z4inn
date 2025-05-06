@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=XY7UYWKQ">Gå til arkivet</a>
 <h1>Oversikt for Institutt for samfunnsfag, religion og etikk</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">145</span></p>
+<p>Publikasjonar: <span class="stats-n">146</span></p>
 <p>Berekraftsmål: <span class="stats-n">169</span></p>
 </div>
 <div class="stats-graphs">

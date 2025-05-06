@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=VL6KDQ85">Gå til arkivet</a>
 <h1>Oversikt for Institutt for bioteknologi</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">155</span></p>
-<p>Berekraftsmål: <span class="stats-n">137</span></p>
+<p>Publikasjonar: <span class="stats-n">157</span></p>
+<p>Berekraftsmål: <span class="stats-n">139</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -29,10 +29,10 @@ encoding: UTF-8
                 "label": "Publikasjonar",
                 "data": [
                     23,
-                    43,
+                    44,
                     5,
                     3,
-                    7,
+                    8,
                     7,
                     5,
                     6,
@@ -111,7 +111,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>43</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>44</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg15" class="sdg">
@@ -135,7 +135,7 @@ encoding: UTF-8
       </div><div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_nn.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=7&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>7</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=7&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>8</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ren-energi-til-alle?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg9" class="sdg">

@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=GTV4ECMZ">Go to archive</a>
 <h1>Overview for Department of Health and Nursing Sciences</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">599</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">772</span></p>
+<p>Publications: <span class="stats-n">605</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">774</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -33,7 +33,7 @@ encoding: UTF-8
                 "label": "Publications",
                 "data": [
                     3,
-                    511,
+                    514,
                     97,
                     28,
                     5,
@@ -44,7 +44,7 @@ encoding: UTF-8
                     1,
                     2,
                     1,
-                    45,
+                    44,
                     4
                 ],
                 "backgroundColor": [
@@ -123,7 +123,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>511</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>514</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
@@ -135,7 +135,7 @@ encoding: UTF-8
       </div><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_en.png" class="image" alt="SDG 16">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=16&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>45</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=16&collection=GTV4ECMZ#archive" class="sdg-publication-count"><span>44</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal16" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg10" class="sdg">

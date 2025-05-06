@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=WYNZA47F">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for lærerutdanning og pedagogikk</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">1400</span></p>
-<p>Berekraftsmål: <span class="stats-n">1536</span></p>
+<p>Publikasjonar: <span class="stats-n">1416</span></p>
+<p>Berekraftsmål: <span class="stats-n">1553</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -35,7 +35,7 @@ encoding: UTF-8
                     14.8333,
                     17.75,
                     20.4167,
-                    22.3333
+                    20.75
                 ],
                 "borderRadius": 0
             },
@@ -49,8 +49,8 @@ encoding: UTF-8
                     14.75,
                     16.6667,
                     23.8333,
-                    20.5833,
-                    13.6667
+                    21.0833,
+                    13
                 ],
                 "borderRadius": 0
             }
@@ -128,20 +128,20 @@ encoding: UTF-8
                     2,
                     1,
                     126,
-                    918,
-                    44,
+                    927,
+                    45,
                     2,
                     3,
                     32,
                     9,
-                    188,
+                    192,
                     20,
                     5,
-                    21,
+                    22,
                     2,
                     10,
                     129,
-                    24
+                    26
                 ],
                 "backgroundColor": [
                     "rgba(229, 36, 59, 1)",
@@ -222,13 +222,13 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=WYNZA47F#archive" class="sdg-publication-count"><span>918</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=WYNZA47F#archive" class="sdg-publication-count"><span>927</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=WYNZA47F#archive" class="sdg-publication-count"><span>188</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=WYNZA47F#archive" class="sdg-publication-count"><span>192</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg16" class="sdg">
@@ -246,7 +246,7 @@ encoding: UTF-8
       </div><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=WYNZA47F#archive" class="sdg-publication-count"><span>44</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=WYNZA47F#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg8" class="sdg">
@@ -258,13 +258,13 @@ encoding: UTF-8
       </div><div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_nn.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=17&collection=WYNZA47F#archive" class="sdg-publication-count"><span>24</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=17&collection=WYNZA47F#archive" class="sdg-publication-count"><span>26</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=13&collection=WYNZA47F#archive" class="sdg-publication-count"><span>21</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13&collection=WYNZA47F#archive" class="sdg-publication-count"><span>22</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg11" class="sdg">

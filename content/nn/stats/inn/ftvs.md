@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=8XUDF4FD">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for audiovisuelle medier og kreativ teknologi</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">131</span></p>
+<p>Publikasjonar: <span class="stats-n">132</span></p>
 <p>Berekraftsmål: <span class="stats-n">99</span></p>
 </div>
 <div class="stats-graphs">
@@ -35,7 +35,7 @@ encoding: UTF-8
                     1.25,
                     2,
                     1.9,
-                    3.3333
+                    2.75
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     0.875,
                     3.1111,
                     2.6,
-                    1.6667
+                    1.25
                 ],
                 "borderRadius": 0
             }
@@ -126,14 +126,14 @@ encoding: UTF-8
                 "data": [
                     1,
                     14,
-                    9,
+                    10,
                     3,
                     5,
                     4,
                     7,
                     17,
                     3,
-                    7,
+                    6,
                     10,
                     5,
                     2,
@@ -228,17 +228,17 @@ encoding: UTF-8
           <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>14</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
+      </div><div id="sdg4" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>10</span> Publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
       </div><div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_nn.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
           <a href="{{< params subfolder >}}nn/archive/?sdg=12&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>10</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/ansvarlig-forbruk-og-produksjon?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
-        </div>
-      </div><div id="sdg4" class="sdg">
-        <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
-        <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>9</span> Publikasjonar</a>
-          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
@@ -255,7 +255,7 @@ encoding: UTF-8
       </div><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=11&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>7</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg6" class="sdg">

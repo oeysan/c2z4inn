@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=VBB2T4VJ">Go to archive</a>
 <h1>Overview for Department of Art and Cultural Studies</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">135</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">140</span></p>
+<p>Publications: <span class="stats-n">137</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">142</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -32,8 +32,8 @@ encoding: UTF-8
                 "label": "Publications",
                 "data": [
                     7,
-                    73,
-                    14,
+                    74,
+                    15,
                     1,
                     1,
                     1,
@@ -120,7 +120,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>73</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>74</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg10" class="sdg">
@@ -132,7 +132,7 @@ encoding: UTF-8
       </div><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_en.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=5&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>14</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=5&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>15</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal5" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg3" class="sdg">

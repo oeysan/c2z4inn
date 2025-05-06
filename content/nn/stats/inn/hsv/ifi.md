@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=FJXE3Z8X">Gå til arkivet</a>
 <h1>Oversikt for Institutt for folkehelse- og idrettsvitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">560</span></p>
-<p>Berekraftsmål: <span class="stats-n">671</span></p>
+<p>Publikasjonar: <span class="stats-n">565</span></p>
+<p>Berekraftsmål: <span class="stats-n">675</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -32,17 +32,17 @@ encoding: UTF-8
                 "label": "Publikasjonar",
                 "data": [
                     2,
-                    393,
-                    130,
+                    396,
+                    132,
                     26,
                     1,
-                    10,
+                    11,
                     4,
                     45,
-                    25,
+                    24,
                     2,
                     1,
-                    27,
+                    26,
                     5
                 ],
                 "backgroundColor": [
@@ -120,13 +120,13 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>393</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>396</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>130</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>132</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">
@@ -135,28 +135,28 @@ encoding: UTF-8
           <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>45</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
-      </div><div id="sdg16" class="sdg">
-        <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
-        <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=16&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>27</span> Publikasjonar</a>
-          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
-        </div>
       </div><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
           <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>26</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
+      </div><div id="sdg16" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}nn/archive/?sdg=16&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>26</span> Publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/fred-rettferdighet-og-velfungerende-institusjoner?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
       </div><div id="sdg11" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg11_nn.png" class="image" alt="SDG 11">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=11&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>25</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=11&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>24</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/baerekraftige-byer-og-lokalsamfunn?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg8" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg08_nn.png" class="image" alt="SDG 8">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=8&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>10</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=8&collection=FJXE3Z8X#archive" class="sdg-publication-count"><span>11</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/anstendig-arbeid-og-oekonomisk-vekst?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg17" class="sdg">

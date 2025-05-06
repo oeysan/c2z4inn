@@ -27,7 +27,7 @@ encoding: UTF-8
             {
                 "label": "Mål 2: Utrydde svolt",
                 "data": [
-                    102,
+                    104,
                     1,
                     2,
                     25
@@ -38,10 +38,10 @@ encoding: UTF-8
             {
                 "label": "Mål 3: Gode helse og livskvalitet",
                 "data": [
-                    85,
+                    86,
                     126,
-                    954,
-                    235
+                    961,
+                    240
                 ],
                 "backgroundColor": "rgba(76, 159, 56, 1)",
                 "borderRadius": 0
@@ -50,8 +50,8 @@ encoding: UTF-8
                 "label": "Mål 4: God utdanning",
                 "data": [
                     6,
-                    918,
-                    284,
+                    927,
+                    286,
                     156
                 ],
                 "backgroundColor": "rgba(197, 25, 45, 1)",
@@ -61,7 +61,7 @@ encoding: UTF-8
                 "label": "Mål 5: Likestilling mellom kjønna",
                 "data": [
                     2,
-                    44,
+                    45,
                     62,
                     39
                 ],
@@ -82,7 +82,7 @@ encoding: UTF-8
             {
                 "label": "Mål 7: Rein energi til alle",
                 "data": [
-                    10,
+                    11,
                     3,
                     1,
                     61
@@ -95,7 +95,7 @@ encoding: UTF-8
                 "data": [
                     8,
                     32,
-                    65,
+                    66,
                     351
                 ],
                 "backgroundColor": "rgba(162, 25, 66, 1)",
@@ -116,9 +116,9 @@ encoding: UTF-8
                 "label": "Mål 10: Mindre ulikskap",
                 "data": [
                     2,
-                    188,
+                    192,
                     131,
-                    90
+                    91
                 ],
                 "backgroundColor": "rgba(221, 19, 103, 1)",
                 "borderRadius": 0
@@ -128,8 +128,8 @@ encoding: UTF-8
                 "data": [
                     15,
                     20,
-                    39,
-                    152
+                    38,
+                    153
                 ],
                 "backgroundColor": "rgba(253, 157, 36, 1)",
                 "borderRadius": 0
@@ -149,7 +149,7 @@ encoding: UTF-8
                 "label": "Mål 13: Stoppe klimaendringane",
                 "data": [
                     108,
-                    21,
+                    22,
                     5,
                     121
                 ],
@@ -170,7 +170,7 @@ encoding: UTF-8
             {
                 "label": "Mål 15: Livet på land",
                 "data": [
-                    494,
+                    498,
                     10,
                     3,
                     33
@@ -183,8 +183,8 @@ encoding: UTF-8
                 "data": [
                     5,
                     129,
-                    115,
-                    230
+                    113,
+                    232
                 ],
                 "backgroundColor": "rgba(0, 104, 157, 1)",
                 "borderRadius": 0
@@ -193,7 +193,7 @@ encoding: UTF-8
                 "label": "Mål 17: Samarbeid for å nå måla",
                 "data": [
                     1,
-                    24,
+                    26,
                     13,
                     76
                 ],

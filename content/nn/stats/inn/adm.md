@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=QP7PBTSZ">Gå til arkivet</a>
 <h1>Oversikt for Administrasjonen</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">78</span></p>
-<p>Berekraftsmål: <span class="stats-n">73</span></p>
+<p>Publikasjonar: <span class="stats-n">81</span></p>
+<p>Berekraftsmål: <span class="stats-n">75</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -35,7 +35,7 @@ encoding: UTF-8
                     1.2,
                     1.1667,
                     3,
-                    2
+                    2.3333
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     1.2,
                     0.8333,
                     3.4286,
-                    0.5
+                    1
                 ],
                 "borderRadius": 0
             }
@@ -111,21 +111,23 @@ encoding: UTF-8
             "Mål 10: Mindre ulikskap",
             "Mål 11: Berekraftig byar og lokalsamfunn",
             "Mål 15: Livet på land",
-            "Mål 16: Fred, rettferd og velfungerande institusjonar"
+            "Mål 16: Fred, rettferd og velfungerande institusjonar",
+            "Mål 17: Samarbeid for å nå måla"
         ],
         "datasets": [
             {
                 "label": "Publikasjonar",
                 "data": [
                     13,
-                    36,
+                    37,
                     2,
                     2,
                     1,
                     4,
                     9,
                     1,
-                    5
+                    5,
+                    1
                 ],
                 "backgroundColor": [
                     "rgba(76, 159, 56, 1)",
@@ -136,7 +138,8 @@ encoding: UTF-8
                     "rgba(221, 19, 103, 1)",
                     "rgba(253, 157, 36, 1)",
                     "rgba(86, 192, 43, 1)",
-                    "rgba(0, 104, 157, 1)"
+                    "rgba(0, 104, 157, 1)",
+                    "rgba(25, 72, 106, 1)"
                 ],
                 "borderRadius": 0
             }
@@ -198,7 +201,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=QP7PBTSZ#archive" class="sdg-publication-count"><span>36</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=QP7PBTSZ#archive" class="sdg-publication-count"><span>37</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg3" class="sdg">
@@ -248,6 +251,12 @@ encoding: UTF-8
         <div class="sdg-overlay">
           <a href="{{< params subfolder >}}nn/archive/?sdg=15&collection=QP7PBTSZ#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div><div id="sdg17" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg17_nn.png" class="image" alt="SDG 17">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}nn/archive/?sdg=17&collection=QP7PBTSZ#archive" class="sdg-publication-count"><span>1</span> Publikasjon</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div></div>
 </div>

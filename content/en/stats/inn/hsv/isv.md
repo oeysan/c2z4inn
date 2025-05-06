@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=CU4VFGCV">Go to archive</a>
 <h1>Overview for Department of Social Work and Guidance</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">294</span></p>
+<p>Publications: <span class="stats-n">296</span></p>
 <p>Sustainable Development Goals: <span class="stats-n">354</span></p>
 </div>
 <div class="stats-graphs">

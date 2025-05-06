@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=G3SEU2Z2">Gå til arkivet</a>
 <h1>Oversikt for Senter for praksisrettet utdanningsforskning</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">94</span></p>
+<p>Publikasjonar: <span class="stats-n">95</span></p>
 <p>Berekraftsmål: <span class="stats-n">114</span></p>
 </div>
 <div class="stats-graphs">

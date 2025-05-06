@@ -5,7 +5,7 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=G3SEU2Z2">Go to archive</a>
 <h1>Overview for Centre for Studies of Educational Practice</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">94</span></p>
+<p>Publications: <span class="stats-n">95</span></p>
 <p>Sustainable Development Goals: <span class="stats-n">114</span></p>
 </div>
 <div class="stats-graphs">

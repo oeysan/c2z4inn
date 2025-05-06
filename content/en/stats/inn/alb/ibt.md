@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=VL6KDQ85">Go to archive</a>
 <h1>Overview for Department of Biotechnology</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">155</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">137</span></p>
+<p>Publications: <span class="stats-n">157</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">139</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -29,10 +29,10 @@ encoding: UTF-8
                 "label": "Publications",
                 "data": [
                     23,
-                    43,
+                    44,
                     5,
                     3,
-                    7,
+                    8,
                     7,
                     5,
                     6,
@@ -111,7 +111,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>43</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>44</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg15" class="sdg">
@@ -135,7 +135,7 @@ encoding: UTF-8
       </div><div id="sdg7" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg07_en.png" class="image" alt="SDG 7">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=7&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>7</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=7&collection=VL6KDQ85#archive" class="sdg-publication-count"><span>8</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal7" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg9" class="sdg">

@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=SSN4QLEC">Go to archive</a>
 <h1>Overview for Department of Agricultural Sciences</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">134</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">164</span></p>
+<p>Publications: <span class="stats-n">137</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">166</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -27,7 +27,7 @@ encoding: UTF-8
             {
                 "label": "Publications",
                 "data": [
-                    69,
+                    71,
                     2,
                     4,
                     1,
@@ -108,7 +108,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_en.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=2&collection=SSN4QLEC#archive" class="sdg-publication-count"><span>69</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=2&collection=SSN4QLEC#archive" class="sdg-publication-count"><span>71</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal2" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg15" class="sdg">

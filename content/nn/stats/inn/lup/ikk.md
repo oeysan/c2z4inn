@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=VBB2T4VJ">Gå til arkivet</a>
 <h1>Oversikt for Institutt for kunstfag og kulturstudier</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">135</span></p>
-<p>Berekraftsmål: <span class="stats-n">140</span></p>
+<p>Publikasjonar: <span class="stats-n">137</span></p>
+<p>Berekraftsmål: <span class="stats-n">142</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -32,8 +32,8 @@ encoding: UTF-8
                 "label": "Publikasjonar",
                 "data": [
                     7,
-                    73,
-                    14,
+                    74,
+                    15,
                     1,
                     1,
                     1,
@@ -120,7 +120,7 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>73</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>74</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">
@@ -132,7 +132,7 @@ encoding: UTF-8
       </div><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>14</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=VBB2T4VJ#archive" class="sdg-publication-count"><span>15</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg3" class="sdg">
