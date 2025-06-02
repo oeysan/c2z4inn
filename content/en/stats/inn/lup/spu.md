@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}en/archive/?&collection=G3SEU2Z2">Go to archive</a>
 <h1>Overview for Centre for Studies of Educational Practice</h1>
 <div id="stats-descriptives">
-<p>Publications: <span class="stats-n">95</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">114</span></p>
+<p>Publications: <span class="stats-n">96</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">116</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -25,8 +25,8 @@ encoding: UTF-8
             {
                 "label": "Publications",
                 "data": [
-                    21,
-                    72,
+                    22,
+                    73,
                     6,
                     1,
                     8,
@@ -102,13 +102,13 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_en.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>72</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=4&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>73</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal4" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_en.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>21</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=3&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>22</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal3" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg10" class="sdg">

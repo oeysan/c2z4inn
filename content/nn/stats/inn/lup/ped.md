@@ -6,7 +6,7 @@ encoding: UTF-8
 <h1>Oversikt for Institutt for pedagogikk – Lillehammer</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">258</span></p>
-<p>Berekraftsmål: <span class="stats-n">342</span></p>
+<p>Berekraftsmål: <span class="stats-n">343</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -37,7 +37,7 @@ encoding: UTF-8
                     3,
                     4,
                     36,
-                    6
+                    7
                 ],
                 "backgroundColor": [
                     "rgba(76, 159, 56, 1)",
@@ -141,7 +141,7 @@ encoding: UTF-8
       </div><div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_nn.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=17&collection=L8MA547R#archive" class="sdg-publication-count"><span>6</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=17&collection=L8MA547R#archive" class="sdg-publication-count"><span>7</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/samarbeid-for-aa-naa-maalene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg9" class="sdg">

@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=T77LXH6D">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for anvendt økologi, landbruksfag og bioteknologi</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">857</span></p>
-<p>Berekraftsmål: <span class="stats-n">914</span></p>
+<p>Publikasjonar: <span class="stats-n">869</span></p>
+<p>Berekraftsmål: <span class="stats-n">924</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -35,7 +35,7 @@ encoding: UTF-8
                     10.3333,
                     15.5,
                     12.5,
-                    12.5
+                    12.4
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     12.6667,
                     16.9167,
                     11.8333,
-                    10.5
+                    10.4
                 ],
                 "borderRadius": 0
             }
@@ -124,8 +124,8 @@ encoding: UTF-8
             {
                 "label": "Publikasjonar",
                 "data": [
-                    104,
-                    86,
+                    106,
+                    88,
                     6,
                     2,
                     8,
@@ -135,9 +135,9 @@ encoding: UTF-8
                     2,
                     15,
                     16,
-                    108,
+                    110,
                     34,
-                    498,
+                    502,
                     5,
                     1
                 ],
@@ -219,25 +219,25 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15&collection=T77LXH6D#archive" class="sdg-publication-count"><span>498</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15&collection=T77LXH6D#archive" class="sdg-publication-count"><span>502</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=13&collection=T77LXH6D#archive" class="sdg-publication-count"><span>108</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13&collection=T77LXH6D#archive" class="sdg-publication-count"><span>110</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg2" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg02_nn.png" class="image" alt="SDG 2">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=2&collection=T77LXH6D#archive" class="sdg-publication-count"><span>104</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=2&collection=T77LXH6D#archive" class="sdg-publication-count"><span>106</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/utrydde-sult?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=T77LXH6D#archive" class="sdg-publication-count"><span>86</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=T77LXH6D#archive" class="sdg-publication-count"><span>88</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg14" class="sdg">

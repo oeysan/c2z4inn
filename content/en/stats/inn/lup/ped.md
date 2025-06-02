@@ -6,7 +6,7 @@ encoding: UTF-8
 <h1>Overview for Department of Pedagogy – Lillehammer</h1>
 <div id="stats-descriptives">
 <p>Publications: <span class="stats-n">258</span></p>
-<p>Sustainable Development Goals: <span class="stats-n">342</span></p>
+<p>Sustainable Development Goals: <span class="stats-n">343</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -37,7 +37,7 @@ encoding: UTF-8
                     3,
                     4,
                     36,
-                    6
+                    7
                 ],
                 "backgroundColor": [
                     "rgba(76, 159, 56, 1)",
@@ -141,7 +141,7 @@ encoding: UTF-8
       </div><div id="sdg17" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg17_en.png" class="image" alt="SDG 17">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}en/archive/?sdg=17&collection=L8MA547R#archive" class="sdg-publication-count"><span>6</span> Publications</a>
+          <a href="{{< params subfolder >}}en/archive/?sdg=17&collection=L8MA547R#archive" class="sdg-publication-count"><span>7</span> Publications</a>
           <p><a href="https://sdgs.un.org/goals/goal17" class="sdg-read-more">Read More</a></p>
         </div>
       </div><div id="sdg9" class="sdg">

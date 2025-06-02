@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=7TRARPE3">Gå til arkivet</a>
 <h1>Oversikt for Institutt for skog- og utmarksfag</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">582</span></p>
-<p>Berekraftsmål: <span class="stats-n">628</span></p>
+<p>Publikasjonar: <span class="stats-n">588</span></p>
+<p>Berekraftsmål: <span class="stats-n">633</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -35,7 +35,7 @@ encoding: UTF-8
                 "label": "Publikasjonar",
                 "data": [
                     15,
-                    41,
+                    42,
                     1,
                     2,
                     1,
@@ -45,9 +45,9 @@ encoding: UTF-8
                     1,
                     15,
                     7,
-                    78,
+                    79,
                     27,
-                    424,
+                    427,
                     5,
                     1
                 ],
@@ -129,19 +129,19 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg15" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg15_nn.png" class="image" alt="SDG 15">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=15&collection=7TRARPE3#archive" class="sdg-publication-count"><span>424</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=15&collection=7TRARPE3#archive" class="sdg-publication-count"><span>427</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/livet-paa-land?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg13" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg13_nn.png" class="image" alt="SDG 13">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=13&collection=7TRARPE3#archive" class="sdg-publication-count"><span>78</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=13&collection=7TRARPE3#archive" class="sdg-publication-count"><span>79</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/stoppe-klimaendringene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=7TRARPE3#archive" class="sdg-publication-count"><span>41</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=7TRARPE3#archive" class="sdg-publication-count"><span>42</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg14" class="sdg">

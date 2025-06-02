@@ -6,7 +6,7 @@ encoding: UTF-8
 <h1>Oversikt for Østlandsforskning</h1>
 <div id="stats-descriptives">
 <p>Publikasjonar: <span class="stats-n">107</span></p>
-<p>Berekraftsmål: <span class="stats-n">130</span></p>
+<p>Berekraftsmål: <span class="stats-n">129</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -39,7 +39,7 @@ encoding: UTF-8
                     1,
                     35,
                     16,
-                    9,
+                    8,
                     17,
                     9,
                     5,
@@ -138,12 +138,6 @@ encoding: UTF-8
           <a href="{{< params subfolder >}}nn/archive/?sdg=9&collection=IRYXBU4S#archive" class="sdg-publication-count"><span>16</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/industri-innovasjon-og-infrastruktur?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
-      </div><div id="sdg10" class="sdg">
-        <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
-        <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=IRYXBU4S#archive" class="sdg-publication-count"><span>9</span> Publikasjonar</a>
-          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
-        </div>
       </div><div id="sdg12" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg12_nn.png" class="image" alt="SDG 12">
         <div class="sdg-overlay">
@@ -155,6 +149,12 @@ encoding: UTF-8
         <div class="sdg-overlay">
           <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=IRYXBU4S#archive" class="sdg-publication-count"><span>8</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
+        </div>
+      </div><div id="sdg10" class="sdg">
+        <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
+        <div class="sdg-overlay">
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=IRYXBU4S#archive" class="sdg-publication-count"><span>8</span> Publikasjonar</a>
+          <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg16" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg16_nn.png" class="image" alt="SDG 16">

@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=IDKFS3MX">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for helse- og sosialvitenskap</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">1406</span></p>
-<p>Berekraftsmål: <span class="stats-n">1708</span></p>
+<p>Publikasjonar: <span class="stats-n">1420</span></p>
+<p>Berekraftsmål: <span class="stats-n">1720</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -35,7 +35,7 @@ encoding: UTF-8
                     14.5833,
                     13,
                     19,
-                    17.5
+                    16.8
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     20.1667,
                     17.5,
                     21.1667,
-                    13
+                    12.8
                 ],
                 "borderRadius": 0
             }
@@ -126,14 +126,14 @@ encoding: UTF-8
                 "data": [
                     7,
                     2,
-                    961,
-                    286,
-                    62,
+                    969,
+                    288,
+                    63,
                     5,
                     1,
                     66,
                     12,
-                    131,
+                    132,
                     38,
                     3,
                     5,
@@ -219,19 +219,19 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>961</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>969</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>286</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>288</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg10_nn.png" class="image" alt="SDG 10">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>131</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=10&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>132</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/mindre-ulikhet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg16" class="sdg">
@@ -249,7 +249,7 @@ encoding: UTF-8
       </div><div id="sdg5" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg05_nn.png" class="image" alt="SDG 5">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>62</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=5&collection=IDKFS3MX#archive" class="sdg-publication-count"><span>63</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/likestilling-mellom-kjoennene?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg11" class="sdg">

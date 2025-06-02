@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=G3SEU2Z2">Gå til arkivet</a>
 <h1>Oversikt for Senter for praksisrettet utdanningsforskning</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">95</span></p>
-<p>Berekraftsmål: <span class="stats-n">114</span></p>
+<p>Publikasjonar: <span class="stats-n">96</span></p>
+<p>Berekraftsmål: <span class="stats-n">116</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart 550px 500px >}}{
@@ -25,8 +25,8 @@ encoding: UTF-8
             {
                 "label": "Publikasjonar",
                 "data": [
-                    21,
-                    72,
+                    22,
+                    73,
                     6,
                     1,
                     8,
@@ -102,13 +102,13 @@ encoding: UTF-8
   <div class="sdg-container"><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>72</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>73</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>21</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=G3SEU2Z2#archive" class="sdg-publication-count"><span>22</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg10" class="sdg">

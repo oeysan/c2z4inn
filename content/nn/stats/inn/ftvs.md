@@ -5,8 +5,8 @@ encoding: UTF-8
 <a id="archive-url" href="{{< params subfolder >}}nn/archive/?&collection=8XUDF4FD">Gå til arkivet</a>
 <h1>Oversikt for Fakultet for audiovisuelle medier og kreativ teknologi</h1>
 <div id="stats-descriptives">
-<p>Publikasjonar: <span class="stats-n">132</span></p>
-<p>Berekraftsmål: <span class="stats-n">99</span></p>
+<p>Publikasjonar: <span class="stats-n">134</span></p>
+<p>Berekraftsmål: <span class="stats-n">102</span></p>
 </div>
 <div class="stats-graphs">
 <div>{{< chart >}}{
@@ -35,7 +35,7 @@ encoding: UTF-8
                     1.25,
                     2,
                     1.9,
-                    2.75
+                    2.6
                 ],
                 "borderRadius": 0
             },
@@ -50,7 +50,7 @@ encoding: UTF-8
                     0.875,
                     3.1111,
                     2.6,
-                    1.25
+                    1.6
                 ],
                 "borderRadius": 0
             }
@@ -125,8 +125,8 @@ encoding: UTF-8
                 "label": "Publikasjonar",
                 "data": [
                     1,
-                    14,
-                    10,
+                    15,
+                    12,
                     3,
                     5,
                     4,
@@ -225,13 +225,13 @@ encoding: UTF-8
       </div><div id="sdg3" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg03_nn.png" class="image" alt="SDG 3">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>14</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=3&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>15</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-helse-og-livskvalitet?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg4" class="sdg">
         <img src="{{< params subfolder >}}images/sdg/sdg04_nn.png" class="image" alt="SDG 4">
         <div class="sdg-overlay">
-          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>10</span> Publikasjonar</a>
+          <a href="{{< params subfolder >}}nn/archive/?sdg=4&collection=8XUDF4FD#archive" class="sdg-publication-count"><span>12</span> Publikasjonar</a>
           <p><a href="https://fn.no/om-fn/fns-baerekraftsmaal/god-utdanning?lang=nno-NO" class="sdg-read-more">Les meir</a></p>
         </div>
       </div><div id="sdg12" class="sdg">
